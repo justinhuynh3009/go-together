@@ -1,0 +1,31 @@
+deployment:
+  tasks:
+    - export PATH=/opt/cpanel/composer/bin:$PATH
+    - echo "Starting deployment..."
+
+    # Go to the project directory
+    - cd ~/repositories/go-together
+
+    # Install PHP dependencies
+    - composer install --no-dev --optimize-autoloader
+
+    # Set permissions
+    - chmod -R 775 storage bootstrap/cache
+    - chown -R $USER:$USER .
+
+    # Migrate database
+    - php artisan migrate --force
+
+    # Clear cache
+    - php artisan config:clear
+    - php artisan route:clear
+    - php artisan view:clear
+
+    # Set permissions for storage and cache
+    - chmod -R 775 storage bootstrap/cache
+
+    # Create a symlink to public_html (replace existing link if necessary)
+    - rm -rf ~/public_html
+    - ln -s ~/repositories/go-together/public ~/public_html
+
+    - echo "Deployment complete!"
