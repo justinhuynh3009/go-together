@@ -9,6 +9,12 @@ deployment:
     # Install PHP dependencies
     - composer install --no-dev --optimize-autoloader
 
+    # Copy .env if not exists (optional)
+    # - [ ! -f .env ] && cp .env.example .env
+
+    # Generate application key if missing (optional)
+    # - grep -q 'APP_KEY=' .env || php artisan key:generate
+
     # Set permissions
     - chmod -R 775 storage bootstrap/cache
     - chown -R $USER:$USER .
