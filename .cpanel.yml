@@ -31,7 +31,7 @@ deployment:
     - chmod -R 775 storage bootstrap/cache
 
     # Create a symlink to public_html (replace existing link if necessary)
-    - rm -rf ~/public_html
-    - ln -s ~/repositories/go-together/public ~/public_html
+    # - rm -rf ~/public_html
+    # - ln -s ~/repositories/go-together/public ~/public_html
 
     - echo "Deployment complete!"
