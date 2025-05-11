@@ -1,22 +1,9 @@
 import MasterLayout from '@/Layouts/MasterLayout';
 import { PageProps } from '@/types';
 
-interface DashboardProps extends PageProps {
-    auth: {
-        user: {
-            id: number;
-            name: string;
-            email: string;
-            avatar?: string;
-        };
-    };
-}
+interface DashboardProps extends PageProps {}
 
-type DashboardComponent = React.FC<DashboardProps> & {
-    layout?: (page: React.ReactNode) => React.ReactNode;
-};
-
-const Dashboard: DashboardComponent = ({ auth }) => {
+const Dashboard = ({ auth }: DashboardProps) => {
     return (
         <>
             <h1>Dashboard</h1>

@@ -41,7 +41,7 @@ const Orders = ({ auth, orders }: Props) => {
             title: 'Status',
             dataIndex: 'status',
             key: 'status',
-            render: (status) => (
+            render: (status: any) => (
                 <span
                     className={`rounded-full px-2 py-1 text-xs ${status.color}`}
                 >
@@ -238,8 +238,10 @@ const Orders = ({ auth, orders }: Props) => {
     );
 };
 
-Orders.layout = (page: React.ReactNode) => (
-    <MasterLayout title="Menu Categories">{page}</MasterLayout>
+Orders.layout = (page: React.ReactElement<Props>) => (
+    <MasterLayout user={page?.props.auth.user} title="Menu Categories">
+        {page}
+    </MasterLayout>
 );
 
 export default Orders;

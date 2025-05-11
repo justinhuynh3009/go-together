@@ -13,7 +13,7 @@ import {
 } from 'antd';
 import React, { useEffect, useRef, useState } from 'react';
 
-const { Header, Footer, Sider, Content } = Layout;
+const { Header, Content } = Layout;
 
 const { Title, Text } = Typography;
 
@@ -40,7 +40,22 @@ const layoutStyle = {
     maxWidth: '600px',
 };
 
-const ProductCard = ({ product, quantity, onQuantityChange }) => {
+interface ProductCardProps {
+    product: {
+        id: number;
+        name: string;
+        price: number;
+        image_url: string;
+    };
+    quantity: number;
+    onQuantityChange: (delta: number) => void;
+}
+
+const ProductCard = ({
+    product,
+    quantity,
+    onQuantityChange,
+}: ProductCardProps) => {
     return (
         <Card cover={<img alt="example" src={product.image_url} />}>
             <Space direction="vertical" size={0}>
@@ -83,21 +98,21 @@ const VNDong = new Intl.NumberFormat('vi', {
 export default function OrderPage({ products }: Props) {
     const [carts, setCart] = useState<CartItem[]>([]);
     const [showCart, setShowCart] = useState(false);
-    const cartModalRef = useRef(null);
+    const cartModalRef = useRef<HTMLDivElement>(null);
     const [isSubmitting, setIsSubmitting] = useState(false);
 
     // Add this effect to handle outside clicks
     useEffect(() => {
-        const handleClickOutside = (event) => {
+        const handleClickOutside = (event: MouseEvent) => {
             if (
                 cartModalRef.current &&
-                !cartModalRef.current.contains(event.target)
+                !cartModalRef.current.contains(event.target as Node)
             ) {
                 // Check if the click was NOT on the floating cart button
                 const floatingButton = document.querySelector(
                     '.floating-cart-button',
                 );
-                if (!floatingButton.contains(event.target)) {
+                if (!floatingButton?.contains(event.target as Node)) {
                     setShowCart(false);
                 }
             }
@@ -115,21 +130,32 @@ export default function OrderPage({ products }: Props) {
     const submitOrder = () => {
         setIsSubmitting(true);
 
-        router.post(
-            route('orders.store'),
-            { carts: carts },
-            {
-                onSuccess: () => {
-                    message.success('Order placed successfully');
-                    setCart([]);
-                },
-                onError: (errors) => {
-                    console.error('Error placing order:', errors);
-                    message.error('Error placing order');
-                },
-                onFinish: () => setIsSubmitting(false),
+        const formData = new FormData();
+
+        // Append each cart item to the FormData object
+        carts.forEach((item, index) => {
+            formData.append(
+                `carts[${index}][product_id]`,
+                item.product_id.toString(),
+            );
+            formData.append(`carts[${index}][name]`, item.name);
+            formData.append(`carts[${index}][price]`, item.price.toString());
+            formData.append(
+                `carts[${index}][quantity]`,
+                item.quantity.toString(),
+            );
+        });
+
+        router.post(route('orders.store'), formData, {
+            onSuccess: () => {
+                message.success('Order placed successfully');
+                setCart([]);
             },
-        );
+            onError: (errors) => {
+                console.error('Error placing order:', errors);
+            },
+            onFinish: () => setIsSubmitting(false),
+        });
     };
 
     const handleQuantityChange = (productId: number, delta: number) => {
@@ -169,7 +195,6 @@ export default function OrderPage({ products }: Props) {
         }
 
         setCart(newCart);
-        console.log('Updated Cart:', newCart);
     };
 
     return (

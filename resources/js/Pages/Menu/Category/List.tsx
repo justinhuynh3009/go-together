@@ -235,8 +235,10 @@ const MenuCategories = ({ auth, categories }: Props) => {
     );
 };
 
-MenuCategories.layout = (page: React.ReactNode) => (
-    <MasterLayout title="Menu Categories">{page}</MasterLayout>
+MenuCategories.layout = (page: React.ReactElement<Props>) => (
+    <MasterLayout user={page?.props.auth.user} title="Menu Categories">
+        {page}
+    </MasterLayout>
 );
 
 export default MenuCategories;

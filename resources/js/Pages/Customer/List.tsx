@@ -1,10 +1,9 @@
 import MasterLayout from '@/Layouts/MasterLayout';
+import { PageProps } from '@/types';
 
-type CustomerComponent = React.FC & {
-    layout?: (page: React.ReactNode) => React.ReactNode;
-};
+interface Props extends PageProps {}
 
-const Customer: CustomerComponent = () => {
+const Customer = ({ auth }: Props) => {
     return (
         <>
             <h1>Customers</h1>
@@ -12,6 +11,10 @@ const Customer: CustomerComponent = () => {
     );
 };
 
-Customer.layout = (page) => <MasterLayout title="Welcome">{page}</MasterLayout>;
+Customer.layout = (page: React.ReactElement) => (
+    <MasterLayout user={page.props.auth.user} title="Customers">
+        {page}
+    </MasterLayout>
+);
 
 export default Customer;

@@ -97,8 +97,6 @@ const MasterLayout: React.FC<MasterLayoutProps> = ({
         token: { colorBgContainer, borderRadiusLG },
     } = theme.useToken();
 
-    console.log(user);
-
     return (
         <Layout style={{ minHeight: '100vh' }}>
             <Sider

@@ -42,8 +42,6 @@ const MenuItems = ({ auth, menuItems, categories }: Props) => {
     const [isModalVisible, setIsModalVisible] = useState(false);
     const [isSubmitting, setIsSubmitting] = useState(false);
 
-    console.log(menuItems);
-
     const columns = [
         { title: 'ID', dataIndex: 'id', key: 'id' },
         { title: 'Name', dataIndex: 'name', key: 'name' },
@@ -68,7 +66,7 @@ const MenuItems = ({ auth, menuItems, categories }: Props) => {
         {
             title: 'Action',
             key: 'action',
-            render: (_: any, record: Order) => (
+            render: (_: any, record: MenuItem) => (
                 <Space size="middle">
                     <Button
                         type="link"
@@ -123,6 +121,25 @@ const MenuItems = ({ auth, menuItems, categories }: Props) => {
             is_available: item.is_available,
         });
         setIsModalVisible(true);
+    };
+
+    const handleDelete = (id: number) => {
+        Modal.confirm({
+            title: 'Confirm Delete',
+            content: 'Are you sure you want to delete this item?',
+            okText: 'Delete',
+            cancelText: 'Cancel',
+            onOk: () => {
+                router.delete(route('menu-items.destroy', id), {
+                    onSuccess: () => {
+                        message.success('Product deleted successfully');
+                    },
+                    onError: (errors) => {
+                        message.error('Error deleting product');
+                    },
+                });
+            },
+        });
     };
 
     return (
@@ -260,8 +277,10 @@ const MenuItems = ({ auth, menuItems, categories }: Props) => {
     );
 };
 
-MenuItems.layout = (page: React.ReactNode) => (
-    <MasterLayout title="Menu Categories">{page}</MasterLayout>
+MenuItems.layout = (page: React.ReactElement<Props>) => (
+    <MasterLayout user={page?.props.auth.user} title="Menu Categories">
+        {page}
+    </MasterLayout>
 );
 
 export default MenuItems;
