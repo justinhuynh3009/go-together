@@ -9,6 +9,9 @@ deployment:
     # Install PHP dependencies
     - composer install --no-dev --optimize-autoloader
 
+    # Run build command for Inertia
+    - npm run build
+
     # Copy .env if not exists (optional)
     # - [ ! -f .env ] && cp .env.example .env
 
