@@ -1,0 +1,7092 @@
+[
+   {
+      "code": "883",
+      "name": "Long Xuyên",
+      "name_with_type": "Thành phố Long Xuyên",
+      "parent_code": "89",
+      "path": "Long Xuyên, An Giang",
+      "path_with_type": "Thành phố Long Xuyên, Tỉnh An Giang",
+      "slug": "long-xuyen",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "884",
+      "name": "Châu Đốc",
+      "name_with_type": "Thành phố Châu Đốc",
+      "parent_code": "89",
+      "path": "Châu Đốc, An Giang",
+      "path_with_type": "Thành phố Châu Đốc, Tỉnh An Giang",
+      "slug": "chau-doc",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "886",
+      "name": "An Phú",
+      "name_with_type": "Huyện An Phú",
+      "parent_code": "89",
+      "path": "An Phú, An Giang",
+      "path_with_type": "Huyện An Phú, Tỉnh An Giang",
+      "slug": "an-phu",
+      "type": "huyen"
+   },
+   {
+      "code": "887",
+      "name": "Tân Châu",
+      "name_with_type": "Thị xã Tân Châu",
+      "parent_code": "89",
+      "path": "Tân Châu, An Giang",
+      "path_with_type": "Thị xã Tân Châu, Tỉnh An Giang",
+      "slug": "tan-chau",
+      "type": "thi-xa"
+   },
+   {
+      "code": "888",
+      "name": "Phú Tân",
+      "name_with_type": "Huyện Phú Tân",
+      "parent_code": "89",
+      "path": "Phú Tân, An Giang",
+      "path_with_type": "Huyện Phú Tân, Tỉnh An Giang",
+      "slug": "phu-tan",
+      "type": "huyen"
+   },
+   {
+      "code": "889",
+      "name": "Châu Phú",
+      "name_with_type": "Huyện Châu Phú",
+      "parent_code": "89",
+      "path": "Châu Phú, An Giang",
+      "path_with_type": "Huyện Châu Phú, Tỉnh An Giang",
+      "slug": "chau-phu",
+      "type": "huyen"
+   },
+   {
+      "code": "890",
+      "name": "Tịnh Biên",
+      "name_with_type": "Huyện Tịnh Biên",
+      "parent_code": "89",
+      "path": "Tịnh Biên, An Giang",
+      "path_with_type": "Huyện Tịnh Biên, Tỉnh An Giang",
+      "slug": "tinh-bien",
+      "type": "huyen"
+   },
+   {
+      "code": "891",
+      "name": "Tri Tôn",
+      "name_with_type": "Huyện Tri Tôn",
+      "parent_code": "89",
+      "path": "Tri Tôn, An Giang",
+      "path_with_type": "Huyện Tri Tôn, Tỉnh An Giang",
+      "slug": "tri-ton",
+      "type": "huyen"
+   },
+   {
+      "code": "892",
+      "name": "Châu Thành",
+      "name_with_type": "Huyện Châu Thành",
+      "parent_code": "89",
+      "path": "Châu Thành, An Giang",
+      "path_with_type": "Huyện Châu Thành, Tỉnh An Giang",
+      "slug": "chau-thanh",
+      "type": "huyen"
+   },
+   {
+      "code": "893",
+      "name": "Chợ Mới",
+      "name_with_type": "Huyện Chợ Mới",
+      "parent_code": "89",
+      "path": "Chợ Mới, An Giang",
+      "path_with_type": "Huyện Chợ Mới, Tỉnh An Giang",
+      "slug": "cho-moi",
+      "type": "huyen"
+   },
+   {
+      "code": "894",
+      "name": "Thoại Sơn",
+      "name_with_type": "Huyện Thoại Sơn",
+      "parent_code": "89",
+      "path": "Thoại Sơn, An Giang",
+      "path_with_type": "Huyện Thoại Sơn, Tỉnh An Giang",
+      "slug": "thoai-son",
+      "type": "huyen"
+   },
+   {
+      "code": "608",
+      "name": "Kon Tum",
+      "name_with_type": "Thành phố Kon Tum",
+      "parent_code": "62",
+      "path": "Kon Tum, Kon Tum",
+      "path_with_type": "Thành phố Kon Tum, Tỉnh Kon Tum",
+      "slug": "kon-tum",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "610",
+      "name": "Đắk Glei",
+      "name_with_type": "Huyện Đắk Glei",
+      "parent_code": "62",
+      "path": "Đắk Glei, Kon Tum",
+      "path_with_type": "Huyện Đắk Glei, Tỉnh Kon Tum",
+      "slug": "dak-glei",
+      "type": "huyen"
+   },
+   {
+      "code": "611",
+      "name": "Ngọc Hồi",
+      "name_with_type": "Huyện Ngọc Hồi",
+      "parent_code": "62",
+      "path": "Ngọc Hồi, Kon Tum",
+      "path_with_type": "Huyện Ngọc Hồi, Tỉnh Kon Tum",
+      "slug": "ngoc-hoi",
+      "type": "huyen"
+   },
+   {
+      "code": "612",
+      "name": "Đắk Tô",
+      "name_with_type": "Huyện Đắk Tô",
+      "parent_code": "62",
+      "path": "Đắk Tô, Kon Tum",
+      "path_with_type": "Huyện Đắk Tô, Tỉnh Kon Tum",
+      "slug": "dak-to",
+      "type": "huyen"
+   },
+   {
+      "code": "613",
+      "name": "Kon Plông",
+      "name_with_type": "Huyện Kon Plông",
+      "parent_code": "62",
+      "path": "Kon Plông, Kon Tum",
+      "path_with_type": "Huyện Kon Plông, Tỉnh Kon Tum",
+      "slug": "kon-plong",
+      "type": "huyen"
+   },
+   {
+      "code": "614",
+      "name": "Kon Rẫy",
+      "name_with_type": "Huyện Kon Rẫy",
+      "parent_code": "62",
+      "path": "Kon Rẫy, Kon Tum",
+      "path_with_type": "Huyện Kon Rẫy, Tỉnh Kon Tum",
+      "slug": "kon-ray",
+      "type": "huyen"
+   },
+   {
+      "code": "615",
+      "name": "Đắk Hà",
+      "name_with_type": "Huyện Đắk Hà",
+      "parent_code": "62",
+      "path": "Đắk Hà, Kon Tum",
+      "path_with_type": "Huyện Đắk Hà, Tỉnh Kon Tum",
+      "slug": "dak-ha",
+      "type": "huyen"
+   },
+   {
+      "code": "616",
+      "name": "Sa Thầy",
+      "name_with_type": "Huyện Sa Thầy",
+      "parent_code": "62",
+      "path": "Sa Thầy, Kon Tum",
+      "path_with_type": "Huyện Sa Thầy, Tỉnh Kon Tum",
+      "slug": "sa-thay",
+      "type": "huyen"
+   },
+   {
+      "code": "617",
+      "name": "Tu Mơ Rông",
+      "name_with_type": "Huyện Tu Mơ Rông",
+      "parent_code": "62",
+      "path": "Tu Mơ Rông, Kon Tum",
+      "path_with_type": "Huyện Tu Mơ Rông, Tỉnh Kon Tum",
+      "slug": "tu-mo-rong",
+      "type": "huyen"
+   },
+   {
+      "code": "618",
+      "name": "Ia H Drai",
+      "name_with_type": "Huyện Ia H Drai",
+      "parent_code": "62",
+      "path": "Ia H Drai, Kon Tum",
+      "path_with_type": "Huyện Ia H Drai, Tỉnh Kon Tum",
+      "slug": "ia-h-drai",
+      "type": "huyen"
+   },
+   {
+      "code": "660",
+      "name": "Gia Nghĩa",
+      "name_with_type": "Thị xã Gia Nghĩa",
+      "parent_code": "67",
+      "path": "Gia Nghĩa, Đắk Nông",
+      "path_with_type": "Thị xã Gia Nghĩa, Tỉnh Đắk Nông",
+      "slug": "gia-nghia",
+      "type": "thi-xa"
+   },
+   {
+      "code": "661",
+      "name": "Đăk Glong",
+      "name_with_type": "Huyện Đăk Glong",
+      "parent_code": "67",
+      "path": "Đăk Glong, Đắk Nông",
+      "path_with_type": "Huyện Đăk Glong, Tỉnh Đắk Nông",
+      "slug": "dak-glong",
+      "type": "huyen"
+   },
+   {
+      "code": "662",
+      "name": "Cư Jút",
+      "name_with_type": "Huyện Cư Jút",
+      "parent_code": "67",
+      "path": "Cư Jút, Đắk Nông",
+      "path_with_type": "Huyện Cư Jút, Tỉnh Đắk Nông",
+      "slug": "cu-jut",
+      "type": "huyen"
+   },
+   {
+      "code": "663",
+      "name": "Đắk Mil",
+      "name_with_type": "Huyện Đắk Mil",
+      "parent_code": "67",
+      "path": "Đắk Mil, Đắk Nông",
+      "path_with_type": "Huyện Đắk Mil, Tỉnh Đắk Nông",
+      "slug": "dak-mil",
+      "type": "huyen"
+   },
+   {
+      "code": "664",
+      "name": "Krông Nô",
+      "name_with_type": "Huyện Krông Nô",
+      "parent_code": "67",
+      "path": "Krông Nô, Đắk Nông",
+      "path_with_type": "Huyện Krông Nô, Tỉnh Đắk Nông",
+      "slug": "krong-no",
+      "type": "huyen"
+   },
+   {
+      "code": "665",
+      "name": "Đắk Song",
+      "name_with_type": "Huyện Đắk Song",
+      "parent_code": "67",
+      "path": "Đắk Song, Đắk Nông",
+      "path_with_type": "Huyện Đắk Song, Tỉnh Đắk Nông",
+      "slug": "dak-song",
+      "type": "huyen"
+   },
+   {
+      "code": "666",
+      "name": "Đắk RLấp",
+      "name_with_type": "Huyện Đắk RLấp",
+      "parent_code": "67",
+      "path": "Đắk RLấp, Đắk Nông",
+      "path_with_type": "Huyện Đắk RLấp, Tỉnh Đắk Nông",
+      "slug": "dak-r-lap",
+      "type": "huyen"
+   },
+   {
+      "code": "667",
+      "name": "Tuy Đức",
+      "name_with_type": "Huyện Tuy Đức",
+      "parent_code": "67",
+      "path": "Tuy Đức, Đắk Nông",
+      "path_with_type": "Huyện Tuy Đức, Tỉnh Đắk Nông",
+      "slug": "tuy-duc",
+      "type": "huyen"
+   },
+   {
+      "code": "941",
+      "name": "Sóc Trăng",
+      "name_with_type": "Thành phố Sóc Trăng",
+      "parent_code": "94",
+      "path": "Sóc Trăng, Sóc Trăng",
+      "path_with_type": "Thành phố Sóc Trăng, Tỉnh Sóc Trăng",
+      "slug": "soc-trang",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "942",
+      "name": "Châu Thành",
+      "name_with_type": "Huyện Châu Thành",
+      "parent_code": "94",
+      "path": "Châu Thành, Sóc Trăng",
+      "path_with_type": "Huyện Châu Thành, Tỉnh Sóc Trăng",
+      "slug": "chau-thanh",
+      "type": "huyen"
+   },
+   {
+      "code": "943",
+      "name": "Kế Sách",
+      "name_with_type": "Huyện Kế Sách",
+      "parent_code": "94",
+      "path": "Kế Sách, Sóc Trăng",
+      "path_with_type": "Huyện Kế Sách, Tỉnh Sóc Trăng",
+      "slug": "ke-sach",
+      "type": "huyen"
+   },
+   {
+      "code": "944",
+      "name": "Mỹ Tú",
+      "name_with_type": "Huyện Mỹ Tú",
+      "parent_code": "94",
+      "path": "Mỹ Tú, Sóc Trăng",
+      "path_with_type": "Huyện Mỹ Tú, Tỉnh Sóc Trăng",
+      "slug": "my-tu",
+      "type": "huyen"
+   },
+   {
+      "code": "945",
+      "name": "Cù Lao Dung",
+      "name_with_type": "Huyện Cù Lao Dung",
+      "parent_code": "94",
+      "path": "Cù Lao Dung, Sóc Trăng",
+      "path_with_type": "Huyện Cù Lao Dung, Tỉnh Sóc Trăng",
+      "slug": "cu-lao-dung",
+      "type": "huyen"
+   },
+   {
+      "code": "946",
+      "name": "Long Phú",
+      "name_with_type": "Huyện Long Phú",
+      "parent_code": "94",
+      "path": "Long Phú, Sóc Trăng",
+      "path_with_type": "Huyện Long Phú, Tỉnh Sóc Trăng",
+      "slug": "long-phu",
+      "type": "huyen"
+   },
+   {
+      "code": "947",
+      "name": "Mỹ Xuyên",
+      "name_with_type": "Huyện Mỹ Xuyên",
+      "parent_code": "94",
+      "path": "Mỹ Xuyên, Sóc Trăng",
+      "path_with_type": "Huyện Mỹ Xuyên, Tỉnh Sóc Trăng",
+      "slug": "my-xuyen",
+      "type": "huyen"
+   },
+   {
+      "code": "948",
+      "name": "Ngã Năm",
+      "name_with_type": "Thị xã Ngã Năm",
+      "parent_code": "94",
+      "path": "Ngã Năm, Sóc Trăng",
+      "path_with_type": "Thị xã Ngã Năm, Tỉnh Sóc Trăng",
+      "slug": "nga-nam",
+      "type": "thi-xa"
+   },
+   {
+      "code": "949",
+      "name": "Thạnh Trị",
+      "name_with_type": "Huyện Thạnh Trị",
+      "parent_code": "94",
+      "path": "Thạnh Trị, Sóc Trăng",
+      "path_with_type": "Huyện Thạnh Trị, Tỉnh Sóc Trăng",
+      "slug": "thanh-tri",
+      "type": "huyen"
+   },
+   {
+      "code": "950",
+      "name": "Vĩnh Châu",
+      "name_with_type": "Thị xã Vĩnh Châu",
+      "parent_code": "94",
+      "path": "Vĩnh Châu, Sóc Trăng",
+      "path_with_type": "Thị xã Vĩnh Châu, Tỉnh Sóc Trăng",
+      "slug": "vinh-chau",
+      "type": "thi-xa"
+   },
+   {
+      "code": "951",
+      "name": "Trần Đề",
+      "name_with_type": "Huyện Trần Đề",
+      "parent_code": "94",
+      "path": "Trần Đề, Sóc Trăng",
+      "path_with_type": "Huyện Trần Đề, Tỉnh Sóc Trăng",
+      "slug": "tran-de",
+      "type": "huyen"
+   },
+   {
+      "code": "688",
+      "name": "Phước Long",
+      "name_with_type": "Thị xã Phước Long",
+      "parent_code": "70",
+      "path": "Phước Long, Bình Phước",
+      "path_with_type": "Thị xã Phước Long, Tỉnh Bình Phước",
+      "slug": "phuoc-long",
+      "type": "thi-xa"
+   },
+   {
+      "code": "689",
+      "name": "Đồng Xoài",
+      "name_with_type": "Thị xã Đồng Xoài",
+      "parent_code": "70",
+      "path": "Đồng Xoài, Bình Phước",
+      "path_with_type": "Thị xã Đồng Xoài, Tỉnh Bình Phước",
+      "slug": "dong-xoai",
+      "type": "thi-xa"
+   },
+   {
+      "code": "690",
+      "name": "Bình Long",
+      "name_with_type": "Thị xã Bình Long",
+      "parent_code": "70",
+      "path": "Bình Long, Bình Phước",
+      "path_with_type": "Thị xã Bình Long, Tỉnh Bình Phước",
+      "slug": "binh-long",
+      "type": "thi-xa"
+   },
+   {
+      "code": "691",
+      "name": "Bù Gia Mập",
+      "name_with_type": "Huyện Bù Gia Mập",
+      "parent_code": "70",
+      "path": "Bù Gia Mập, Bình Phước",
+      "path_with_type": "Huyện Bù Gia Mập, Tỉnh Bình Phước",
+      "slug": "bu-gia-map",
+      "type": "huyen"
+   },
+   {
+      "code": "692",
+      "name": "Lộc Ninh",
+      "name_with_type": "Huyện Lộc Ninh",
+      "parent_code": "70",
+      "path": "Lộc Ninh, Bình Phước",
+      "path_with_type": "Huyện Lộc Ninh, Tỉnh Bình Phước",
+      "slug": "loc-ninh",
+      "type": "huyen"
+   },
+   {
+      "code": "693",
+      "name": "Bù Đốp",
+      "name_with_type": "Huyện Bù Đốp",
+      "parent_code": "70",
+      "path": "Bù Đốp, Bình Phước",
+      "path_with_type": "Huyện Bù Đốp, Tỉnh Bình Phước",
+      "slug": "bu-dop",
+      "type": "huyen"
+   },
+   {
+      "code": "694",
+      "name": "Hớn Quản",
+      "name_with_type": "Huyện Hớn Quản",
+      "parent_code": "70",
+      "path": "Hớn Quản, Bình Phước",
+      "path_with_type": "Huyện Hớn Quản, Tỉnh Bình Phước",
+      "slug": "hon-quan",
+      "type": "huyen"
+   },
+   {
+      "code": "695",
+      "name": "Đồng Phú",
+      "name_with_type": "Huyện Đồng Phú",
+      "parent_code": "70",
+      "path": "Đồng Phú, Bình Phước",
+      "path_with_type": "Huyện Đồng Phú, Tỉnh Bình Phước",
+      "slug": "dong-phu",
+      "type": "huyen"
+   },
+   {
+      "code": "696",
+      "name": "Bù Đăng",
+      "name_with_type": "Huyện Bù Đăng",
+      "parent_code": "70",
+      "path": "Bù Đăng, Bình Phước",
+      "path_with_type": "Huyện Bù Đăng, Tỉnh Bình Phước",
+      "slug": "bu-dang",
+      "type": "huyen"
+   },
+   {
+      "code": "697",
+      "name": "Chơn Thành",
+      "name_with_type": "Huyện Chơn Thành",
+      "parent_code": "70",
+      "path": "Chơn Thành, Bình Phước",
+      "path_with_type": "Huyện Chơn Thành, Tỉnh Bình Phước",
+      "slug": "chon-thanh",
+      "type": "huyen"
+   },
+   {
+      "code": "698",
+      "name": "Phú Riềng",
+      "name_with_type": "Huyện Phú Riềng",
+      "parent_code": "70",
+      "path": "Phú Riềng, Bình Phước",
+      "path_with_type": "Huyện Phú Riềng, Tỉnh Bình Phước",
+      "slug": "phu-rieng",
+      "type": "huyen"
+   },
+   {
+      "code": "323",
+      "name": "Hưng Yên",
+      "name_with_type": "Thành phố Hưng Yên",
+      "parent_code": "33",
+      "path": "Hưng Yên, Hưng Yên",
+      "path_with_type": "Thành phố Hưng Yên, Tỉnh Hưng Yên",
+      "slug": "hung-yen",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "325",
+      "name": "Văn Lâm",
+      "name_with_type": "Huyện Văn Lâm",
+      "parent_code": "33",
+      "path": "Văn Lâm, Hưng Yên",
+      "path_with_type": "Huyện Văn Lâm, Tỉnh Hưng Yên",
+      "slug": "van-lam",
+      "type": "huyen"
+   },
+   {
+      "code": "326",
+      "name": "Văn Giang",
+      "name_with_type": "Huyện Văn Giang",
+      "parent_code": "33",
+      "path": "Văn Giang, Hưng Yên",
+      "path_with_type": "Huyện Văn Giang, Tỉnh Hưng Yên",
+      "slug": "van-giang",
+      "type": "huyen"
+   },
+   {
+      "code": "327",
+      "name": "Yên Mỹ",
+      "name_with_type": "Huyện Yên Mỹ",
+      "parent_code": "33",
+      "path": "Yên Mỹ, Hưng Yên",
+      "path_with_type": "Huyện Yên Mỹ, Tỉnh Hưng Yên",
+      "slug": "yen-my",
+      "type": "huyen"
+   },
+   {
+      "code": "328",
+      "name": "Mỹ Hào",
+      "name_with_type": "Huyện Mỹ Hào",
+      "parent_code": "33",
+      "path": "Mỹ Hào, Hưng Yên",
+      "path_with_type": "Huyện Mỹ Hào, Tỉnh Hưng Yên",
+      "slug": "my-hao",
+      "type": "huyen"
+   },
+   {
+      "code": "329",
+      "name": "Ân Thi",
+      "name_with_type": "Huyện Ân Thi",
+      "parent_code": "33",
+      "path": "Ân Thi, Hưng Yên",
+      "path_with_type": "Huyện Ân Thi, Tỉnh Hưng Yên",
+      "slug": "an-thi",
+      "type": "huyen"
+   },
+   {
+      "code": "330",
+      "name": "Khoái Châu",
+      "name_with_type": "Huyện Khoái Châu",
+      "parent_code": "33",
+      "path": "Khoái Châu, Hưng Yên",
+      "path_with_type": "Huyện Khoái Châu, Tỉnh Hưng Yên",
+      "slug": "khoai-chau",
+      "type": "huyen"
+   },
+   {
+      "code": "331",
+      "name": "Kim Động",
+      "name_with_type": "Huyện Kim Động",
+      "parent_code": "33",
+      "path": "Kim Động, Hưng Yên",
+      "path_with_type": "Huyện Kim Động, Tỉnh Hưng Yên",
+      "slug": "kim-dong",
+      "type": "huyen"
+   },
+   {
+      "code": "332",
+      "name": "Tiên Lữ",
+      "name_with_type": "Huyện Tiên Lữ",
+      "parent_code": "33",
+      "path": "Tiên Lữ, Hưng Yên",
+      "path_with_type": "Huyện Tiên Lữ, Tỉnh Hưng Yên",
+      "slug": "tien-lu",
+      "type": "huyen"
+   },
+   {
+      "code": "333",
+      "name": "Phù Cừ",
+      "name_with_type": "Huyện Phù Cừ",
+      "parent_code": "33",
+      "path": "Phù Cừ, Hưng Yên",
+      "path_with_type": "Huyện Phù Cừ, Tỉnh Hưng Yên",
+      "slug": "phu-cu",
+      "type": "huyen"
+   },
+   {
+      "code": "380",
+      "name": "Thanh Hóa",
+      "name_with_type": "Thành phố Thanh Hóa",
+      "parent_code": "38",
+      "path": "Thanh Hóa, Thanh Hóa",
+      "path_with_type": "Thành phố Thanh Hóa, Tỉnh Thanh Hóa",
+      "slug": "thanh-hoa",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "381",
+      "name": "Bỉm Sơn",
+      "name_with_type": "Thị xã Bỉm Sơn",
+      "parent_code": "38",
+      "path": "Bỉm Sơn, Thanh Hóa",
+      "path_with_type": "Thị xã Bỉm Sơn, Tỉnh Thanh Hóa",
+      "slug": "bim-son",
+      "type": "thi-xa"
+   },
+   {
+      "code": "382",
+      "name": "Sầm Sơn",
+      "name_with_type": "Thành phố Sầm Sơn",
+      "parent_code": "38",
+      "path": "Sầm Sơn, Thanh Hóa",
+      "path_with_type": "Thành phố Sầm Sơn, Tỉnh Thanh Hóa",
+      "slug": "sam-son",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "384",
+      "name": "Mường Lát",
+      "name_with_type": "Huyện Mường Lát",
+      "parent_code": "38",
+      "path": "Mường Lát, Thanh Hóa",
+      "path_with_type": "Huyện Mường Lát, Tỉnh Thanh Hóa",
+      "slug": "muong-lat",
+      "type": "huyen"
+   },
+   {
+      "code": "385",
+      "name": "Quan Hóa",
+      "name_with_type": "Huyện Quan Hóa",
+      "parent_code": "38",
+      "path": "Quan Hóa, Thanh Hóa",
+      "path_with_type": "Huyện Quan Hóa, Tỉnh Thanh Hóa",
+      "slug": "quan-hoa",
+      "type": "huyen"
+   },
+   {
+      "code": "386",
+      "name": "Bá Thước",
+      "name_with_type": "Huyện Bá Thước",
+      "parent_code": "38",
+      "path": "Bá Thước, Thanh Hóa",
+      "path_with_type": "Huyện Bá Thước, Tỉnh Thanh Hóa",
+      "slug": "ba-thuoc",
+      "type": "huyen"
+   },
+   {
+      "code": "387",
+      "name": "Quan Sơn",
+      "name_with_type": "Huyện Quan Sơn",
+      "parent_code": "38",
+      "path": "Quan Sơn, Thanh Hóa",
+      "path_with_type": "Huyện Quan Sơn, Tỉnh Thanh Hóa",
+      "slug": "quan-son",
+      "type": "huyen"
+   },
+   {
+      "code": "388",
+      "name": "Lang Chánh",
+      "name_with_type": "Huyện Lang Chánh",
+      "parent_code": "38",
+      "path": "Lang Chánh, Thanh Hóa",
+      "path_with_type": "Huyện Lang Chánh, Tỉnh Thanh Hóa",
+      "slug": "lang-chanh",
+      "type": "huyen"
+   },
+   {
+      "code": "389",
+      "name": "Ngọc Lặc",
+      "name_with_type": "Huyện Ngọc Lặc",
+      "parent_code": "38",
+      "path": "Ngọc Lặc, Thanh Hóa",
+      "path_with_type": "Huyện Ngọc Lặc, Tỉnh Thanh Hóa",
+      "slug": "ngoc-lac",
+      "type": "huyen"
+   },
+   {
+      "code": "390",
+      "name": "Cẩm Thủy",
+      "name_with_type": "Huyện Cẩm Thủy",
+      "parent_code": "38",
+      "path": "Cẩm Thủy, Thanh Hóa",
+      "path_with_type": "Huyện Cẩm Thủy, Tỉnh Thanh Hóa",
+      "slug": "cam-thuy",
+      "type": "huyen"
+   },
+   {
+      "code": "391",
+      "name": "Thạch Thành",
+      "name_with_type": "Huyện Thạch Thành",
+      "parent_code": "38",
+      "path": "Thạch Thành, Thanh Hóa",
+      "path_with_type": "Huyện Thạch Thành, Tỉnh Thanh Hóa",
+      "slug": "thach-thanh",
+      "type": "huyen"
+   },
+   {
+      "code": "392",
+      "name": "Hà Trung",
+      "name_with_type": "Huyện Hà Trung",
+      "parent_code": "38",
+      "path": "Hà Trung, Thanh Hóa",
+      "path_with_type": "Huyện Hà Trung, Tỉnh Thanh Hóa",
+      "slug": "ha-trung",
+      "type": "huyen"
+   },
+   {
+      "code": "393",
+      "name": "Vĩnh Lộc",
+      "name_with_type": "Huyện Vĩnh Lộc",
+      "parent_code": "38",
+      "path": "Vĩnh Lộc, Thanh Hóa",
+      "path_with_type": "Huyện Vĩnh Lộc, Tỉnh Thanh Hóa",
+      "slug": "vinh-loc",
+      "type": "huyen"
+   },
+   {
+      "code": "394",
+      "name": "Yên Định",
+      "name_with_type": "Huyện Yên Định",
+      "parent_code": "38",
+      "path": "Yên Định, Thanh Hóa",
+      "path_with_type": "Huyện Yên Định, Tỉnh Thanh Hóa",
+      "slug": "yen-dinh",
+      "type": "huyen"
+   },
+   {
+      "code": "395",
+      "name": "Thọ Xuân",
+      "name_with_type": "Huyện Thọ Xuân",
+      "parent_code": "38",
+      "path": "Thọ Xuân, Thanh Hóa",
+      "path_with_type": "Huyện Thọ Xuân, Tỉnh Thanh Hóa",
+      "slug": "tho-xuan",
+      "type": "huyen"
+   },
+   {
+      "code": "396",
+      "name": "Thường Xuân",
+      "name_with_type": "Huyện Thường Xuân",
+      "parent_code": "38",
+      "path": "Thường Xuân, Thanh Hóa",
+      "path_with_type": "Huyện Thường Xuân, Tỉnh Thanh Hóa",
+      "slug": "thuong-xuan",
+      "type": "huyen"
+   },
+   {
+      "code": "397",
+      "name": "Triệu Sơn",
+      "name_with_type": "Huyện Triệu Sơn",
+      "parent_code": "38",
+      "path": "Triệu Sơn, Thanh Hóa",
+      "path_with_type": "Huyện Triệu Sơn, Tỉnh Thanh Hóa",
+      "slug": "trieu-son",
+      "type": "huyen"
+   },
+   {
+      "code": "398",
+      "name": "Thiệu Hóa",
+      "name_with_type": "Huyện Thiệu Hóa",
+      "parent_code": "38",
+      "path": "Thiệu Hóa, Thanh Hóa",
+      "path_with_type": "Huyện Thiệu Hóa, Tỉnh Thanh Hóa",
+      "slug": "thieu-hoa",
+      "type": "huyen"
+   },
+   {
+      "code": "399",
+      "name": "Hoằng Hóa",
+      "name_with_type": "Huyện Hoằng Hóa",
+      "parent_code": "38",
+      "path": "Hoằng Hóa, Thanh Hóa",
+      "path_with_type": "Huyện Hoằng Hóa, Tỉnh Thanh Hóa",
+      "slug": "hoang-hoa",
+      "type": "huyen"
+   },
+   {
+      "code": "400",
+      "name": "Hậu Lộc",
+      "name_with_type": "Huyện Hậu Lộc",
+      "parent_code": "38",
+      "path": "Hậu Lộc, Thanh Hóa",
+      "path_with_type": "Huyện Hậu Lộc, Tỉnh Thanh Hóa",
+      "slug": "hau-loc",
+      "type": "huyen"
+   },
+   {
+      "code": "401",
+      "name": "Nga Sơn",
+      "name_with_type": "Huyện Nga Sơn",
+      "parent_code": "38",
+      "path": "Nga Sơn, Thanh Hóa",
+      "path_with_type": "Huyện Nga Sơn, Tỉnh Thanh Hóa",
+      "slug": "nga-son",
+      "type": "huyen"
+   },
+   {
+      "code": "402",
+      "name": "Như Xuân",
+      "name_with_type": "Huyện Như Xuân",
+      "parent_code": "38",
+      "path": "Như Xuân, Thanh Hóa",
+      "path_with_type": "Huyện Như Xuân, Tỉnh Thanh Hóa",
+      "slug": "nhu-xuan",
+      "type": "huyen"
+   },
+   {
+      "code": "403",
+      "name": "Như Thanh",
+      "name_with_type": "Huyện Như Thanh",
+      "parent_code": "38",
+      "path": "Như Thanh, Thanh Hóa",
+      "path_with_type": "Huyện Như Thanh, Tỉnh Thanh Hóa",
+      "slug": "nhu-thanh",
+      "type": "huyen"
+   },
+   {
+      "code": "404",
+      "name": "Nông Cống",
+      "name_with_type": "Huyện Nông Cống",
+      "parent_code": "38",
+      "path": "Nông Cống, Thanh Hóa",
+      "path_with_type": "Huyện Nông Cống, Tỉnh Thanh Hóa",
+      "slug": "nong-cong",
+      "type": "huyen"
+   },
+   {
+      "code": "405",
+      "name": "Đông Sơn",
+      "name_with_type": "Huyện Đông Sơn",
+      "parent_code": "38",
+      "path": "Đông Sơn, Thanh Hóa",
+      "path_with_type": "Huyện Đông Sơn, Tỉnh Thanh Hóa",
+      "slug": "dong-son",
+      "type": "huyen"
+   },
+   {
+      "code": "406",
+      "name": "Quảng Xương",
+      "name_with_type": "Huyện Quảng Xương",
+      "parent_code": "38",
+      "path": "Quảng Xương, Thanh Hóa",
+      "path_with_type": "Huyện Quảng Xương, Tỉnh Thanh Hóa",
+      "slug": "quang-xuong",
+      "type": "huyen"
+   },
+   {
+      "code": "407",
+      "name": "Tĩnh Gia",
+      "name_with_type": "Huyện Tĩnh Gia",
+      "parent_code": "38",
+      "path": "Tĩnh Gia, Thanh Hóa",
+      "path_with_type": "Huyện Tĩnh Gia, Tỉnh Thanh Hóa",
+      "slug": "tinh-gia",
+      "type": "huyen"
+   },
+   {
+      "code": "461",
+      "name": "Đông Hà",
+      "name_with_type": "Thành phố Đông Hà",
+      "parent_code": "45",
+      "path": "Đông Hà, Quảng Trị",
+      "path_with_type": "Thành phố Đông Hà, Tỉnh Quảng Trị",
+      "slug": "dong-ha",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "462",
+      "name": "Quảng Trị",
+      "name_with_type": "Thị xã Quảng Trị",
+      "parent_code": "45",
+      "path": "Quảng Trị, Quảng Trị",
+      "path_with_type": "Thị xã Quảng Trị, Tỉnh Quảng Trị",
+      "slug": "quang-tri",
+      "type": "thi-xa"
+   },
+   {
+      "code": "464",
+      "name": "Vĩnh Linh",
+      "name_with_type": "Huyện Vĩnh Linh",
+      "parent_code": "45",
+      "path": "Vĩnh Linh, Quảng Trị",
+      "path_with_type": "Huyện Vĩnh Linh, Tỉnh Quảng Trị",
+      "slug": "vinh-linh",
+      "type": "huyen"
+   },
+   {
+      "code": "465",
+      "name": "Hướng Hóa",
+      "name_with_type": "Huyện Hướng Hóa",
+      "parent_code": "45",
+      "path": "Hướng Hóa, Quảng Trị",
+      "path_with_type": "Huyện Hướng Hóa, Tỉnh Quảng Trị",
+      "slug": "huong-hoa",
+      "type": "huyen"
+   },
+   {
+      "code": "466",
+      "name": "Gio Linh",
+      "name_with_type": "Huyện Gio Linh",
+      "parent_code": "45",
+      "path": "Gio Linh, Quảng Trị",
+      "path_with_type": "Huyện Gio Linh, Tỉnh Quảng Trị",
+      "slug": "gio-linh",
+      "type": "huyen"
+   },
+   {
+      "code": "467",
+      "name": "Đa Krông",
+      "name_with_type": "Huyện Đa Krông",
+      "parent_code": "45",
+      "path": "Đa Krông, Quảng Trị",
+      "path_with_type": "Huyện Đa Krông, Tỉnh Quảng Trị",
+      "slug": "da-krong",
+      "type": "huyen"
+   },
+   {
+      "code": "468",
+      "name": "Cam Lộ",
+      "name_with_type": "Huyện Cam Lộ",
+      "parent_code": "45",
+      "path": "Cam Lộ, Quảng Trị",
+      "path_with_type": "Huyện Cam Lộ, Tỉnh Quảng Trị",
+      "slug": "cam-lo",
+      "type": "huyen"
+   },
+   {
+      "code": "469",
+      "name": "Triệu Phong",
+      "name_with_type": "Huyện Triệu Phong",
+      "parent_code": "45",
+      "path": "Triệu Phong, Quảng Trị",
+      "path_with_type": "Huyện Triệu Phong, Tỉnh Quảng Trị",
+      "slug": "trieu-phong",
+      "type": "huyen"
+   },
+   {
+      "code": "470",
+      "name": "Hải Lăng",
+      "name_with_type": "Huyện Hải Lăng",
+      "parent_code": "45",
+      "path": "Hải Lăng, Quảng Trị",
+      "path_with_type": "Huyện Hải Lăng, Tỉnh Quảng Trị",
+      "slug": "hai-lang",
+      "type": "huyen"
+   },
+   {
+      "code": "070",
+      "name": "Tuyên Quang",
+      "name_with_type": "Thành phố Tuyên Quang",
+      "parent_code": "08",
+      "path": "Tuyên Quang, Tuyên Quang",
+      "path_with_type": "Thành phố Tuyên Quang, Tỉnh Tuyên Quang",
+      "slug": "tuyen-quang",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "071",
+      "name": "Lâm Bình",
+      "name_with_type": "Huyện Lâm Bình",
+      "parent_code": "08",
+      "path": "Lâm Bình, Tuyên Quang",
+      "path_with_type": "Huyện Lâm Bình, Tỉnh Tuyên Quang",
+      "slug": "lam-binh",
+      "type": "huyen"
+   },
+   {
+      "code": "072",
+      "name": "Nà Hang",
+      "name_with_type": "Huyện Nà Hang",
+      "parent_code": "08",
+      "path": "Nà Hang, Tuyên Quang",
+      "path_with_type": "Huyện Nà Hang, Tỉnh Tuyên Quang",
+      "slug": "na-hang",
+      "type": "huyen"
+   },
+   {
+      "code": "073",
+      "name": "Chiêm Hóa",
+      "name_with_type": "Huyện Chiêm Hóa",
+      "parent_code": "08",
+      "path": "Chiêm Hóa, Tuyên Quang",
+      "path_with_type": "Huyện Chiêm Hóa, Tỉnh Tuyên Quang",
+      "slug": "chiem-hoa",
+      "type": "huyen"
+   },
+   {
+      "code": "074",
+      "name": "Hàm Yên",
+      "name_with_type": "Huyện Hàm Yên",
+      "parent_code": "08",
+      "path": "Hàm Yên, Tuyên Quang",
+      "path_with_type": "Huyện Hàm Yên, Tỉnh Tuyên Quang",
+      "slug": "ham-yen",
+      "type": "huyen"
+   },
+   {
+      "code": "075",
+      "name": "Yên Sơn",
+      "name_with_type": "Huyện Yên Sơn",
+      "parent_code": "08",
+      "path": "Yên Sơn, Tuyên Quang",
+      "path_with_type": "Huyện Yên Sơn, Tỉnh Tuyên Quang",
+      "slug": "yen-son",
+      "type": "huyen"
+   },
+   {
+      "code": "076",
+      "name": "Sơn Dương",
+      "name_with_type": "Huyện Sơn Dương",
+      "parent_code": "08",
+      "path": "Sơn Dương, Tuyên Quang",
+      "path_with_type": "Huyện Sơn Dương, Tỉnh Tuyên Quang",
+      "slug": "son-duong",
+      "type": "huyen"
+   },
+   {
+      "code": "522",
+      "name": "Quảng Ngãi",
+      "name_with_type": "Thành phố Quảng Ngãi",
+      "parent_code": "51",
+      "path": "Quảng Ngãi, Quảng Ngãi",
+      "path_with_type": "Thành phố Quảng Ngãi, Tỉnh Quảng Ngãi",
+      "slug": "quang-ngai",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "524",
+      "name": "Bình Sơn",
+      "name_with_type": "Huyện Bình Sơn",
+      "parent_code": "51",
+      "path": "Bình Sơn, Quảng Ngãi",
+      "path_with_type": "Huyện Bình Sơn, Tỉnh Quảng Ngãi",
+      "slug": "binh-son",
+      "type": "huyen"
+   },
+   {
+      "code": "525",
+      "name": "Trà Bồng",
+      "name_with_type": "Huyện Trà Bồng",
+      "parent_code": "51",
+      "path": "Trà Bồng, Quảng Ngãi",
+      "path_with_type": "Huyện Trà Bồng, Tỉnh Quảng Ngãi",
+      "slug": "tra-bong",
+      "type": "huyen"
+   },
+   {
+      "code": "526",
+      "name": "Tây Trà",
+      "name_with_type": "Huyện Tây Trà",
+      "parent_code": "51",
+      "path": "Tây Trà, Quảng Ngãi",
+      "path_with_type": "Huyện Tây Trà, Tỉnh Quảng Ngãi",
+      "slug": "tay-tra",
+      "type": "huyen"
+   },
+   {
+      "code": "527",
+      "name": "Sơn Tịnh",
+      "name_with_type": "Huyện Sơn Tịnh",
+      "parent_code": "51",
+      "path": "Sơn Tịnh, Quảng Ngãi",
+      "path_with_type": "Huyện Sơn Tịnh, Tỉnh Quảng Ngãi",
+      "slug": "son-tinh",
+      "type": "huyen"
+   },
+   {
+      "code": "528",
+      "name": "Tư Nghĩa",
+      "name_with_type": "Huyện Tư Nghĩa",
+      "parent_code": "51",
+      "path": "Tư Nghĩa, Quảng Ngãi",
+      "path_with_type": "Huyện Tư Nghĩa, Tỉnh Quảng Ngãi",
+      "slug": "tu-nghia",
+      "type": "huyen"
+   },
+   {
+      "code": "529",
+      "name": "Sơn Hà",
+      "name_with_type": "Huyện Sơn Hà",
+      "parent_code": "51",
+      "path": "Sơn Hà, Quảng Ngãi",
+      "path_with_type": "Huyện Sơn Hà, Tỉnh Quảng Ngãi",
+      "slug": "son-ha",
+      "type": "huyen"
+   },
+   {
+      "code": "530",
+      "name": "Sơn Tây",
+      "name_with_type": "Huyện Sơn Tây",
+      "parent_code": "51",
+      "path": "Sơn Tây, Quảng Ngãi",
+      "path_with_type": "Huyện Sơn Tây, Tỉnh Quảng Ngãi",
+      "slug": "son-tay",
+      "type": "huyen"
+   },
+   {
+      "code": "531",
+      "name": "Minh Long",
+      "name_with_type": "Huyện Minh Long",
+      "parent_code": "51",
+      "path": "Minh Long, Quảng Ngãi",
+      "path_with_type": "Huyện Minh Long, Tỉnh Quảng Ngãi",
+      "slug": "minh-long",
+      "type": "huyen"
+   },
+   {
+      "code": "532",
+      "name": "Nghĩa Hành",
+      "name_with_type": "Huyện Nghĩa Hành",
+      "parent_code": "51",
+      "path": "Nghĩa Hành, Quảng Ngãi",
+      "path_with_type": "Huyện Nghĩa Hành, Tỉnh Quảng Ngãi",
+      "slug": "nghia-hanh",
+      "type": "huyen"
+   },
+   {
+      "code": "533",
+      "name": "Mộ Đức",
+      "name_with_type": "Huyện Mộ Đức",
+      "parent_code": "51",
+      "path": "Mộ Đức, Quảng Ngãi",
+      "path_with_type": "Huyện Mộ Đức, Tỉnh Quảng Ngãi",
+      "slug": "mo-duc",
+      "type": "huyen"
+   },
+   {
+      "code": "534",
+      "name": "Đức Phổ",
+      "name_with_type": "Huyện Đức Phổ",
+      "parent_code": "51",
+      "path": "Đức Phổ, Quảng Ngãi",
+      "path_with_type": "Huyện Đức Phổ, Tỉnh Quảng Ngãi",
+      "slug": "duc-pho",
+      "type": "huyen"
+   },
+   {
+      "code": "535",
+      "name": "Ba Tơ",
+      "name_with_type": "Huyện Ba Tơ",
+      "parent_code": "51",
+      "path": "Ba Tơ, Quảng Ngãi",
+      "path_with_type": "Huyện Ba Tơ, Tỉnh Quảng Ngãi",
+      "slug": "ba-to",
+      "type": "huyen"
+   },
+   {
+      "code": "536",
+      "name": "Lý Sơn",
+      "name_with_type": "Huyện Lý Sơn",
+      "parent_code": "51",
+      "path": "Lý Sơn, Quảng Ngãi",
+      "path_with_type": "Huyện Lý Sơn, Tỉnh Quảng Ngãi",
+      "slug": "ly-son",
+      "type": "huyen"
+   },
+   {
+      "code": "001",
+      "name": "Ba Đình",
+      "name_with_type": "Quận Ba Đình",
+      "parent_code": "01",
+      "path": "Ba Đình, Hà Nội",
+      "path_with_type": "Quận Ba Đình, Thành phố Hà Nội",
+      "slug": "ba-dinh",
+      "type": "quan"
+   },
+   {
+      "code": "002",
+      "name": "Hoàn Kiếm",
+      "name_with_type": "Quận Hoàn Kiếm",
+      "parent_code": "01",
+      "path": "Hoàn Kiếm, Hà Nội",
+      "path_with_type": "Quận Hoàn Kiếm, Thành phố Hà Nội",
+      "slug": "hoan-kiem",
+      "type": "quan"
+   },
+   {
+      "code": "003",
+      "name": "Tây Hồ",
+      "name_with_type": "Quận Tây Hồ",
+      "parent_code": "01",
+      "path": "Tây Hồ, Hà Nội",
+      "path_with_type": "Quận Tây Hồ, Thành phố Hà Nội",
+      "slug": "tay-ho",
+      "type": "quan"
+   },
+   {
+      "code": "004",
+      "name": "Long Biên",
+      "name_with_type": "Quận Long Biên",
+      "parent_code": "01",
+      "path": "Long Biên, Hà Nội",
+      "path_with_type": "Quận Long Biên, Thành phố Hà Nội",
+      "slug": "long-bien",
+      "type": "quan"
+   },
+   {
+      "code": "005",
+      "name": "Cầu Giấy",
+      "name_with_type": "Quận Cầu Giấy",
+      "parent_code": "01",
+      "path": "Cầu Giấy, Hà Nội",
+      "path_with_type": "Quận Cầu Giấy, Thành phố Hà Nội",
+      "slug": "cau-giay",
+      "type": "quan"
+   },
+   {
+      "code": "006",
+      "name": "Đống Đa",
+      "name_with_type": "Quận Đống Đa",
+      "parent_code": "01",
+      "path": "Đống Đa, Hà Nội",
+      "path_with_type": "Quận Đống Đa, Thành phố Hà Nội",
+      "slug": "dong-da",
+      "type": "quan"
+   },
+   {
+      "code": "007",
+      "name": "Hai Bà Trưng",
+      "name_with_type": "Quận Hai Bà Trưng",
+      "parent_code": "01",
+      "path": "Hai Bà Trưng, Hà Nội",
+      "path_with_type": "Quận Hai Bà Trưng, Thành phố Hà Nội",
+      "slug": "hai-ba-trung",
+      "type": "quan"
+   },
+   {
+      "code": "008",
+      "name": "Hoàng Mai",
+      "name_with_type": "Quận Hoàng Mai",
+      "parent_code": "01",
+      "path": "Hoàng Mai, Hà Nội",
+      "path_with_type": "Quận Hoàng Mai, Thành phố Hà Nội",
+      "slug": "hoang-mai",
+      "type": "quan"
+   },
+   {
+      "code": "009",
+      "name": "Thanh Xuân",
+      "name_with_type": "Quận Thanh Xuân",
+      "parent_code": "01",
+      "path": "Thanh Xuân, Hà Nội",
+      "path_with_type": "Quận Thanh Xuân, Thành phố Hà Nội",
+      "slug": "thanh-xuan",
+      "type": "quan"
+   },
+   {
+      "code": "016",
+      "name": "Sóc Sơn",
+      "name_with_type": "Huyện Sóc Sơn",
+      "parent_code": "01",
+      "path": "Sóc Sơn, Hà Nội",
+      "path_with_type": "Huyện Sóc Sơn, Thành phố Hà Nội",
+      "slug": "soc-son",
+      "type": "huyen"
+   },
+   {
+      "code": "017",
+      "name": "Đông Anh",
+      "name_with_type": "Huyện Đông Anh",
+      "parent_code": "01",
+      "path": "Đông Anh, Hà Nội",
+      "path_with_type": "Huyện Đông Anh, Thành phố Hà Nội",
+      "slug": "dong-anh",
+      "type": "huyen"
+   },
+   {
+      "code": "018",
+      "name": "Gia Lâm",
+      "name_with_type": "Huyện Gia Lâm",
+      "parent_code": "01",
+      "path": "Gia Lâm, Hà Nội",
+      "path_with_type": "Huyện Gia Lâm, Thành phố Hà Nội",
+      "slug": "gia-lam",
+      "type": "huyen"
+   },
+   {
+      "code": "019",
+      "name": "Nam Từ Liêm",
+      "name_with_type": "Quận Nam Từ Liêm",
+      "parent_code": "01",
+      "path": "Nam Từ Liêm, Hà Nội",
+      "path_with_type": "Quận Nam Từ Liêm, Thành phố Hà Nội",
+      "slug": "nam-tu-liem",
+      "type": "quan"
+   },
+   {
+      "code": "020",
+      "name": "Thanh Trì",
+      "name_with_type": "Huyện Thanh Trì",
+      "parent_code": "01",
+      "path": "Thanh Trì, Hà Nội",
+      "path_with_type": "Huyện Thanh Trì, Thành phố Hà Nội",
+      "slug": "thanh-tri",
+      "type": "huyen"
+   },
+   {
+      "code": "021",
+      "name": "Bắc Từ Liêm",
+      "name_with_type": "Quận Bắc Từ Liêm",
+      "parent_code": "01",
+      "path": "Bắc Từ Liêm, Hà Nội",
+      "path_with_type": "Quận Bắc Từ Liêm, Thành phố Hà Nội",
+      "slug": "bac-tu-liem",
+      "type": "quan"
+   },
+   {
+      "code": "250",
+      "name": "Mê Linh",
+      "name_with_type": "Huyện Mê Linh",
+      "parent_code": "01",
+      "path": "Mê Linh, Hà Nội",
+      "path_with_type": "Huyện Mê Linh, Thành phố Hà Nội",
+      "slug": "me-linh",
+      "type": "huyen"
+   },
+   {
+      "code": "268",
+      "name": "Hà Đông",
+      "name_with_type": "Quận Hà Đông",
+      "parent_code": "01",
+      "path": "Hà Đông, Hà Nội",
+      "path_with_type": "Quận Hà Đông, Thành phố Hà Nội",
+      "slug": "ha-dong",
+      "type": "quan"
+   },
+   {
+      "code": "269",
+      "name": "Sơn Tây",
+      "name_with_type": "Thị xã Sơn Tây",
+      "parent_code": "01",
+      "path": "Sơn Tây, Hà Nội",
+      "path_with_type": "Thị xã Sơn Tây, Thành phố Hà Nội",
+      "slug": "son-tay",
+      "type": "thi-xa"
+   },
+   {
+      "code": "271",
+      "name": "Ba Vì",
+      "name_with_type": "Huyện Ba Vì",
+      "parent_code": "01",
+      "path": "Ba Vì, Hà Nội",
+      "path_with_type": "Huyện Ba Vì, Thành phố Hà Nội",
+      "slug": "ba-vi",
+      "type": "huyen"
+   },
+   {
+      "code": "272",
+      "name": "Phúc Thọ",
+      "name_with_type": "Huyện Phúc Thọ",
+      "parent_code": "01",
+      "path": "Phúc Thọ, Hà Nội",
+      "path_with_type": "Huyện Phúc Thọ, Thành phố Hà Nội",
+      "slug": "phuc-tho",
+      "type": "huyen"
+   },
+   {
+      "code": "273",
+      "name": "Đan Phượng",
+      "name_with_type": "Huyện Đan Phượng",
+      "parent_code": "01",
+      "path": "Đan Phượng, Hà Nội",
+      "path_with_type": "Huyện Đan Phượng, Thành phố Hà Nội",
+      "slug": "dan-phuong",
+      "type": "huyen"
+   },
+   {
+      "code": "274",
+      "name": "Hoài Đức",
+      "name_with_type": "Huyện Hoài Đức",
+      "parent_code": "01",
+      "path": "Hoài Đức, Hà Nội",
+      "path_with_type": "Huyện Hoài Đức, Thành phố Hà Nội",
+      "slug": "hoai-duc",
+      "type": "huyen"
+   },
+   {
+      "code": "275",
+      "name": "Quốc Oai",
+      "name_with_type": "Huyện Quốc Oai",
+      "parent_code": "01",
+      "path": "Quốc Oai, Hà Nội",
+      "path_with_type": "Huyện Quốc Oai, Thành phố Hà Nội",
+      "slug": "quoc-oai",
+      "type": "huyen"
+   },
+   {
+      "code": "276",
+      "name": "Thạch Thất",
+      "name_with_type": "Huyện Thạch Thất",
+      "parent_code": "01",
+      "path": "Thạch Thất, Hà Nội",
+      "path_with_type": "Huyện Thạch Thất, Thành phố Hà Nội",
+      "slug": "thach-that",
+      "type": "huyen"
+   },
+   {
+      "code": "277",
+      "name": "Chương Mỹ",
+      "name_with_type": "Huyện Chương Mỹ",
+      "parent_code": "01",
+      "path": "Chương Mỹ, Hà Nội",
+      "path_with_type": "Huyện Chương Mỹ, Thành phố Hà Nội",
+      "slug": "chuong-my",
+      "type": "huyen"
+   },
+   {
+      "code": "278",
+      "name": "Thanh Oai",
+      "name_with_type": "Huyện Thanh Oai",
+      "parent_code": "01",
+      "path": "Thanh Oai, Hà Nội",
+      "path_with_type": "Huyện Thanh Oai, Thành phố Hà Nội",
+      "slug": "thanh-oai",
+      "type": "huyen"
+   },
+   {
+      "code": "279",
+      "name": "Thường Tín",
+      "name_with_type": "Huyện Thường Tín",
+      "parent_code": "01",
+      "path": "Thường Tín, Hà Nội",
+      "path_with_type": "Huyện Thường Tín, Thành phố Hà Nội",
+      "slug": "thuong-tin",
+      "type": "huyen"
+   },
+   {
+      "code": "280",
+      "name": "Phú Xuyên",
+      "name_with_type": "Huyện Phú Xuyên",
+      "parent_code": "01",
+      "path": "Phú Xuyên, Hà Nội",
+      "path_with_type": "Huyện Phú Xuyên, Thành phố Hà Nội",
+      "slug": "phu-xuyen",
+      "type": "huyen"
+   },
+   {
+      "code": "281",
+      "name": "Ứng Hòa",
+      "name_with_type": "Huyện Ứng Hòa",
+      "parent_code": "01",
+      "path": "Ứng Hòa, Hà Nội",
+      "path_with_type": "Huyện Ứng Hòa, Thành phố Hà Nội",
+      "slug": "ung-hoa",
+      "type": "huyen"
+   },
+   {
+      "code": "282",
+      "name": "Mỹ Đức",
+      "name_with_type": "Huyện Mỹ Đức",
+      "parent_code": "01",
+      "path": "Mỹ Đức, Hà Nội",
+      "path_with_type": "Huyện Mỹ Đức, Thành phố Hà Nội",
+      "slug": "my-duc",
+      "type": "huyen"
+   },
+   {
+      "code": "080",
+      "name": "Lào Cai",
+      "name_with_type": "Thành phố Lào Cai",
+      "parent_code": "10",
+      "path": "Lào Cai, Lào Cai",
+      "path_with_type": "Thành phố Lào Cai, Tỉnh Lào Cai",
+      "slug": "lao-cai",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "082",
+      "name": "Bát Xát",
+      "name_with_type": "Huyện Bát Xát",
+      "parent_code": "10",
+      "path": "Bát Xát, Lào Cai",
+      "path_with_type": "Huyện Bát Xát, Tỉnh Lào Cai",
+      "slug": "bat-xat",
+      "type": "huyen"
+   },
+   {
+      "code": "083",
+      "name": "Mường Khương",
+      "name_with_type": "Huyện Mường Khương",
+      "parent_code": "10",
+      "path": "Mường Khương, Lào Cai",
+      "path_with_type": "Huyện Mường Khương, Tỉnh Lào Cai",
+      "slug": "muong-khuong",
+      "type": "huyen"
+   },
+   {
+      "code": "084",
+      "name": "Si Ma Cai",
+      "name_with_type": "Huyện Si Ma Cai",
+      "parent_code": "10",
+      "path": "Si Ma Cai, Lào Cai",
+      "path_with_type": "Huyện Si Ma Cai, Tỉnh Lào Cai",
+      "slug": "si-ma-cai",
+      "type": "huyen"
+   },
+   {
+      "code": "085",
+      "name": "Bắc Hà",
+      "name_with_type": "Huyện Bắc Hà",
+      "parent_code": "10",
+      "path": "Bắc Hà, Lào Cai",
+      "path_with_type": "Huyện Bắc Hà, Tỉnh Lào Cai",
+      "slug": "bac-ha",
+      "type": "huyen"
+   },
+   {
+      "code": "086",
+      "name": "Bảo Thắng",
+      "name_with_type": "Huyện Bảo Thắng",
+      "parent_code": "10",
+      "path": "Bảo Thắng, Lào Cai",
+      "path_with_type": "Huyện Bảo Thắng, Tỉnh Lào Cai",
+      "slug": "bao-thang",
+      "type": "huyen"
+   },
+   {
+      "code": "087",
+      "name": "Bảo Yên",
+      "name_with_type": "Huyện Bảo Yên",
+      "parent_code": "10",
+      "path": "Bảo Yên, Lào Cai",
+      "path_with_type": "Huyện Bảo Yên, Tỉnh Lào Cai",
+      "slug": "bao-yen",
+      "type": "huyen"
+   },
+   {
+      "code": "088",
+      "name": "Sa Pa",
+      "name_with_type": "Huyện Sa Pa",
+      "parent_code": "10",
+      "path": "Sa Pa, Lào Cai",
+      "path_with_type": "Huyện Sa Pa, Tỉnh Lào Cai",
+      "slug": "sa-pa",
+      "type": "huyen"
+   },
+   {
+      "code": "089",
+      "name": "Văn Bàn",
+      "name_with_type": "Huyện Văn Bàn",
+      "parent_code": "10",
+      "path": "Văn Bàn, Lào Cai",
+      "path_with_type": "Huyện Văn Bàn, Tỉnh Lào Cai",
+      "slug": "van-ban",
+      "type": "huyen"
+   },
+   {
+      "code": "855",
+      "name": "Vĩnh Long",
+      "name_with_type": "Thành phố Vĩnh Long",
+      "parent_code": "86",
+      "path": "Vĩnh Long, Vĩnh Long",
+      "path_with_type": "Thành phố Vĩnh Long, Tỉnh Vĩnh Long",
+      "slug": "vinh-long",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "857",
+      "name": "Long Hồ",
+      "name_with_type": "Huyện Long Hồ",
+      "parent_code": "86",
+      "path": "Long Hồ, Vĩnh Long",
+      "path_with_type": "Huyện Long Hồ, Tỉnh Vĩnh Long",
+      "slug": "long-ho",
+      "type": "huyen"
+   },
+   {
+      "code": "858",
+      "name": "Mang Thít",
+      "name_with_type": "Huyện Mang Thít",
+      "parent_code": "86",
+      "path": "Mang Thít, Vĩnh Long",
+      "path_with_type": "Huyện Mang Thít, Tỉnh Vĩnh Long",
+      "slug": "mang-thit",
+      "type": "huyen"
+   },
+   {
+      "code": "859",
+      "name": "Vũng Liêm",
+      "name_with_type": "Huyện  Vũng Liêm",
+      "parent_code": "86",
+      "path": "Vũng Liêm, Vĩnh Long",
+      "path_with_type": "Huyện  Vũng Liêm, Tỉnh Vĩnh Long",
+      "slug": "vung-liem",
+      "type": "huyen"
+   },
+   {
+      "code": "860",
+      "name": "Tam Bình",
+      "name_with_type": "Huyện Tam Bình",
+      "parent_code": "86",
+      "path": "Tam Bình, Vĩnh Long",
+      "path_with_type": "Huyện Tam Bình, Tỉnh Vĩnh Long",
+      "slug": "tam-binh",
+      "type": "huyen"
+   },
+   {
+      "code": "861",
+      "name": "Bình Minh",
+      "name_with_type": "Thị xã Bình Minh",
+      "parent_code": "86",
+      "path": "Bình Minh, Vĩnh Long",
+      "path_with_type": "Thị xã Bình Minh, Tỉnh Vĩnh Long",
+      "slug": "binh-minh",
+      "type": "thi-xa"
+   },
+   {
+      "code": "862",
+      "name": "Trà Ôn",
+      "name_with_type": "Huyện Trà Ôn",
+      "parent_code": "86",
+      "path": "Trà Ôn, Vĩnh Long",
+      "path_with_type": "Huyện Trà Ôn, Tỉnh Vĩnh Long",
+      "slug": "tra-on",
+      "type": "huyen"
+   },
+   {
+      "code": "863",
+      "name": "Bình Tân",
+      "name_with_type": "Huyện Bình Tân",
+      "parent_code": "86",
+      "path": "Bình Tân, Vĩnh Long",
+      "path_with_type": "Huyện Bình Tân, Tỉnh Vĩnh Long",
+      "slug": "binh-tan",
+      "type": "huyen"
+   },
+   {
+      "code": "672",
+      "name": "Đà Lạt",
+      "name_with_type": "Thành phố Đà Lạt",
+      "parent_code": "68",
+      "path": "Đà Lạt, Lâm Đồng",
+      "path_with_type": "Thành phố Đà Lạt, Tỉnh Lâm Đồng",
+      "slug": "da-lat",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "673",
+      "name": "Bảo Lộc",
+      "name_with_type": "Thành phố Bảo Lộc",
+      "parent_code": "68",
+      "path": "Bảo Lộc, Lâm Đồng",
+      "path_with_type": "Thành phố Bảo Lộc, Tỉnh Lâm Đồng",
+      "slug": "bao-loc",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "674",
+      "name": "Đam Rông",
+      "name_with_type": "Huyện Đam Rông",
+      "parent_code": "68",
+      "path": "Đam Rông, Lâm Đồng",
+      "path_with_type": "Huyện Đam Rông, Tỉnh Lâm Đồng",
+      "slug": "dam-rong",
+      "type": "huyen"
+   },
+   {
+      "code": "675",
+      "name": "Lạc Dương",
+      "name_with_type": "Huyện Lạc Dương",
+      "parent_code": "68",
+      "path": "Lạc Dương, Lâm Đồng",
+      "path_with_type": "Huyện Lạc Dương, Tỉnh Lâm Đồng",
+      "slug": "lac-duong",
+      "type": "huyen"
+   },
+   {
+      "code": "676",
+      "name": "Lâm Hà",
+      "name_with_type": "Huyện Lâm Hà",
+      "parent_code": "68",
+      "path": "Lâm Hà, Lâm Đồng",
+      "path_with_type": "Huyện Lâm Hà, Tỉnh Lâm Đồng",
+      "slug": "lam-ha",
+      "type": "huyen"
+   },
+   {
+      "code": "677",
+      "name": "Đơn Dương",
+      "name_with_type": "Huyện Đơn Dương",
+      "parent_code": "68",
+      "path": "Đơn Dương, Lâm Đồng",
+      "path_with_type": "Huyện Đơn Dương, Tỉnh Lâm Đồng",
+      "slug": "don-duong",
+      "type": "huyen"
+   },
+   {
+      "code": "678",
+      "name": "Đức Trọng",
+      "name_with_type": "Huyện Đức Trọng",
+      "parent_code": "68",
+      "path": "Đức Trọng, Lâm Đồng",
+      "path_with_type": "Huyện Đức Trọng, Tỉnh Lâm Đồng",
+      "slug": "duc-trong",
+      "type": "huyen"
+   },
+   {
+      "code": "679",
+      "name": "Di Linh",
+      "name_with_type": "Huyện Di Linh",
+      "parent_code": "68",
+      "path": "Di Linh, Lâm Đồng",
+      "path_with_type": "Huyện Di Linh, Tỉnh Lâm Đồng",
+      "slug": "di-linh",
+      "type": "huyen"
+   },
+   {
+      "code": "680",
+      "name": "Bảo Lâm",
+      "name_with_type": "Huyện Bảo Lâm",
+      "parent_code": "68",
+      "path": "Bảo Lâm, Lâm Đồng",
+      "path_with_type": "Huyện Bảo Lâm, Tỉnh Lâm Đồng",
+      "slug": "bao-lam",
+      "type": "huyen"
+   },
+   {
+      "code": "681",
+      "name": "Đạ Huoai",
+      "name_with_type": "Huyện Đạ Huoai",
+      "parent_code": "68",
+      "path": "Đạ Huoai, Lâm Đồng",
+      "path_with_type": "Huyện Đạ Huoai, Tỉnh Lâm Đồng",
+      "slug": "da-huoai",
+      "type": "huyen"
+   },
+   {
+      "code": "682",
+      "name": "Đạ Tẻh",
+      "name_with_type": "Huyện Đạ Tẻh",
+      "parent_code": "68",
+      "path": "Đạ Tẻh, Lâm Đồng",
+      "path_with_type": "Huyện Đạ Tẻh, Tỉnh Lâm Đồng",
+      "slug": "da-teh",
+      "type": "huyen"
+   },
+   {
+      "code": "683",
+      "name": "Cát Tiên",
+      "name_with_type": "Huyện Cát Tiên",
+      "parent_code": "68",
+      "path": "Cát Tiên, Lâm Đồng",
+      "path_with_type": "Huyện Cát Tiên, Tỉnh Lâm Đồng",
+      "slug": "cat-tien",
+      "type": "huyen"
+   },
+   {
+      "code": "540",
+      "name": "Qui Nhơn",
+      "name_with_type": "Thành phố Qui Nhơn",
+      "parent_code": "52",
+      "path": "Qui Nhơn, Bình Định",
+      "path_with_type": "Thành phố Qui Nhơn, Tỉnh Bình Định",
+      "slug": "qui-nhon",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "542",
+      "name": "An Lão",
+      "name_with_type": "Huyện An Lão",
+      "parent_code": "52",
+      "path": "An Lão, Bình Định",
+      "path_with_type": "Huyện An Lão, Tỉnh Bình Định",
+      "slug": "an-lao",
+      "type": "huyen"
+   },
+   {
+      "code": "543",
+      "name": "Hoài Nhơn",
+      "name_with_type": "Huyện Hoài Nhơn",
+      "parent_code": "52",
+      "path": "Hoài Nhơn, Bình Định",
+      "path_with_type": "Huyện Hoài Nhơn, Tỉnh Bình Định",
+      "slug": "hoai-nhon",
+      "type": "huyen"
+   },
+   {
+      "code": "544",
+      "name": "Hoài Ân",
+      "name_with_type": "Huyện Hoài Ân",
+      "parent_code": "52",
+      "path": "Hoài Ân, Bình Định",
+      "path_with_type": "Huyện Hoài Ân, Tỉnh Bình Định",
+      "slug": "hoai-an",
+      "type": "huyen"
+   },
+   {
+      "code": "545",
+      "name": "Phù Mỹ",
+      "name_with_type": "Huyện Phù Mỹ",
+      "parent_code": "52",
+      "path": "Phù Mỹ, Bình Định",
+      "path_with_type": "Huyện Phù Mỹ, Tỉnh Bình Định",
+      "slug": "phu-my",
+      "type": "huyen"
+   },
+   {
+      "code": "546",
+      "name": "Vĩnh Thạnh",
+      "name_with_type": "Huyện Vĩnh Thạnh",
+      "parent_code": "52",
+      "path": "Vĩnh Thạnh, Bình Định",
+      "path_with_type": "Huyện Vĩnh Thạnh, Tỉnh Bình Định",
+      "slug": "vinh-thanh",
+      "type": "huyen"
+   },
+   {
+      "code": "547",
+      "name": "Tây Sơn",
+      "name_with_type": "Huyện Tây Sơn",
+      "parent_code": "52",
+      "path": "Tây Sơn, Bình Định",
+      "path_with_type": "Huyện Tây Sơn, Tỉnh Bình Định",
+      "slug": "tay-son",
+      "type": "huyen"
+   },
+   {
+      "code": "548",
+      "name": "Phù Cát",
+      "name_with_type": "Huyện Phù Cát",
+      "parent_code": "52",
+      "path": "Phù Cát, Bình Định",
+      "path_with_type": "Huyện Phù Cát, Tỉnh Bình Định",
+      "slug": "phu-cat",
+      "type": "huyen"
+   },
+   {
+      "code": "549",
+      "name": "An Nhơn",
+      "name_with_type": "Thị xã An Nhơn",
+      "parent_code": "52",
+      "path": "An Nhơn, Bình Định",
+      "path_with_type": "Thị xã An Nhơn, Tỉnh Bình Định",
+      "slug": "an-nhon",
+      "type": "thi-xa"
+   },
+   {
+      "code": "550",
+      "name": "Tuy Phước",
+      "name_with_type": "Huyện Tuy Phước",
+      "parent_code": "52",
+      "path": "Tuy Phước, Bình Định",
+      "path_with_type": "Huyện Tuy Phước, Tỉnh Bình Định",
+      "slug": "tuy-phuoc",
+      "type": "huyen"
+   },
+   {
+      "code": "551",
+      "name": "Vân Canh",
+      "name_with_type": "Huyện Vân Canh",
+      "parent_code": "52",
+      "path": "Vân Canh, Bình Định",
+      "path_with_type": "Huyện Vân Canh, Tỉnh Bình Định",
+      "slug": "van-canh",
+      "type": "huyen"
+   },
+   {
+      "code": "412",
+      "name": "Vinh",
+      "name_with_type": "Thành phố Vinh",
+      "parent_code": "40",
+      "path": "Vinh, Nghệ An",
+      "path_with_type": "Thành phố Vinh, Tỉnh Nghệ An",
+      "slug": "vinh",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "413",
+      "name": "Cửa Lò",
+      "name_with_type": "Thị xã Cửa Lò",
+      "parent_code": "40",
+      "path": "Cửa Lò, Nghệ An",
+      "path_with_type": "Thị xã Cửa Lò, Tỉnh Nghệ An",
+      "slug": "cua-lo",
+      "type": "thi-xa"
+   },
+   {
+      "code": "414",
+      "name": "Thái Hoà",
+      "name_with_type": "Thị xã Thái Hoà",
+      "parent_code": "40",
+      "path": "Thái Hoà, Nghệ An",
+      "path_with_type": "Thị xã Thái Hoà, Tỉnh Nghệ An",
+      "slug": "thai-hoa",
+      "type": "thi-xa"
+   },
+   {
+      "code": "415",
+      "name": "Quế Phong",
+      "name_with_type": "Huyện Quế Phong",
+      "parent_code": "40",
+      "path": "Quế Phong, Nghệ An",
+      "path_with_type": "Huyện Quế Phong, Tỉnh Nghệ An",
+      "slug": "que-phong",
+      "type": "huyen"
+   },
+   {
+      "code": "416",
+      "name": "Quỳ Châu",
+      "name_with_type": "Huyện Quỳ Châu",
+      "parent_code": "40",
+      "path": "Quỳ Châu, Nghệ An",
+      "path_with_type": "Huyện Quỳ Châu, Tỉnh Nghệ An",
+      "slug": "quy-chau",
+      "type": "huyen"
+   },
+   {
+      "code": "417",
+      "name": "Kỳ Sơn",
+      "name_with_type": "Huyện Kỳ Sơn",
+      "parent_code": "40",
+      "path": "Kỳ Sơn, Nghệ An",
+      "path_with_type": "Huyện Kỳ Sơn, Tỉnh Nghệ An",
+      "slug": "ky-son",
+      "type": "huyen"
+   },
+   {
+      "code": "418",
+      "name": "Tương Dương",
+      "name_with_type": "Huyện Tương Dương",
+      "parent_code": "40",
+      "path": "Tương Dương, Nghệ An",
+      "path_with_type": "Huyện Tương Dương, Tỉnh Nghệ An",
+      "slug": "tuong-duong",
+      "type": "huyen"
+   },
+   {
+      "code": "419",
+      "name": "Nghĩa Đàn",
+      "name_with_type": "Huyện Nghĩa Đàn",
+      "parent_code": "40",
+      "path": "Nghĩa Đàn, Nghệ An",
+      "path_with_type": "Huyện Nghĩa Đàn, Tỉnh Nghệ An",
+      "slug": "nghia-dan",
+      "type": "huyen"
+   },
+   {
+      "code": "420",
+      "name": "Quỳ Hợp",
+      "name_with_type": "Huyện Quỳ Hợp",
+      "parent_code": "40",
+      "path": "Quỳ Hợp, Nghệ An",
+      "path_with_type": "Huyện Quỳ Hợp, Tỉnh Nghệ An",
+      "slug": "quy-hop",
+      "type": "huyen"
+   },
+   {
+      "code": "421",
+      "name": "Quỳnh Lưu",
+      "name_with_type": "Huyện Quỳnh Lưu",
+      "parent_code": "40",
+      "path": "Quỳnh Lưu, Nghệ An",
+      "path_with_type": "Huyện Quỳnh Lưu, Tỉnh Nghệ An",
+      "slug": "quynh-luu",
+      "type": "huyen"
+   },
+   {
+      "code": "422",
+      "name": "Con Cuông",
+      "name_with_type": "Huyện Con Cuông",
+      "parent_code": "40",
+      "path": "Con Cuông, Nghệ An",
+      "path_with_type": "Huyện Con Cuông, Tỉnh Nghệ An",
+      "slug": "con-cuong",
+      "type": "huyen"
+   },
+   {
+      "code": "423",
+      "name": "Tân Kỳ",
+      "name_with_type": "Huyện Tân Kỳ",
+      "parent_code": "40",
+      "path": "Tân Kỳ, Nghệ An",
+      "path_with_type": "Huyện Tân Kỳ, Tỉnh Nghệ An",
+      "slug": "tan-ky",
+      "type": "huyen"
+   },
+   {
+      "code": "424",
+      "name": "Anh Sơn",
+      "name_with_type": "Huyện Anh Sơn",
+      "parent_code": "40",
+      "path": "Anh Sơn, Nghệ An",
+      "path_with_type": "Huyện Anh Sơn, Tỉnh Nghệ An",
+      "slug": "anh-son",
+      "type": "huyen"
+   },
+   {
+      "code": "425",
+      "name": "Diễn Châu",
+      "name_with_type": "Huyện Diễn Châu",
+      "parent_code": "40",
+      "path": "Diễn Châu, Nghệ An",
+      "path_with_type": "Huyện Diễn Châu, Tỉnh Nghệ An",
+      "slug": "dien-chau",
+      "type": "huyen"
+   },
+   {
+      "code": "426",
+      "name": "Yên Thành",
+      "name_with_type": "Huyện Yên Thành",
+      "parent_code": "40",
+      "path": "Yên Thành, Nghệ An",
+      "path_with_type": "Huyện Yên Thành, Tỉnh Nghệ An",
+      "slug": "yen-thanh",
+      "type": "huyen"
+   },
+   {
+      "code": "427",
+      "name": "Đô Lương",
+      "name_with_type": "Huyện Đô Lương",
+      "parent_code": "40",
+      "path": "Đô Lương, Nghệ An",
+      "path_with_type": "Huyện Đô Lương, Tỉnh Nghệ An",
+      "slug": "do-luong",
+      "type": "huyen"
+   },
+   {
+      "code": "428",
+      "name": "Thanh Chương",
+      "name_with_type": "Huyện Thanh Chương",
+      "parent_code": "40",
+      "path": "Thanh Chương, Nghệ An",
+      "path_with_type": "Huyện Thanh Chương, Tỉnh Nghệ An",
+      "slug": "thanh-chuong",
+      "type": "huyen"
+   },
+   {
+      "code": "429",
+      "name": "Nghi Lộc",
+      "name_with_type": "Huyện Nghi Lộc",
+      "parent_code": "40",
+      "path": "Nghi Lộc, Nghệ An",
+      "path_with_type": "Huyện Nghi Lộc, Tỉnh Nghệ An",
+      "slug": "nghi-loc",
+      "type": "huyen"
+   },
+   {
+      "code": "430",
+      "name": "Nam Đàn",
+      "name_with_type": "Huyện Nam Đàn",
+      "parent_code": "40",
+      "path": "Nam Đàn, Nghệ An",
+      "path_with_type": "Huyện Nam Đàn, Tỉnh Nghệ An",
+      "slug": "nam-dan",
+      "type": "huyen"
+   },
+   {
+      "code": "431",
+      "name": "Hưng Nguyên",
+      "name_with_type": "Huyện Hưng Nguyên",
+      "parent_code": "40",
+      "path": "Hưng Nguyên, Nghệ An",
+      "path_with_type": "Huyện Hưng Nguyên, Tỉnh Nghệ An",
+      "slug": "hung-nguyen",
+      "type": "huyen"
+   },
+   {
+      "code": "432",
+      "name": "Hoàng Mai",
+      "name_with_type": "Thị xã Hoàng Mai",
+      "parent_code": "40",
+      "path": "Hoàng Mai, Nghệ An",
+      "path_with_type": "Thị xã Hoàng Mai, Tỉnh Nghệ An",
+      "slug": "hoang-mai",
+      "type": "thi-xa"
+   },
+   {
+      "code": "899",
+      "name": "Rạch Giá",
+      "name_with_type": "Thành phố Rạch Giá",
+      "parent_code": "91",
+      "path": "Rạch Giá, Kiên Giang",
+      "path_with_type": "Thành phố Rạch Giá, Tỉnh Kiên Giang",
+      "slug": "rach-gia",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "900",
+      "name": "Hà Tiên",
+      "name_with_type": "Thị xã Hà Tiên",
+      "parent_code": "91",
+      "path": "Hà Tiên, Kiên Giang",
+      "path_with_type": "Thị xã Hà Tiên, Tỉnh Kiên Giang",
+      "slug": "ha-tien",
+      "type": "thi-xa"
+   },
+   {
+      "code": "902",
+      "name": "Kiên Lương",
+      "name_with_type": "Huyện Kiên Lương",
+      "parent_code": "91",
+      "path": "Kiên Lương, Kiên Giang",
+      "path_with_type": "Huyện Kiên Lương, Tỉnh Kiên Giang",
+      "slug": "kien-luong",
+      "type": "huyen"
+   },
+   {
+      "code": "903",
+      "name": "Hòn Đất",
+      "name_with_type": "Huyện Hòn Đất",
+      "parent_code": "91",
+      "path": "Hòn Đất, Kiên Giang",
+      "path_with_type": "Huyện Hòn Đất, Tỉnh Kiên Giang",
+      "slug": "hon-dat",
+      "type": "huyen"
+   },
+   {
+      "code": "904",
+      "name": "Tân Hiệp",
+      "name_with_type": "Huyện Tân Hiệp",
+      "parent_code": "91",
+      "path": "Tân Hiệp, Kiên Giang",
+      "path_with_type": "Huyện Tân Hiệp, Tỉnh Kiên Giang",
+      "slug": "tan-hiep",
+      "type": "huyen"
+   },
+   {
+      "code": "905",
+      "name": "Châu Thành",
+      "name_with_type": "Huyện Châu Thành",
+      "parent_code": "91",
+      "path": "Châu Thành, Kiên Giang",
+      "path_with_type": "Huyện Châu Thành, Tỉnh Kiên Giang",
+      "slug": "chau-thanh",
+      "type": "huyen"
+   },
+   {
+      "code": "906",
+      "name": "Giồng Riềng",
+      "name_with_type": "Huyện Giồng Riềng",
+      "parent_code": "91",
+      "path": "Giồng Riềng, Kiên Giang",
+      "path_with_type": "Huyện Giồng Riềng, Tỉnh Kiên Giang",
+      "slug": "giong-rieng",
+      "type": "huyen"
+   },
+   {
+      "code": "907",
+      "name": "Gò Quao",
+      "name_with_type": "Huyện Gò Quao",
+      "parent_code": "91",
+      "path": "Gò Quao, Kiên Giang",
+      "path_with_type": "Huyện Gò Quao, Tỉnh Kiên Giang",
+      "slug": "go-quao",
+      "type": "huyen"
+   },
+   {
+      "code": "908",
+      "name": "An Biên",
+      "name_with_type": "Huyện An Biên",
+      "parent_code": "91",
+      "path": "An Biên, Kiên Giang",
+      "path_with_type": "Huyện An Biên, Tỉnh Kiên Giang",
+      "slug": "an-bien",
+      "type": "huyen"
+   },
+   {
+      "code": "909",
+      "name": "An Minh",
+      "name_with_type": "Huyện An Minh",
+      "parent_code": "91",
+      "path": "An Minh, Kiên Giang",
+      "path_with_type": "Huyện An Minh, Tỉnh Kiên Giang",
+      "slug": "an-minh",
+      "type": "huyen"
+   },
+   {
+      "code": "910",
+      "name": "Vĩnh Thuận",
+      "name_with_type": "Huyện Vĩnh Thuận",
+      "parent_code": "91",
+      "path": "Vĩnh Thuận, Kiên Giang",
+      "path_with_type": "Huyện Vĩnh Thuận, Tỉnh Kiên Giang",
+      "slug": "vinh-thuan",
+      "type": "huyen"
+   },
+   {
+      "code": "911",
+      "name": "Phú Quốc",
+      "name_with_type": "Huyện Phú Quốc",
+      "parent_code": "91",
+      "path": "Phú Quốc, Kiên Giang",
+      "path_with_type": "Huyện Phú Quốc, Tỉnh Kiên Giang",
+      "slug": "phu-quoc",
+      "type": "huyen"
+   },
+   {
+      "code": "912",
+      "name": "Kiên Hải",
+      "name_with_type": "Huyện Kiên Hải",
+      "parent_code": "91",
+      "path": "Kiên Hải, Kiên Giang",
+      "path_with_type": "Huyện Kiên Hải, Tỉnh Kiên Giang",
+      "slug": "kien-hai",
+      "type": "huyen"
+   },
+   {
+      "code": "913",
+      "name": "U Minh Thượng",
+      "name_with_type": "Huyện U Minh Thượng",
+      "parent_code": "91",
+      "path": "U Minh Thượng, Kiên Giang",
+      "path_with_type": "Huyện U Minh Thượng, Tỉnh Kiên Giang",
+      "slug": "u-minh-thuong",
+      "type": "huyen"
+   },
+   {
+      "code": "914",
+      "name": "Giang Thành",
+      "name_with_type": "Huyện Giang Thành",
+      "parent_code": "91",
+      "path": "Giang Thành, Kiên Giang",
+      "path_with_type": "Huyện Giang Thành, Tỉnh Kiên Giang",
+      "slug": "giang-thanh",
+      "type": "huyen"
+   },
+   {
+      "code": "024",
+      "name": "Hà Giang",
+      "name_with_type": "Thành phố Hà Giang",
+      "parent_code": "02",
+      "path": "Hà Giang, Hà Giang",
+      "path_with_type": "Thành phố Hà Giang, Tỉnh Hà Giang",
+      "slug": "ha-giang",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "026",
+      "name": "Đồng Văn",
+      "name_with_type": "Huyện Đồng Văn",
+      "parent_code": "02",
+      "path": "Đồng Văn, Hà Giang",
+      "path_with_type": "Huyện Đồng Văn, Tỉnh Hà Giang",
+      "slug": "dong-van",
+      "type": "huyen"
+   },
+   {
+      "code": "027",
+      "name": "Mèo Vạc",
+      "name_with_type": "Huyện Mèo Vạc",
+      "parent_code": "02",
+      "path": "Mèo Vạc, Hà Giang",
+      "path_with_type": "Huyện Mèo Vạc, Tỉnh Hà Giang",
+      "slug": "meo-vac",
+      "type": "huyen"
+   },
+   {
+      "code": "028",
+      "name": "Yên Minh",
+      "name_with_type": "Huyện Yên Minh",
+      "parent_code": "02",
+      "path": "Yên Minh, Hà Giang",
+      "path_with_type": "Huyện Yên Minh, Tỉnh Hà Giang",
+      "slug": "yen-minh",
+      "type": "huyen"
+   },
+   {
+      "code": "029",
+      "name": "Quản Bạ",
+      "name_with_type": "Huyện Quản Bạ",
+      "parent_code": "02",
+      "path": "Quản Bạ, Hà Giang",
+      "path_with_type": "Huyện Quản Bạ, Tỉnh Hà Giang",
+      "slug": "quan-ba",
+      "type": "huyen"
+   },
+   {
+      "code": "030",
+      "name": "Vị Xuyên",
+      "name_with_type": "Huyện Vị Xuyên",
+      "parent_code": "02",
+      "path": "Vị Xuyên, Hà Giang",
+      "path_with_type": "Huyện Vị Xuyên, Tỉnh Hà Giang",
+      "slug": "vi-xuyen",
+      "type": "huyen"
+   },
+   {
+      "code": "031",
+      "name": "Bắc Mê",
+      "name_with_type": "Huyện Bắc Mê",
+      "parent_code": "02",
+      "path": "Bắc Mê, Hà Giang",
+      "path_with_type": "Huyện Bắc Mê, Tỉnh Hà Giang",
+      "slug": "bac-me",
+      "type": "huyen"
+   },
+   {
+      "code": "032",
+      "name": "Hoàng Su Phì",
+      "name_with_type": "Huyện Hoàng Su Phì",
+      "parent_code": "02",
+      "path": "Hoàng Su Phì, Hà Giang",
+      "path_with_type": "Huyện Hoàng Su Phì, Tỉnh Hà Giang",
+      "slug": "hoang-su-phi",
+      "type": "huyen"
+   },
+   {
+      "code": "033",
+      "name": "Xín Mần",
+      "name_with_type": "Huyện Xín Mần",
+      "parent_code": "02",
+      "path": "Xín Mần, Hà Giang",
+      "path_with_type": "Huyện Xín Mần, Tỉnh Hà Giang",
+      "slug": "xin-man",
+      "type": "huyen"
+   },
+   {
+      "code": "034",
+      "name": "Bắc Quang",
+      "name_with_type": "Huyện Bắc Quang",
+      "parent_code": "02",
+      "path": "Bắc Quang, Hà Giang",
+      "path_with_type": "Huyện Bắc Quang, Tỉnh Hà Giang",
+      "slug": "bac-quang",
+      "type": "huyen"
+   },
+   {
+      "code": "035",
+      "name": "Quang Bình",
+      "name_with_type": "Huyện Quang Bình",
+      "parent_code": "02",
+      "path": "Quang Bình, Hà Giang",
+      "path_with_type": "Huyện Quang Bình, Tỉnh Hà Giang",
+      "slug": "quang-binh",
+      "type": "huyen"
+   },
+   {
+      "code": "555",
+      "name": "Tuy Hoà",
+      "name_with_type": "Thành phố Tuy Hoà",
+      "parent_code": "54",
+      "path": "Tuy Hoà, Phú Yên",
+      "path_with_type": "Thành phố Tuy Hoà, Tỉnh Phú Yên",
+      "slug": "tuy-hoa",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "557",
+      "name": "Sông Cầu",
+      "name_with_type": "Thị xã Sông Cầu",
+      "parent_code": "54",
+      "path": "Sông Cầu, Phú Yên",
+      "path_with_type": "Thị xã Sông Cầu, Tỉnh Phú Yên",
+      "slug": "song-cau",
+      "type": "thi-xa"
+   },
+   {
+      "code": "558",
+      "name": "Đồng Xuân",
+      "name_with_type": "Huyện Đồng Xuân",
+      "parent_code": "54",
+      "path": "Đồng Xuân, Phú Yên",
+      "path_with_type": "Huyện Đồng Xuân, Tỉnh Phú Yên",
+      "slug": "dong-xuan",
+      "type": "huyen"
+   },
+   {
+      "code": "559",
+      "name": "Tuy An",
+      "name_with_type": "Huyện Tuy An",
+      "parent_code": "54",
+      "path": "Tuy An, Phú Yên",
+      "path_with_type": "Huyện Tuy An, Tỉnh Phú Yên",
+      "slug": "tuy-an",
+      "type": "huyen"
+   },
+   {
+      "code": "560",
+      "name": "Sơn Hòa",
+      "name_with_type": "Huyện Sơn Hòa",
+      "parent_code": "54",
+      "path": "Sơn Hòa, Phú Yên",
+      "path_with_type": "Huyện Sơn Hòa, Tỉnh Phú Yên",
+      "slug": "son-hoa",
+      "type": "huyen"
+   },
+   {
+      "code": "561",
+      "name": "Sông Hinh",
+      "name_with_type": "Huyện Sông Hinh",
+      "parent_code": "54",
+      "path": "Sông Hinh, Phú Yên",
+      "path_with_type": "Huyện Sông Hinh, Tỉnh Phú Yên",
+      "slug": "song-hinh",
+      "type": "huyen"
+   },
+   {
+      "code": "562",
+      "name": "Tây Hoà",
+      "name_with_type": "Huyện Tây Hoà",
+      "parent_code": "54",
+      "path": "Tây Hoà, Phú Yên",
+      "path_with_type": "Huyện Tây Hoà, Tỉnh Phú Yên",
+      "slug": "tay-hoa",
+      "type": "huyen"
+   },
+   {
+      "code": "563",
+      "name": "Phú Hoà",
+      "name_with_type": "Huyện Phú Hoà",
+      "parent_code": "54",
+      "path": "Phú Hoà, Phú Yên",
+      "path_with_type": "Huyện Phú Hoà, Tỉnh Phú Yên",
+      "slug": "phu-hoa",
+      "type": "huyen"
+   },
+   {
+      "code": "564",
+      "name": "Đông Hòa",
+      "name_with_type": "Huyện Đông Hòa",
+      "parent_code": "54",
+      "path": "Đông Hòa, Phú Yên",
+      "path_with_type": "Huyện Đông Hòa, Tỉnh Phú Yên",
+      "slug": "dong-hoa",
+      "type": "huyen"
+   },
+   {
+      "code": "178",
+      "name": "Lạng Sơn",
+      "name_with_type": "Thành phố Lạng Sơn",
+      "parent_code": "20",
+      "path": "Lạng Sơn, Lạng Sơn",
+      "path_with_type": "Thành phố Lạng Sơn, Tỉnh Lạng Sơn",
+      "slug": "lang-son",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "180",
+      "name": "Tràng Định",
+      "name_with_type": "Huyện Tràng Định",
+      "parent_code": "20",
+      "path": "Tràng Định, Lạng Sơn",
+      "path_with_type": "Huyện Tràng Định, Tỉnh Lạng Sơn",
+      "slug": "trang-dinh",
+      "type": "huyen"
+   },
+   {
+      "code": "181",
+      "name": "Bình Gia",
+      "name_with_type": "Huyện Bình Gia",
+      "parent_code": "20",
+      "path": "Bình Gia, Lạng Sơn",
+      "path_with_type": "Huyện Bình Gia, Tỉnh Lạng Sơn",
+      "slug": "binh-gia",
+      "type": "huyen"
+   },
+   {
+      "code": "182",
+      "name": "Văn Lãng",
+      "name_with_type": "Huyện Văn Lãng",
+      "parent_code": "20",
+      "path": "Văn Lãng, Lạng Sơn",
+      "path_with_type": "Huyện Văn Lãng, Tỉnh Lạng Sơn",
+      "slug": "van-lang",
+      "type": "huyen"
+   },
+   {
+      "code": "183",
+      "name": "Cao Lộc",
+      "name_with_type": "Huyện Cao Lộc",
+      "parent_code": "20",
+      "path": "Cao Lộc, Lạng Sơn",
+      "path_with_type": "Huyện Cao Lộc, Tỉnh Lạng Sơn",
+      "slug": "cao-loc",
+      "type": "huyen"
+   },
+   {
+      "code": "184",
+      "name": "Văn Quan",
+      "name_with_type": "Huyện Văn Quan",
+      "parent_code": "20",
+      "path": "Văn Quan, Lạng Sơn",
+      "path_with_type": "Huyện Văn Quan, Tỉnh Lạng Sơn",
+      "slug": "van-quan",
+      "type": "huyen"
+   },
+   {
+      "code": "185",
+      "name": "Bắc Sơn",
+      "name_with_type": "Huyện Bắc Sơn",
+      "parent_code": "20",
+      "path": "Bắc Sơn, Lạng Sơn",
+      "path_with_type": "Huyện Bắc Sơn, Tỉnh Lạng Sơn",
+      "slug": "bac-son",
+      "type": "huyen"
+   },
+   {
+      "code": "186",
+      "name": "Hữu Lũng",
+      "name_with_type": "Huyện Hữu Lũng",
+      "parent_code": "20",
+      "path": "Hữu Lũng, Lạng Sơn",
+      "path_with_type": "Huyện Hữu Lũng, Tỉnh Lạng Sơn",
+      "slug": "huu-lung",
+      "type": "huyen"
+   },
+   {
+      "code": "187",
+      "name": "Chi Lăng",
+      "name_with_type": "Huyện Chi Lăng",
+      "parent_code": "20",
+      "path": "Chi Lăng, Lạng Sơn",
+      "path_with_type": "Huyện Chi Lăng, Tỉnh Lạng Sơn",
+      "slug": "chi-lang",
+      "type": "huyen"
+   },
+   {
+      "code": "188",
+      "name": "Lộc Bình",
+      "name_with_type": "Huyện Lộc Bình",
+      "parent_code": "20",
+      "path": "Lộc Bình, Lạng Sơn",
+      "path_with_type": "Huyện Lộc Bình, Tỉnh Lạng Sơn",
+      "slug": "loc-binh",
+      "type": "huyen"
+   },
+   {
+      "code": "189",
+      "name": "Đình Lập",
+      "name_with_type": "Huyện Đình Lập",
+      "parent_code": "20",
+      "path": "Đình Lập, Lạng Sơn",
+      "path_with_type": "Huyện Đình Lập, Tỉnh Lạng Sơn",
+      "slug": "dinh-lap",
+      "type": "huyen"
+   },
+   {
+      "code": "490",
+      "name": "Liên Chiểu",
+      "name_with_type": "Quận Liên Chiểu",
+      "parent_code": "48",
+      "path": "Liên Chiểu, Đà Nẵng",
+      "path_with_type": "Quận Liên Chiểu, Thành phố Đà Nẵng",
+      "slug": "lien-chieu",
+      "type": "quan"
+   },
+   {
+      "code": "491",
+      "name": "Thanh Khê",
+      "name_with_type": "Quận Thanh Khê",
+      "parent_code": "48",
+      "path": "Thanh Khê, Đà Nẵng",
+      "path_with_type": "Quận Thanh Khê, Thành phố Đà Nẵng",
+      "slug": "thanh-khe",
+      "type": "quan"
+   },
+   {
+      "code": "492",
+      "name": "Hải Châu",
+      "name_with_type": "Quận Hải Châu",
+      "parent_code": "48",
+      "path": "Hải Châu, Đà Nẵng",
+      "path_with_type": "Quận Hải Châu, Thành phố Đà Nẵng",
+      "slug": "hai-chau",
+      "type": "quan"
+   },
+   {
+      "code": "493",
+      "name": "Sơn Trà",
+      "name_with_type": "Quận Sơn Trà",
+      "parent_code": "48",
+      "path": "Sơn Trà, Đà Nẵng",
+      "path_with_type": "Quận Sơn Trà, Thành phố Đà Nẵng",
+      "slug": "son-tra",
+      "type": "quan"
+   },
+   {
+      "code": "494",
+      "name": "Ngũ Hành Sơn",
+      "name_with_type": "Quận Ngũ Hành Sơn",
+      "parent_code": "48",
+      "path": "Ngũ Hành Sơn, Đà Nẵng",
+      "path_with_type": "Quận Ngũ Hành Sơn, Thành phố Đà Nẵng",
+      "slug": "ngu-hanh-son",
+      "type": "quan"
+   },
+   {
+      "code": "495",
+      "name": "Cẩm Lệ",
+      "name_with_type": "Quận Cẩm Lệ",
+      "parent_code": "48",
+      "path": "Cẩm Lệ, Đà Nẵng",
+      "path_with_type": "Quận Cẩm Lệ, Thành phố Đà Nẵng",
+      "slug": "cam-le",
+      "type": "quan"
+   },
+   {
+      "code": "497",
+      "name": "Hòa Vang",
+      "name_with_type": "Huyện Hòa Vang",
+      "parent_code": "48",
+      "path": "Hòa Vang, Đà Nẵng",
+      "path_with_type": "Huyện Hòa Vang, Thành phố Đà Nẵng",
+      "slug": "hoa-vang",
+      "type": "huyen"
+   },
+   {
+      "code": "116",
+      "name": "Sơn La",
+      "name_with_type": "Thành phố Sơn La",
+      "parent_code": "14",
+      "path": "Sơn La, Sơn La",
+      "path_with_type": "Thành phố Sơn La, Tỉnh Sơn La",
+      "slug": "son-la",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "118",
+      "name": "Quỳnh Nhai",
+      "name_with_type": "Huyện Quỳnh Nhai",
+      "parent_code": "14",
+      "path": "Quỳnh Nhai, Sơn La",
+      "path_with_type": "Huyện Quỳnh Nhai, Tỉnh Sơn La",
+      "slug": "quynh-nhai",
+      "type": "huyen"
+   },
+   {
+      "code": "119",
+      "name": "Thuận Châu",
+      "name_with_type": "Huyện Thuận Châu",
+      "parent_code": "14",
+      "path": "Thuận Châu, Sơn La",
+      "path_with_type": "Huyện Thuận Châu, Tỉnh Sơn La",
+      "slug": "thuan-chau",
+      "type": "huyen"
+   },
+   {
+      "code": "120",
+      "name": "Mường La",
+      "name_with_type": "Huyện Mường La",
+      "parent_code": "14",
+      "path": "Mường La, Sơn La",
+      "path_with_type": "Huyện Mường La, Tỉnh Sơn La",
+      "slug": "muong-la",
+      "type": "huyen"
+   },
+   {
+      "code": "121",
+      "name": "Bắc Yên",
+      "name_with_type": "Huyện Bắc Yên",
+      "parent_code": "14",
+      "path": "Bắc Yên, Sơn La",
+      "path_with_type": "Huyện Bắc Yên, Tỉnh Sơn La",
+      "slug": "bac-yen",
+      "type": "huyen"
+   },
+   {
+      "code": "122",
+      "name": "Phù Yên",
+      "name_with_type": "Huyện Phù Yên",
+      "parent_code": "14",
+      "path": "Phù Yên, Sơn La",
+      "path_with_type": "Huyện Phù Yên, Tỉnh Sơn La",
+      "slug": "phu-yen",
+      "type": "huyen"
+   },
+   {
+      "code": "123",
+      "name": "Mộc Châu",
+      "name_with_type": "Huyện Mộc Châu",
+      "parent_code": "14",
+      "path": "Mộc Châu, Sơn La",
+      "path_with_type": "Huyện Mộc Châu, Tỉnh Sơn La",
+      "slug": "moc-chau",
+      "type": "huyen"
+   },
+   {
+      "code": "124",
+      "name": "Yên Châu",
+      "name_with_type": "Huyện Yên Châu",
+      "parent_code": "14",
+      "path": "Yên Châu, Sơn La",
+      "path_with_type": "Huyện Yên Châu, Tỉnh Sơn La",
+      "slug": "yen-chau",
+      "type": "huyen"
+   },
+   {
+      "code": "125",
+      "name": "Mai Sơn",
+      "name_with_type": "Huyện Mai Sơn",
+      "parent_code": "14",
+      "path": "Mai Sơn, Sơn La",
+      "path_with_type": "Huyện Mai Sơn, Tỉnh Sơn La",
+      "slug": "mai-son",
+      "type": "huyen"
+   },
+   {
+      "code": "126",
+      "name": "Sông Mã",
+      "name_with_type": "Huyện Sông Mã",
+      "parent_code": "14",
+      "path": "Sông Mã, Sơn La",
+      "path_with_type": "Huyện Sông Mã, Tỉnh Sơn La",
+      "slug": "song-ma",
+      "type": "huyen"
+   },
+   {
+      "code": "127",
+      "name": "Sốp Cộp",
+      "name_with_type": "Huyện Sốp Cộp",
+      "parent_code": "14",
+      "path": "Sốp Cộp, Sơn La",
+      "path_with_type": "Huyện Sốp Cộp, Tỉnh Sơn La",
+      "slug": "sop-cop",
+      "type": "huyen"
+   },
+   {
+      "code": "128",
+      "name": "Vân Hồ",
+      "name_with_type": "Huyện Vân Hồ",
+      "parent_code": "14",
+      "path": "Vân Hồ, Sơn La",
+      "path_with_type": "Huyện Vân Hồ, Tỉnh Sơn La",
+      "slug": "van-ho",
+      "type": "huyen"
+   },
+   {
+      "code": "703",
+      "name": "Tây Ninh",
+      "name_with_type": "Thành phố Tây Ninh",
+      "parent_code": "72",
+      "path": "Tây Ninh, Tây Ninh",
+      "path_with_type": "Thành phố Tây Ninh, Tỉnh Tây Ninh",
+      "slug": "tay-ninh",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "705",
+      "name": "Tân Biên",
+      "name_with_type": "Huyện Tân Biên",
+      "parent_code": "72",
+      "path": "Tân Biên, Tây Ninh",
+      "path_with_type": "Huyện Tân Biên, Tỉnh Tây Ninh",
+      "slug": "tan-bien",
+      "type": "huyen"
+   },
+   {
+      "code": "706",
+      "name": "Tân Châu",
+      "name_with_type": "Huyện Tân Châu",
+      "parent_code": "72",
+      "path": "Tân Châu, Tây Ninh",
+      "path_with_type": "Huyện Tân Châu, Tỉnh Tây Ninh",
+      "slug": "tan-chau",
+      "type": "huyen"
+   },
+   {
+      "code": "707",
+      "name": "Dương Minh Châu",
+      "name_with_type": "Huyện Dương Minh Châu",
+      "parent_code": "72",
+      "path": "Dương Minh Châu, Tây Ninh",
+      "path_with_type": "Huyện Dương Minh Châu, Tỉnh Tây Ninh",
+      "slug": "duong-minh-chau",
+      "type": "huyen"
+   },
+   {
+      "code": "708",
+      "name": "Châu Thành",
+      "name_with_type": "Huyện Châu Thành",
+      "parent_code": "72",
+      "path": "Châu Thành, Tây Ninh",
+      "path_with_type": "Huyện Châu Thành, Tỉnh Tây Ninh",
+      "slug": "chau-thanh",
+      "type": "huyen"
+   },
+   {
+      "code": "709",
+      "name": "Hòa Thành",
+      "name_with_type": "Huyện Hòa Thành",
+      "parent_code": "72",
+      "path": "Hòa Thành, Tây Ninh",
+      "path_with_type": "Huyện Hòa Thành, Tỉnh Tây Ninh",
+      "slug": "hoa-thanh",
+      "type": "huyen"
+   },
+   {
+      "code": "710",
+      "name": "Gò Dầu",
+      "name_with_type": "Huyện Gò Dầu",
+      "parent_code": "72",
+      "path": "Gò Dầu, Tây Ninh",
+      "path_with_type": "Huyện Gò Dầu, Tỉnh Tây Ninh",
+      "slug": "go-dau",
+      "type": "huyen"
+   },
+   {
+      "code": "711",
+      "name": "Bến Cầu",
+      "name_with_type": "Huyện Bến Cầu",
+      "parent_code": "72",
+      "path": "Bến Cầu, Tây Ninh",
+      "path_with_type": "Huyện Bến Cầu, Tỉnh Tây Ninh",
+      "slug": "ben-cau",
+      "type": "huyen"
+   },
+   {
+      "code": "712",
+      "name": "Trảng Bàng",
+      "name_with_type": "Huyện Trảng Bàng",
+      "parent_code": "72",
+      "path": "Trảng Bàng, Tây Ninh",
+      "path_with_type": "Huyện Trảng Bàng, Tỉnh Tây Ninh",
+      "slug": "trang-bang",
+      "type": "huyen"
+   },
+   {
+      "code": "356",
+      "name": "Nam Định",
+      "name_with_type": "Thành phố Nam Định",
+      "parent_code": "36",
+      "path": "Nam Định, Nam Định",
+      "path_with_type": "Thành phố Nam Định, Tỉnh Nam Định",
+      "slug": "nam-dinh",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "358",
+      "name": "Mỹ Lộc",
+      "name_with_type": "Huyện Mỹ Lộc",
+      "parent_code": "36",
+      "path": "Mỹ Lộc, Nam Định",
+      "path_with_type": "Huyện Mỹ Lộc, Tỉnh Nam Định",
+      "slug": "my-loc",
+      "type": "huyen"
+   },
+   {
+      "code": "359",
+      "name": "Vụ Bản",
+      "name_with_type": "Huyện Vụ Bản",
+      "parent_code": "36",
+      "path": "Vụ Bản, Nam Định",
+      "path_with_type": "Huyện Vụ Bản, Tỉnh Nam Định",
+      "slug": "vu-ban",
+      "type": "huyen"
+   },
+   {
+      "code": "360",
+      "name": "Ý Yên",
+      "name_with_type": "Huyện Ý Yên",
+      "parent_code": "36",
+      "path": "Ý Yên, Nam Định",
+      "path_with_type": "Huyện Ý Yên, Tỉnh Nam Định",
+      "slug": "y-yen",
+      "type": "huyen"
+   },
+   {
+      "code": "361",
+      "name": "Nghĩa Hưng",
+      "name_with_type": "Huyện Nghĩa Hưng",
+      "parent_code": "36",
+      "path": "Nghĩa Hưng, Nam Định",
+      "path_with_type": "Huyện Nghĩa Hưng, Tỉnh Nam Định",
+      "slug": "nghia-hung",
+      "type": "huyen"
+   },
+   {
+      "code": "362",
+      "name": "Nam Trực",
+      "name_with_type": "Huyện Nam Trực",
+      "parent_code": "36",
+      "path": "Nam Trực, Nam Định",
+      "path_with_type": "Huyện Nam Trực, Tỉnh Nam Định",
+      "slug": "nam-truc",
+      "type": "huyen"
+   },
+   {
+      "code": "363",
+      "name": "Trực Ninh",
+      "name_with_type": "Huyện Trực Ninh",
+      "parent_code": "36",
+      "path": "Trực Ninh, Nam Định",
+      "path_with_type": "Huyện Trực Ninh, Tỉnh Nam Định",
+      "slug": "truc-ninh",
+      "type": "huyen"
+   },
+   {
+      "code": "364",
+      "name": "Xuân Trường",
+      "name_with_type": "Huyện Xuân Trường",
+      "parent_code": "36",
+      "path": "Xuân Trường, Nam Định",
+      "path_with_type": "Huyện Xuân Trường, Tỉnh Nam Định",
+      "slug": "xuan-truong",
+      "type": "huyen"
+   },
+   {
+      "code": "365",
+      "name": "Giao Thủy",
+      "name_with_type": "Huyện Giao Thủy",
+      "parent_code": "36",
+      "path": "Giao Thủy, Nam Định",
+      "path_with_type": "Huyện Giao Thủy, Tỉnh Nam Định",
+      "slug": "giao-thuy",
+      "type": "huyen"
+   },
+   {
+      "code": "366",
+      "name": "Hải Hậu",
+      "name_with_type": "Huyện Hải Hậu",
+      "parent_code": "36",
+      "path": "Hải Hậu, Nam Định",
+      "path_with_type": "Huyện Hải Hậu, Tỉnh Nam Định",
+      "slug": "hai-hau",
+      "type": "huyen"
+   },
+   {
+      "code": "105",
+      "name": "Lai Châu",
+      "name_with_type": "Thành phố Lai Châu",
+      "parent_code": "12",
+      "path": "Lai Châu, Lai Châu",
+      "path_with_type": "Thành phố Lai Châu, Tỉnh Lai Châu",
+      "slug": "lai-chau",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "106",
+      "name": "Tam Đường",
+      "name_with_type": "Huyện Tam Đường",
+      "parent_code": "12",
+      "path": "Tam Đường, Lai Châu",
+      "path_with_type": "Huyện Tam Đường, Tỉnh Lai Châu",
+      "slug": "tam-duong",
+      "type": "huyen"
+   },
+   {
+      "code": "107",
+      "name": "Mường Tè",
+      "name_with_type": "Huyện Mường Tè",
+      "parent_code": "12",
+      "path": "Mường Tè, Lai Châu",
+      "path_with_type": "Huyện Mường Tè, Tỉnh Lai Châu",
+      "slug": "muong-te",
+      "type": "huyen"
+   },
+   {
+      "code": "108",
+      "name": "Sìn Hồ",
+      "name_with_type": "Huyện Sìn Hồ",
+      "parent_code": "12",
+      "path": "Sìn Hồ, Lai Châu",
+      "path_with_type": "Huyện Sìn Hồ, Tỉnh Lai Châu",
+      "slug": "sin-ho",
+      "type": "huyen"
+   },
+   {
+      "code": "109",
+      "name": "Phong Thổ",
+      "name_with_type": "Huyện Phong Thổ",
+      "parent_code": "12",
+      "path": "Phong Thổ, Lai Châu",
+      "path_with_type": "Huyện Phong Thổ, Tỉnh Lai Châu",
+      "slug": "phong-tho",
+      "type": "huyen"
+   },
+   {
+      "code": "110",
+      "name": "Than Uyên",
+      "name_with_type": "Huyện Than Uyên",
+      "parent_code": "12",
+      "path": "Than Uyên, Lai Châu",
+      "path_with_type": "Huyện Than Uyên, Tỉnh Lai Châu",
+      "slug": "than-uyen",
+      "type": "huyen"
+   },
+   {
+      "code": "111",
+      "name": "Tân Uyên",
+      "name_with_type": "Huyện Tân Uyên",
+      "parent_code": "12",
+      "path": "Tân Uyên, Lai Châu",
+      "path_with_type": "Huyện Tân Uyên, Tỉnh Lai Châu",
+      "slug": "tan-uyen",
+      "type": "huyen"
+   },
+   {
+      "code": "112",
+      "name": "Nậm Nhùn",
+      "name_with_type": "Huyện Nậm Nhùn",
+      "parent_code": "12",
+      "path": "Nậm Nhùn, Lai Châu",
+      "path_with_type": "Huyện Nậm Nhùn, Tỉnh Lai Châu",
+      "slug": "nam-nhun",
+      "type": "huyen"
+   },
+   {
+      "code": "829",
+      "name": "Bến Tre",
+      "name_with_type": "Thành phố Bến Tre",
+      "parent_code": "83",
+      "path": "Bến Tre, Bến Tre",
+      "path_with_type": "Thành phố Bến Tre, Tỉnh Bến Tre",
+      "slug": "ben-tre",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "831",
+      "name": "Châu Thành",
+      "name_with_type": "Huyện Châu Thành",
+      "parent_code": "83",
+      "path": "Châu Thành, Bến Tre",
+      "path_with_type": "Huyện Châu Thành, Tỉnh Bến Tre",
+      "slug": "chau-thanh",
+      "type": "huyen"
+   },
+   {
+      "code": "832",
+      "name": "Chợ Lách",
+      "name_with_type": "Huyện Chợ Lách",
+      "parent_code": "83",
+      "path": "Chợ Lách, Bến Tre",
+      "path_with_type": "Huyện Chợ Lách, Tỉnh Bến Tre",
+      "slug": "cho-lach",
+      "type": "huyen"
+   },
+   {
+      "code": "833",
+      "name": "Mỏ Cày Nam",
+      "name_with_type": "Huyện Mỏ Cày Nam",
+      "parent_code": "83",
+      "path": "Mỏ Cày Nam, Bến Tre",
+      "path_with_type": "Huyện Mỏ Cày Nam, Tỉnh Bến Tre",
+      "slug": "mo-cay-nam",
+      "type": "huyen"
+   },
+   {
+      "code": "834",
+      "name": "Giồng Trôm",
+      "name_with_type": "Huyện Giồng Trôm",
+      "parent_code": "83",
+      "path": "Giồng Trôm, Bến Tre",
+      "path_with_type": "Huyện Giồng Trôm, Tỉnh Bến Tre",
+      "slug": "giong-trom",
+      "type": "huyen"
+   },
+   {
+      "code": "835",
+      "name": "Bình Đại",
+      "name_with_type": "Huyện Bình Đại",
+      "parent_code": "83",
+      "path": "Bình Đại, Bến Tre",
+      "path_with_type": "Huyện Bình Đại, Tỉnh Bến Tre",
+      "slug": "binh-dai",
+      "type": "huyen"
+   },
+   {
+      "code": "836",
+      "name": "Ba Tri",
+      "name_with_type": "Huyện Ba Tri",
+      "parent_code": "83",
+      "path": "Ba Tri, Bến Tre",
+      "path_with_type": "Huyện Ba Tri, Tỉnh Bến Tre",
+      "slug": "ba-tri",
+      "type": "huyen"
+   },
+   {
+      "code": "837",
+      "name": "Thạnh Phú",
+      "name_with_type": "Huyện Thạnh Phú",
+      "parent_code": "83",
+      "path": "Thạnh Phú, Bến Tre",
+      "path_with_type": "Huyện Thạnh Phú, Tỉnh Bến Tre",
+      "slug": "thanh-phu",
+      "type": "huyen"
+   },
+   {
+      "code": "838",
+      "name": "Mỏ Cày Bắc",
+      "name_with_type": "Huyện Mỏ Cày Bắc",
+      "parent_code": "83",
+      "path": "Mỏ Cày Bắc, Bến Tre",
+      "path_with_type": "Huyện Mỏ Cày Bắc, Tỉnh Bến Tre",
+      "slug": "mo-cay-bac",
+      "type": "huyen"
+   },
+   {
+      "code": "568",
+      "name": "Nha Trang",
+      "name_with_type": "Thành phố Nha Trang",
+      "parent_code": "56",
+      "path": "Nha Trang, Khánh Hòa",
+      "path_with_type": "Thành phố Nha Trang, Tỉnh Khánh Hòa",
+      "slug": "nha-trang",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "569",
+      "name": "Cam Ranh",
+      "name_with_type": "Thành phố Cam Ranh",
+      "parent_code": "56",
+      "path": "Cam Ranh, Khánh Hòa",
+      "path_with_type": "Thành phố Cam Ranh, Tỉnh Khánh Hòa",
+      "slug": "cam-ranh",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "570",
+      "name": "Cam Lâm",
+      "name_with_type": "Huyện Cam Lâm",
+      "parent_code": "56",
+      "path": "Cam Lâm, Khánh Hòa",
+      "path_with_type": "Huyện Cam Lâm, Tỉnh Khánh Hòa",
+      "slug": "cam-lam",
+      "type": "huyen"
+   },
+   {
+      "code": "571",
+      "name": "Vạn Ninh",
+      "name_with_type": "Huyện Vạn Ninh",
+      "parent_code": "56",
+      "path": "Vạn Ninh, Khánh Hòa",
+      "path_with_type": "Huyện Vạn Ninh, Tỉnh Khánh Hòa",
+      "slug": "van-ninh",
+      "type": "huyen"
+   },
+   {
+      "code": "572",
+      "name": "Ninh Hòa",
+      "name_with_type": "Thị xã Ninh Hòa",
+      "parent_code": "56",
+      "path": "Ninh Hòa, Khánh Hòa",
+      "path_with_type": "Thị xã Ninh Hòa, Tỉnh Khánh Hòa",
+      "slug": "ninh-hoa",
+      "type": "thi-xa"
+   },
+   {
+      "code": "573",
+      "name": "Khánh Vĩnh",
+      "name_with_type": "Huyện Khánh Vĩnh",
+      "parent_code": "56",
+      "path": "Khánh Vĩnh, Khánh Hòa",
+      "path_with_type": "Huyện Khánh Vĩnh, Tỉnh Khánh Hòa",
+      "slug": "khanh-vinh",
+      "type": "huyen"
+   },
+   {
+      "code": "574",
+      "name": "Diên Khánh",
+      "name_with_type": "Huyện Diên Khánh",
+      "parent_code": "56",
+      "path": "Diên Khánh, Khánh Hòa",
+      "path_with_type": "Huyện Diên Khánh, Tỉnh Khánh Hòa",
+      "slug": "dien-khanh",
+      "type": "huyen"
+   },
+   {
+      "code": "575",
+      "name": "Khánh Sơn",
+      "name_with_type": "Huyện Khánh Sơn",
+      "parent_code": "56",
+      "path": "Khánh Sơn, Khánh Hòa",
+      "path_with_type": "Huyện Khánh Sơn, Tỉnh Khánh Hòa",
+      "slug": "khanh-son",
+      "type": "huyen"
+   },
+   {
+      "code": "576",
+      "name": "Trường Sa",
+      "name_with_type": "Huyện Trường Sa",
+      "parent_code": "56",
+      "path": "Trường Sa, Khánh Hòa",
+      "path_with_type": "Huyện Trường Sa, Tỉnh Khánh Hòa",
+      "slug": "truong-sa",
+      "type": "huyen"
+   },
+   {
+      "code": "593",
+      "name": "Phan Thiết",
+      "name_with_type": "Thành phố Phan Thiết",
+      "parent_code": "60",
+      "path": "Phan Thiết, Bình Thuận",
+      "path_with_type": "Thành phố Phan Thiết, Tỉnh Bình Thuận",
+      "slug": "phan-thiet",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "594",
+      "name": "La Gi",
+      "name_with_type": "Thị xã La Gi",
+      "parent_code": "60",
+      "path": "La Gi, Bình Thuận",
+      "path_with_type": "Thị xã La Gi, Tỉnh Bình Thuận",
+      "slug": "la-gi",
+      "type": "thi-xa"
+   },
+   {
+      "code": "595",
+      "name": "Tuy Phong",
+      "name_with_type": "Huyện Tuy Phong",
+      "parent_code": "60",
+      "path": "Tuy Phong, Bình Thuận",
+      "path_with_type": "Huyện Tuy Phong, Tỉnh Bình Thuận",
+      "slug": "tuy-phong",
+      "type": "huyen"
+   },
+   {
+      "code": "596",
+      "name": "Bắc Bình",
+      "name_with_type": "Huyện Bắc Bình",
+      "parent_code": "60",
+      "path": "Bắc Bình, Bình Thuận",
+      "path_with_type": "Huyện Bắc Bình, Tỉnh Bình Thuận",
+      "slug": "bac-binh",
+      "type": "huyen"
+   },
+   {
+      "code": "597",
+      "name": "Hàm Thuận Bắc",
+      "name_with_type": "Huyện Hàm Thuận Bắc",
+      "parent_code": "60",
+      "path": "Hàm Thuận Bắc, Bình Thuận",
+      "path_with_type": "Huyện Hàm Thuận Bắc, Tỉnh Bình Thuận",
+      "slug": "ham-thuan-bac",
+      "type": "huyen"
+   },
+   {
+      "code": "598",
+      "name": "Hàm Thuận Nam",
+      "name_with_type": "Huyện Hàm Thuận Nam",
+      "parent_code": "60",
+      "path": "Hàm Thuận Nam, Bình Thuận",
+      "path_with_type": "Huyện Hàm Thuận Nam, Tỉnh Bình Thuận",
+      "slug": "ham-thuan-nam",
+      "type": "huyen"
+   },
+   {
+      "code": "599",
+      "name": "Tánh Linh",
+      "name_with_type": "Huyện Tánh Linh",
+      "parent_code": "60",
+      "path": "Tánh Linh, Bình Thuận",
+      "path_with_type": "Huyện Tánh Linh, Tỉnh Bình Thuận",
+      "slug": "tanh-linh",
+      "type": "huyen"
+   },
+   {
+      "code": "600",
+      "name": "Đức Linh",
+      "name_with_type": "Huyện Đức Linh",
+      "parent_code": "60",
+      "path": "Đức Linh, Bình Thuận",
+      "path_with_type": "Huyện Đức Linh, Tỉnh Bình Thuận",
+      "slug": "duc-linh",
+      "type": "huyen"
+   },
+   {
+      "code": "601",
+      "name": "Hàm Tân",
+      "name_with_type": "Huyện Hàm Tân",
+      "parent_code": "60",
+      "path": "Hàm Tân, Bình Thuận",
+      "path_with_type": "Huyện Hàm Tân, Tỉnh Bình Thuận",
+      "slug": "ham-tan",
+      "type": "huyen"
+   },
+   {
+      "code": "602",
+      "name": "Phú Quí",
+      "name_with_type": "Huyện Phú Quí",
+      "parent_code": "60",
+      "path": "Phú Quí, Bình Thuận",
+      "path_with_type": "Huyện Phú Quí, Tỉnh Bình Thuận",
+      "slug": "phu-qui",
+      "type": "huyen"
+   },
+   {
+      "code": "040",
+      "name": "Cao Bằng",
+      "name_with_type": "Thành phố Cao Bằng",
+      "parent_code": "04",
+      "path": "Cao Bằng, Cao Bằng",
+      "path_with_type": "Thành phố Cao Bằng, Tỉnh Cao Bằng",
+      "slug": "cao-bang",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "042",
+      "name": "Bảo Lâm",
+      "name_with_type": "Huyện Bảo Lâm",
+      "parent_code": "04",
+      "path": "Bảo Lâm, Cao Bằng",
+      "path_with_type": "Huyện Bảo Lâm, Tỉnh Cao Bằng",
+      "slug": "bao-lam",
+      "type": "huyen"
+   },
+   {
+      "code": "043",
+      "name": "Bảo Lạc",
+      "name_with_type": "Huyện Bảo Lạc",
+      "parent_code": "04",
+      "path": "Bảo Lạc, Cao Bằng",
+      "path_with_type": "Huyện Bảo Lạc, Tỉnh Cao Bằng",
+      "slug": "bao-lac",
+      "type": "huyen"
+   },
+   {
+      "code": "044",
+      "name": "Thông Nông",
+      "name_with_type": "Huyện Thông Nông",
+      "parent_code": "04",
+      "path": "Thông Nông, Cao Bằng",
+      "path_with_type": "Huyện Thông Nông, Tỉnh Cao Bằng",
+      "slug": "thong-nong",
+      "type": "huyen"
+   },
+   {
+      "code": "045",
+      "name": "Hà Quảng",
+      "name_with_type": "Huyện Hà Quảng",
+      "parent_code": "04",
+      "path": "Hà Quảng, Cao Bằng",
+      "path_with_type": "Huyện Hà Quảng, Tỉnh Cao Bằng",
+      "slug": "ha-quang",
+      "type": "huyen"
+   },
+   {
+      "code": "046",
+      "name": "Trà Lĩnh",
+      "name_with_type": "Huyện Trà Lĩnh",
+      "parent_code": "04",
+      "path": "Trà Lĩnh, Cao Bằng",
+      "path_with_type": "Huyện Trà Lĩnh, Tỉnh Cao Bằng",
+      "slug": "tra-linh",
+      "type": "huyen"
+   },
+   {
+      "code": "047",
+      "name": "Trùng Khánh",
+      "name_with_type": "Huyện Trùng Khánh",
+      "parent_code": "04",
+      "path": "Trùng Khánh, Cao Bằng",
+      "path_with_type": "Huyện Trùng Khánh, Tỉnh Cao Bằng",
+      "slug": "trung-khanh",
+      "type": "huyen"
+   },
+   {
+      "code": "048",
+      "name": "Hạ Lang",
+      "name_with_type": "Huyện Hạ Lang",
+      "parent_code": "04",
+      "path": "Hạ Lang, Cao Bằng",
+      "path_with_type": "Huyện Hạ Lang, Tỉnh Cao Bằng",
+      "slug": "ha-lang",
+      "type": "huyen"
+   },
+   {
+      "code": "049",
+      "name": "Quảng Uyên",
+      "name_with_type": "Huyện Quảng Uyên",
+      "parent_code": "04",
+      "path": "Quảng Uyên, Cao Bằng",
+      "path_with_type": "Huyện Quảng Uyên, Tỉnh Cao Bằng",
+      "slug": "quang-uyen",
+      "type": "huyen"
+   },
+   {
+      "code": "050",
+      "name": "Phục Hoà",
+      "name_with_type": "Huyện Phục Hoà",
+      "parent_code": "04",
+      "path": "Phục Hoà, Cao Bằng",
+      "path_with_type": "Huyện Phục Hoà, Tỉnh Cao Bằng",
+      "slug": "phuc-hoa",
+      "type": "huyen"
+   },
+   {
+      "code": "051",
+      "name": "Hoà An",
+      "name_with_type": "Huyện Hoà An",
+      "parent_code": "04",
+      "path": "Hoà An, Cao Bằng",
+      "path_with_type": "Huyện Hoà An, Tỉnh Cao Bằng",
+      "slug": "hoa-an",
+      "type": "huyen"
+   },
+   {
+      "code": "052",
+      "name": "Nguyên Bình",
+      "name_with_type": "Huyện Nguyên Bình",
+      "parent_code": "04",
+      "path": "Nguyên Bình, Cao Bằng",
+      "path_with_type": "Huyện Nguyên Bình, Tỉnh Cao Bằng",
+      "slug": "nguyen-binh",
+      "type": "huyen"
+   },
+   {
+      "code": "053",
+      "name": "Thạch An",
+      "name_with_type": "Huyện Thạch An",
+      "parent_code": "04",
+      "path": "Thạch An, Cao Bằng",
+      "path_with_type": "Huyện Thạch An, Tỉnh Cao Bằng",
+      "slug": "thach-an",
+      "type": "huyen"
+   },
+   {
+      "code": "303",
+      "name": "Hồng Bàng",
+      "name_with_type": "Quận Hồng Bàng",
+      "parent_code": "31",
+      "path": "Hồng Bàng, Hải Phòng",
+      "path_with_type": "Quận Hồng Bàng, Thành phố Hải Phòng",
+      "slug": "hong-bang",
+      "type": "quan"
+   },
+   {
+      "code": "304",
+      "name": "Ngô Quyền",
+      "name_with_type": "Quận Ngô Quyền",
+      "parent_code": "31",
+      "path": "Ngô Quyền, Hải Phòng",
+      "path_with_type": "Quận Ngô Quyền, Thành phố Hải Phòng",
+      "slug": "ngo-quyen",
+      "type": "quan"
+   },
+   {
+      "code": "305",
+      "name": "Lê Chân",
+      "name_with_type": "Quận Lê Chân",
+      "parent_code": "31",
+      "path": "Lê Chân, Hải Phòng",
+      "path_with_type": "Quận Lê Chân, Thành phố Hải Phòng",
+      "slug": "le-chan",
+      "type": "quan"
+   },
+   {
+      "code": "306",
+      "name": "Hải An",
+      "name_with_type": "Quận Hải An",
+      "parent_code": "31",
+      "path": "Hải An, Hải Phòng",
+      "path_with_type": "Quận Hải An, Thành phố Hải Phòng",
+      "slug": "hai-an",
+      "type": "quan"
+   },
+   {
+      "code": "307",
+      "name": "Kiến An",
+      "name_with_type": "Quận Kiến An",
+      "parent_code": "31",
+      "path": "Kiến An, Hải Phòng",
+      "path_with_type": "Quận Kiến An, Thành phố Hải Phòng",
+      "slug": "kien-an",
+      "type": "quan"
+   },
+   {
+      "code": "308",
+      "name": "Đồ Sơn",
+      "name_with_type": "Quận Đồ Sơn",
+      "parent_code": "31",
+      "path": "Đồ Sơn, Hải Phòng",
+      "path_with_type": "Quận Đồ Sơn, Thành phố Hải Phòng",
+      "slug": "do-son",
+      "type": "quan"
+   },
+   {
+      "code": "309",
+      "name": "Dương Kinh",
+      "name_with_type": "Quận Dương Kinh",
+      "parent_code": "31",
+      "path": "Dương Kinh, Hải Phòng",
+      "path_with_type": "Quận Dương Kinh, Thành phố Hải Phòng",
+      "slug": "duong-kinh",
+      "type": "quan"
+   },
+   {
+      "code": "311",
+      "name": "Thuỷ Nguyên",
+      "name_with_type": "Huyện Thuỷ Nguyên",
+      "parent_code": "31",
+      "path": "Thuỷ Nguyên, Hải Phòng",
+      "path_with_type": "Huyện Thuỷ Nguyên, Thành phố Hải Phòng",
+      "slug": "thuy-nguyen",
+      "type": "huyen"
+   },
+   {
+      "code": "312",
+      "name": "An Dương",
+      "name_with_type": "Huyện An Dương",
+      "parent_code": "31",
+      "path": "An Dương, Hải Phòng",
+      "path_with_type": "Huyện An Dương, Thành phố Hải Phòng",
+      "slug": "an-duong",
+      "type": "huyen"
+   },
+   {
+      "code": "313",
+      "name": "An Lão",
+      "name_with_type": "Huyện An Lão",
+      "parent_code": "31",
+      "path": "An Lão, Hải Phòng",
+      "path_with_type": "Huyện An Lão, Thành phố Hải Phòng",
+      "slug": "an-lao",
+      "type": "huyen"
+   },
+   {
+      "code": "314",
+      "name": "Kiến Thuỵ",
+      "name_with_type": "Huyện Kiến Thuỵ",
+      "parent_code": "31",
+      "path": "Kiến Thuỵ, Hải Phòng",
+      "path_with_type": "Huyện Kiến Thuỵ, Thành phố Hải Phòng",
+      "slug": "kien-thuy",
+      "type": "huyen"
+   },
+   {
+      "code": "315",
+      "name": "Tiên Lãng",
+      "name_with_type": "Huyện Tiên Lãng",
+      "parent_code": "31",
+      "path": "Tiên Lãng, Hải Phòng",
+      "path_with_type": "Huyện Tiên Lãng, Thành phố Hải Phòng",
+      "slug": "tien-lang",
+      "type": "huyen"
+   },
+   {
+      "code": "316",
+      "name": "Vĩnh Bảo",
+      "name_with_type": "Huyện Vĩnh Bảo",
+      "parent_code": "31",
+      "path": "Vĩnh Bảo, Hải Phòng",
+      "path_with_type": "Huyện Vĩnh Bảo, Thành phố Hải Phòng",
+      "slug": "vinh-bao",
+      "type": "huyen"
+   },
+   {
+      "code": "317",
+      "name": "Cát Hải",
+      "name_with_type": "Huyện Cát Hải",
+      "parent_code": "31",
+      "path": "Cát Hải, Hải Phòng",
+      "path_with_type": "Huyện Cát Hải, Thành phố Hải Phòng",
+      "slug": "cat-hai",
+      "type": "huyen"
+   },
+   {
+      "code": "369",
+      "name": "Ninh Bình",
+      "name_with_type": "Thành phố Ninh Bình",
+      "parent_code": "37",
+      "path": "Ninh Bình, Ninh Bình",
+      "path_with_type": "Thành phố Ninh Bình, Tỉnh Ninh Bình",
+      "slug": "ninh-binh",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "370",
+      "name": "Tam Điệp",
+      "name_with_type": "Thành phố Tam Điệp",
+      "parent_code": "37",
+      "path": "Tam Điệp, Ninh Bình",
+      "path_with_type": "Thành phố Tam Điệp, Tỉnh Ninh Bình",
+      "slug": "tam-diep",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "372",
+      "name": "Nho Quan",
+      "name_with_type": "Huyện Nho Quan",
+      "parent_code": "37",
+      "path": "Nho Quan, Ninh Bình",
+      "path_with_type": "Huyện Nho Quan, Tỉnh Ninh Bình",
+      "slug": "nho-quan",
+      "type": "huyen"
+   },
+   {
+      "code": "373",
+      "name": "Gia Viễn",
+      "name_with_type": "Huyện Gia Viễn",
+      "parent_code": "37",
+      "path": "Gia Viễn, Ninh Bình",
+      "path_with_type": "Huyện Gia Viễn, Tỉnh Ninh Bình",
+      "slug": "gia-vien",
+      "type": "huyen"
+   },
+   {
+      "code": "374",
+      "name": "Hoa Lư",
+      "name_with_type": "Huyện Hoa Lư",
+      "parent_code": "37",
+      "path": "Hoa Lư, Ninh Bình",
+      "path_with_type": "Huyện Hoa Lư, Tỉnh Ninh Bình",
+      "slug": "hoa-lu",
+      "type": "huyen"
+   },
+   {
+      "code": "375",
+      "name": "Yên Khánh",
+      "name_with_type": "Huyện Yên Khánh",
+      "parent_code": "37",
+      "path": "Yên Khánh, Ninh Bình",
+      "path_with_type": "Huyện Yên Khánh, Tỉnh Ninh Bình",
+      "slug": "yen-khanh",
+      "type": "huyen"
+   },
+   {
+      "code": "376",
+      "name": "Kim Sơn",
+      "name_with_type": "Huyện Kim Sơn",
+      "parent_code": "37",
+      "path": "Kim Sơn, Ninh Bình",
+      "path_with_type": "Huyện Kim Sơn, Tỉnh Ninh Bình",
+      "slug": "kim-son",
+      "type": "huyen"
+   },
+   {
+      "code": "377",
+      "name": "Yên Mô",
+      "name_with_type": "Huyện Yên Mô",
+      "parent_code": "37",
+      "path": "Yên Mô, Ninh Bình",
+      "path_with_type": "Huyện Yên Mô, Tỉnh Ninh Bình",
+      "slug": "yen-mo",
+      "type": "huyen"
+   },
+   {
+      "code": "132",
+      "name": "Yên Bái",
+      "name_with_type": "Thành phố Yên Bái",
+      "parent_code": "15",
+      "path": "Yên Bái, Yên Bái",
+      "path_with_type": "Thành phố Yên Bái, Tỉnh Yên Bái",
+      "slug": "yen-bai",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "133",
+      "name": "Nghĩa Lộ",
+      "name_with_type": "Thị xã Nghĩa Lộ",
+      "parent_code": "15",
+      "path": "Nghĩa Lộ, Yên Bái",
+      "path_with_type": "Thị xã Nghĩa Lộ, Tỉnh Yên Bái",
+      "slug": "nghia-lo",
+      "type": "thi-xa"
+   },
+   {
+      "code": "135",
+      "name": "Lục Yên",
+      "name_with_type": "Huyện Lục Yên",
+      "parent_code": "15",
+      "path": "Lục Yên, Yên Bái",
+      "path_with_type": "Huyện Lục Yên, Tỉnh Yên Bái",
+      "slug": "luc-yen",
+      "type": "huyen"
+   },
+   {
+      "code": "136",
+      "name": "Văn Yên",
+      "name_with_type": "Huyện Văn Yên",
+      "parent_code": "15",
+      "path": "Văn Yên, Yên Bái",
+      "path_with_type": "Huyện Văn Yên, Tỉnh Yên Bái",
+      "slug": "van-yen",
+      "type": "huyen"
+   },
+   {
+      "code": "137",
+      "name": "Mù Căng Chải",
+      "name_with_type": "Huyện Mù Căng Chải",
+      "parent_code": "15",
+      "path": "Mù Căng Chải, Yên Bái",
+      "path_with_type": "Huyện Mù Căng Chải, Tỉnh Yên Bái",
+      "slug": "mu-cang-chai",
+      "type": "huyen"
+   },
+   {
+      "code": "138",
+      "name": "Trấn Yên",
+      "name_with_type": "Huyện Trấn Yên",
+      "parent_code": "15",
+      "path": "Trấn Yên, Yên Bái",
+      "path_with_type": "Huyện Trấn Yên, Tỉnh Yên Bái",
+      "slug": "tran-yen",
+      "type": "huyen"
+   },
+   {
+      "code": "139",
+      "name": "Trạm Tấu",
+      "name_with_type": "Huyện Trạm Tấu",
+      "parent_code": "15",
+      "path": "Trạm Tấu, Yên Bái",
+      "path_with_type": "Huyện Trạm Tấu, Tỉnh Yên Bái",
+      "slug": "tram-tau",
+      "type": "huyen"
+   },
+   {
+      "code": "140",
+      "name": "Văn Chấn",
+      "name_with_type": "Huyện Văn Chấn",
+      "parent_code": "15",
+      "path": "Văn Chấn, Yên Bái",
+      "path_with_type": "Huyện Văn Chấn, Tỉnh Yên Bái",
+      "slug": "van-chan",
+      "type": "huyen"
+   },
+   {
+      "code": "141",
+      "name": "Yên Bình",
+      "name_with_type": "Huyện Yên Bình",
+      "parent_code": "15",
+      "path": "Yên Bình, Yên Bái",
+      "path_with_type": "Huyện Yên Bình, Tỉnh Yên Bái",
+      "slug": "yen-binh",
+      "type": "huyen"
+   },
+   {
+      "code": "622",
+      "name": "Pleiku",
+      "name_with_type": "Thành phố Pleiku",
+      "parent_code": "64",
+      "path": "Pleiku, Gia Lai",
+      "path_with_type": "Thành phố Pleiku, Tỉnh Gia Lai",
+      "slug": "pleiku",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "623",
+      "name": "An Khê",
+      "name_with_type": "Thị xã An Khê",
+      "parent_code": "64",
+      "path": "An Khê, Gia Lai",
+      "path_with_type": "Thị xã An Khê, Tỉnh Gia Lai",
+      "slug": "an-khe",
+      "type": "thi-xa"
+   },
+   {
+      "code": "624",
+      "name": "Ayun Pa",
+      "name_with_type": "Thị xã Ayun Pa",
+      "parent_code": "64",
+      "path": "Ayun Pa, Gia Lai",
+      "path_with_type": "Thị xã Ayun Pa, Tỉnh Gia Lai",
+      "slug": "ayun-pa",
+      "type": "thi-xa"
+   },
+   {
+      "code": "625",
+      "name": "KBang",
+      "name_with_type": "Huyện KBang",
+      "parent_code": "64",
+      "path": "KBang, Gia Lai",
+      "path_with_type": "Huyện KBang, Tỉnh Gia Lai",
+      "slug": "kbang",
+      "type": "huyen"
+   },
+   {
+      "code": "626",
+      "name": "Đăk Đoa",
+      "name_with_type": "Huyện Đăk Đoa",
+      "parent_code": "64",
+      "path": "Đăk Đoa, Gia Lai",
+      "path_with_type": "Huyện Đăk Đoa, Tỉnh Gia Lai",
+      "slug": "dak-doa",
+      "type": "huyen"
+   },
+   {
+      "code": "627",
+      "name": "Chư Păh",
+      "name_with_type": "Huyện Chư Păh",
+      "parent_code": "64",
+      "path": "Chư Păh, Gia Lai",
+      "path_with_type": "Huyện Chư Păh, Tỉnh Gia Lai",
+      "slug": "chu-pah",
+      "type": "huyen"
+   },
+   {
+      "code": "628",
+      "name": "Ia Grai",
+      "name_with_type": "Huyện Ia Grai",
+      "parent_code": "64",
+      "path": "Ia Grai, Gia Lai",
+      "path_with_type": "Huyện Ia Grai, Tỉnh Gia Lai",
+      "slug": "ia-grai",
+      "type": "huyen"
+   },
+   {
+      "code": "629",
+      "name": "Mang Yang",
+      "name_with_type": "Huyện Mang Yang",
+      "parent_code": "64",
+      "path": "Mang Yang, Gia Lai",
+      "path_with_type": "Huyện Mang Yang, Tỉnh Gia Lai",
+      "slug": "mang-yang",
+      "type": "huyen"
+   },
+   {
+      "code": "630",
+      "name": "Kông Chro",
+      "name_with_type": "Huyện Kông Chro",
+      "parent_code": "64",
+      "path": "Kông Chro, Gia Lai",
+      "path_with_type": "Huyện Kông Chro, Tỉnh Gia Lai",
+      "slug": "kong-chro",
+      "type": "huyen"
+   },
+   {
+      "code": "631",
+      "name": "Đức Cơ",
+      "name_with_type": "Huyện Đức Cơ",
+      "parent_code": "64",
+      "path": "Đức Cơ, Gia Lai",
+      "path_with_type": "Huyện Đức Cơ, Tỉnh Gia Lai",
+      "slug": "duc-co",
+      "type": "huyen"
+   },
+   {
+      "code": "632",
+      "name": "Chư Prông",
+      "name_with_type": "Huyện Chư Prông",
+      "parent_code": "64",
+      "path": "Chư Prông, Gia Lai",
+      "path_with_type": "Huyện Chư Prông, Tỉnh Gia Lai",
+      "slug": "chu-prong",
+      "type": "huyen"
+   },
+   {
+      "code": "633",
+      "name": "Chư Sê",
+      "name_with_type": "Huyện Chư Sê",
+      "parent_code": "64",
+      "path": "Chư Sê, Gia Lai",
+      "path_with_type": "Huyện Chư Sê, Tỉnh Gia Lai",
+      "slug": "chu-se",
+      "type": "huyen"
+   },
+   {
+      "code": "634",
+      "name": "Đăk Pơ",
+      "name_with_type": "Huyện Đăk Pơ",
+      "parent_code": "64",
+      "path": "Đăk Pơ, Gia Lai",
+      "path_with_type": "Huyện Đăk Pơ, Tỉnh Gia Lai",
+      "slug": "dak-po",
+      "type": "huyen"
+   },
+   {
+      "code": "635",
+      "name": "Ia Pa",
+      "name_with_type": "Huyện Ia Pa",
+      "parent_code": "64",
+      "path": "Ia Pa, Gia Lai",
+      "path_with_type": "Huyện Ia Pa, Tỉnh Gia Lai",
+      "slug": "ia-pa",
+      "type": "huyen"
+   },
+   {
+      "code": "637",
+      "name": "Krông Pa",
+      "name_with_type": "Huyện Krông Pa",
+      "parent_code": "64",
+      "path": "Krông Pa, Gia Lai",
+      "path_with_type": "Huyện Krông Pa, Tỉnh Gia Lai",
+      "slug": "krong-pa",
+      "type": "huyen"
+   },
+   {
+      "code": "638",
+      "name": "Phú Thiện",
+      "name_with_type": "Huyện Phú Thiện",
+      "parent_code": "64",
+      "path": "Phú Thiện, Gia Lai",
+      "path_with_type": "Huyện Phú Thiện, Tỉnh Gia Lai",
+      "slug": "phu-thien",
+      "type": "huyen"
+   },
+   {
+      "code": "639",
+      "name": "Chư Pưh",
+      "name_with_type": "Huyện Chư Pưh",
+      "parent_code": "64",
+      "path": "Chư Pưh, Gia Lai",
+      "path_with_type": "Huyện Chư Pưh, Tỉnh Gia Lai",
+      "slug": "chu-puh",
+      "type": "huyen"
+   },
+   {
+      "code": "148",
+      "name": "Hòa Bình",
+      "name_with_type": "Thành phố Hòa Bình",
+      "parent_code": "17",
+      "path": "Hòa Bình, Hoà Bình",
+      "path_with_type": "Thành phố Hòa Bình, Tỉnh Hoà Bình",
+      "slug": "hoa-binh",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "150",
+      "name": "Đà Bắc",
+      "name_with_type": "Huyện Đà Bắc",
+      "parent_code": "17",
+      "path": "Đà Bắc, Hoà Bình",
+      "path_with_type": "Huyện Đà Bắc, Tỉnh Hoà Bình",
+      "slug": "da-bac",
+      "type": "huyen"
+   },
+   {
+      "code": "151",
+      "name": "Kỳ Sơn",
+      "name_with_type": "Huyện Kỳ Sơn",
+      "parent_code": "17",
+      "path": "Kỳ Sơn, Hoà Bình",
+      "path_with_type": "Huyện Kỳ Sơn, Tỉnh Hoà Bình",
+      "slug": "ky-son",
+      "type": "huyen"
+   },
+   {
+      "code": "152",
+      "name": "Lương Sơn",
+      "name_with_type": "Huyện Lương Sơn",
+      "parent_code": "17",
+      "path": "Lương Sơn, Hoà Bình",
+      "path_with_type": "Huyện Lương Sơn, Tỉnh Hoà Bình",
+      "slug": "luong-son",
+      "type": "huyen"
+   },
+   {
+      "code": "153",
+      "name": "Kim Bôi",
+      "name_with_type": "Huyện Kim Bôi",
+      "parent_code": "17",
+      "path": "Kim Bôi, Hoà Bình",
+      "path_with_type": "Huyện Kim Bôi, Tỉnh Hoà Bình",
+      "slug": "kim-boi",
+      "type": "huyen"
+   },
+   {
+      "code": "154",
+      "name": "Cao Phong",
+      "name_with_type": "Huyện Cao Phong",
+      "parent_code": "17",
+      "path": "Cao Phong, Hoà Bình",
+      "path_with_type": "Huyện Cao Phong, Tỉnh Hoà Bình",
+      "slug": "cao-phong",
+      "type": "huyen"
+   },
+   {
+      "code": "155",
+      "name": "Tân Lạc",
+      "name_with_type": "Huyện Tân Lạc",
+      "parent_code": "17",
+      "path": "Tân Lạc, Hoà Bình",
+      "path_with_type": "Huyện Tân Lạc, Tỉnh Hoà Bình",
+      "slug": "tan-lac",
+      "type": "huyen"
+   },
+   {
+      "code": "156",
+      "name": "Mai Châu",
+      "name_with_type": "Huyện Mai Châu",
+      "parent_code": "17",
+      "path": "Mai Châu, Hoà Bình",
+      "path_with_type": "Huyện Mai Châu, Tỉnh Hoà Bình",
+      "slug": "mai-chau",
+      "type": "huyen"
+   },
+   {
+      "code": "157",
+      "name": "Lạc Sơn",
+      "name_with_type": "Huyện Lạc Sơn",
+      "parent_code": "17",
+      "path": "Lạc Sơn, Hoà Bình",
+      "path_with_type": "Huyện Lạc Sơn, Tỉnh Hoà Bình",
+      "slug": "lac-son",
+      "type": "huyen"
+   },
+   {
+      "code": "158",
+      "name": "Yên Thủy",
+      "name_with_type": "Huyện Yên Thủy",
+      "parent_code": "17",
+      "path": "Yên Thủy, Hoà Bình",
+      "path_with_type": "Huyện Yên Thủy, Tỉnh Hoà Bình",
+      "slug": "yen-thuy",
+      "type": "huyen"
+   },
+   {
+      "code": "159",
+      "name": "Lạc Thủy",
+      "name_with_type": "Huyện Lạc Thủy",
+      "parent_code": "17",
+      "path": "Lạc Thủy, Hoà Bình",
+      "path_with_type": "Huyện Lạc Thủy, Tỉnh Hoà Bình",
+      "slug": "lac-thuy",
+      "type": "huyen"
+   },
+   {
+      "code": "747",
+      "name": "Vũng Tàu",
+      "name_with_type": "Thành phố Vũng Tàu",
+      "parent_code": "77",
+      "path": "Vũng Tàu, Bà Rịa - Vũng Tàu",
+      "path_with_type": "Thành phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu",
+      "slug": "vung-tau",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "748",
+      "name": "Bà Rịa",
+      "name_with_type": "Thành phố Bà Rịa",
+      "parent_code": "77",
+      "path": "Bà Rịa, Bà Rịa - Vũng Tàu",
+      "path_with_type": "Thành phố Bà Rịa, Tỉnh Bà Rịa - Vũng Tàu",
+      "slug": "ba-ria",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "750",
+      "name": "Châu Đức",
+      "name_with_type": "Huyện Châu Đức",
+      "parent_code": "77",
+      "path": "Châu Đức, Bà Rịa - Vũng Tàu",
+      "path_with_type": "Huyện Châu Đức, Tỉnh Bà Rịa - Vũng Tàu",
+      "slug": "chau-duc",
+      "type": "huyen"
+   },
+   {
+      "code": "751",
+      "name": "Xuyên Mộc",
+      "name_with_type": "Huyện Xuyên Mộc",
+      "parent_code": "77",
+      "path": "Xuyên Mộc, Bà Rịa - Vũng Tàu",
+      "path_with_type": "Huyện Xuyên Mộc, Tỉnh Bà Rịa - Vũng Tàu",
+      "slug": "xuyen-moc",
+      "type": "huyen"
+   },
+   {
+      "code": "752",
+      "name": "Long Điền",
+      "name_with_type": "Huyện Long Điền",
+      "parent_code": "77",
+      "path": "Long Điền, Bà Rịa - Vũng Tàu",
+      "path_with_type": "Huyện Long Điền, Tỉnh Bà Rịa - Vũng Tàu",
+      "slug": "long-dien",
+      "type": "huyen"
+   },
+   {
+      "code": "753",
+      "name": "Đất Đỏ",
+      "name_with_type": "Huyện Đất Đỏ",
+      "parent_code": "77",
+      "path": "Đất Đỏ, Bà Rịa - Vũng Tàu",
+      "path_with_type": "Huyện Đất Đỏ, Tỉnh Bà Rịa - Vũng Tàu",
+      "slug": "dat-do",
+      "type": "huyen"
+   },
+   {
+      "code": "754",
+      "name": "Tân Thành",
+      "name_with_type": "Huyện Tân Thành",
+      "parent_code": "77",
+      "path": "Tân Thành, Bà Rịa - Vũng Tàu",
+      "path_with_type": "Huyện Tân Thành, Tỉnh Bà Rịa - Vũng Tàu",
+      "slug": "tan-thanh",
+      "type": "huyen"
+   },
+   {
+      "code": "964",
+      "name": "Cà Mau",
+      "name_with_type": "Thành phố Cà Mau",
+      "parent_code": "96",
+      "path": "Cà Mau, Cà Mau",
+      "path_with_type": "Thành phố Cà Mau, Tỉnh Cà Mau",
+      "slug": "ca-mau",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "966",
+      "name": "U Minh",
+      "name_with_type": "Huyện U Minh",
+      "parent_code": "96",
+      "path": "U Minh, Cà Mau",
+      "path_with_type": "Huyện U Minh, Tỉnh Cà Mau",
+      "slug": "u-minh",
+      "type": "huyen"
+   },
+   {
+      "code": "967",
+      "name": "Thới Bình",
+      "name_with_type": "Huyện Thới Bình",
+      "parent_code": "96",
+      "path": "Thới Bình, Cà Mau",
+      "path_with_type": "Huyện Thới Bình, Tỉnh Cà Mau",
+      "slug": "thoi-binh",
+      "type": "huyen"
+   },
+   {
+      "code": "968",
+      "name": "Trần Văn Thời",
+      "name_with_type": "Huyện Trần Văn Thời",
+      "parent_code": "96",
+      "path": "Trần Văn Thời, Cà Mau",
+      "path_with_type": "Huyện Trần Văn Thời, Tỉnh Cà Mau",
+      "slug": "tran-van-thoi",
+      "type": "huyen"
+   },
+   {
+      "code": "969",
+      "name": "Cái Nước",
+      "name_with_type": "Huyện Cái Nước",
+      "parent_code": "96",
+      "path": "Cái Nước, Cà Mau",
+      "path_with_type": "Huyện Cái Nước, Tỉnh Cà Mau",
+      "slug": "cai-nuoc",
+      "type": "huyen"
+   },
+   {
+      "code": "970",
+      "name": "Đầm Dơi",
+      "name_with_type": "Huyện Đầm Dơi",
+      "parent_code": "96",
+      "path": "Đầm Dơi, Cà Mau",
+      "path_with_type": "Huyện Đầm Dơi, Tỉnh Cà Mau",
+      "slug": "dam-doi",
+      "type": "huyen"
+   },
+   {
+      "code": "971",
+      "name": "Năm Căn",
+      "name_with_type": "Huyện Năm Căn",
+      "parent_code": "96",
+      "path": "Năm Căn, Cà Mau",
+      "path_with_type": "Huyện Năm Căn, Tỉnh Cà Mau",
+      "slug": "nam-can",
+      "type": "huyen"
+   },
+   {
+      "code": "972",
+      "name": "Phú Tân",
+      "name_with_type": "Huyện Phú Tân",
+      "parent_code": "96",
+      "path": "Phú Tân, Cà Mau",
+      "path_with_type": "Huyện Phú Tân, Tỉnh Cà Mau",
+      "slug": "phu-tan",
+      "type": "huyen"
+   },
+   {
+      "code": "973",
+      "name": "Ngọc Hiển",
+      "name_with_type": "Huyện Ngọc Hiển",
+      "parent_code": "96",
+      "path": "Ngọc Hiển, Cà Mau",
+      "path_with_type": "Huyện Ngọc Hiển, Tỉnh Cà Mau",
+      "slug": "ngoc-hien",
+      "type": "huyen"
+   },
+   {
+      "code": "718",
+      "name": "Thủ Dầu Một",
+      "name_with_type": "Thành phố Thủ Dầu Một",
+      "parent_code": "74",
+      "path": "Thủ Dầu Một, Bình Dương",
+      "path_with_type": "Thành phố Thủ Dầu Một, Tỉnh Bình Dương",
+      "slug": "thu-dau-mot",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "719",
+      "name": "Bàu Bàng",
+      "name_with_type": "Huyện Bàu Bàng",
+      "parent_code": "74",
+      "path": "Bàu Bàng, Bình Dương",
+      "path_with_type": "Huyện Bàu Bàng, Tỉnh Bình Dương",
+      "slug": "bau-bang",
+      "type": "huyen"
+   },
+   {
+      "code": "720",
+      "name": "Dầu Tiếng",
+      "name_with_type": "Huyện Dầu Tiếng",
+      "parent_code": "74",
+      "path": "Dầu Tiếng, Bình Dương",
+      "path_with_type": "Huyện Dầu Tiếng, Tỉnh Bình Dương",
+      "slug": "dau-tieng",
+      "type": "huyen"
+   },
+   {
+      "code": "721",
+      "name": "Bến Cát",
+      "name_with_type": "Thị xã Bến Cát",
+      "parent_code": "74",
+      "path": "Bến Cát, Bình Dương",
+      "path_with_type": "Thị xã Bến Cát, Tỉnh Bình Dương",
+      "slug": "ben-cat",
+      "type": "thi-xa"
+   },
+   {
+      "code": "722",
+      "name": "Phú Giáo",
+      "name_with_type": "Huyện Phú Giáo",
+      "parent_code": "74",
+      "path": "Phú Giáo, Bình Dương",
+      "path_with_type": "Huyện Phú Giáo, Tỉnh Bình Dương",
+      "slug": "phu-giao",
+      "type": "huyen"
+   },
+   {
+      "code": "723",
+      "name": "Tân Uyên",
+      "name_with_type": "Thị xã Tân Uyên",
+      "parent_code": "74",
+      "path": "Tân Uyên, Bình Dương",
+      "path_with_type": "Thị xã Tân Uyên, Tỉnh Bình Dương",
+      "slug": "tan-uyen",
+      "type": "thi-xa"
+   },
+   {
+      "code": "724",
+      "name": "Dĩ An",
+      "name_with_type": "Thị xã Dĩ An",
+      "parent_code": "74",
+      "path": "Dĩ An, Bình Dương",
+      "path_with_type": "Thị xã Dĩ An, Tỉnh Bình Dương",
+      "slug": "di-an",
+      "type": "thi-xa"
+   },
+   {
+      "code": "725",
+      "name": "Thuận An",
+      "name_with_type": "Thị xã Thuận An",
+      "parent_code": "74",
+      "path": "Thuận An, Bình Dương",
+      "path_with_type": "Thị xã Thuận An, Tỉnh Bình Dương",
+      "slug": "thuan-an",
+      "type": "thi-xa"
+   },
+   {
+      "code": "726",
+      "name": "Bắc Tân Uyên",
+      "name_with_type": "Huyện Bắc Tân Uyên",
+      "parent_code": "74",
+      "path": "Bắc Tân Uyên, Bình Dương",
+      "path_with_type": "Huyện Bắc Tân Uyên, Tỉnh Bình Dương",
+      "slug": "bac-tan-uyen",
+      "type": "huyen"
+   },
+   {
+      "code": "916",
+      "name": "Ninh Kiều",
+      "name_with_type": "Quận Ninh Kiều",
+      "parent_code": "92",
+      "path": "Ninh Kiều, Cần Thơ",
+      "path_with_type": "Quận Ninh Kiều, Thành phố Cần Thơ",
+      "slug": "ninh-kieu",
+      "type": "quan"
+   },
+   {
+      "code": "917",
+      "name": "Ô Môn",
+      "name_with_type": "Quận Ô Môn",
+      "parent_code": "92",
+      "path": "Ô Môn, Cần Thơ",
+      "path_with_type": "Quận Ô Môn, Thành phố Cần Thơ",
+      "slug": "o-mon",
+      "type": "quan"
+   },
+   {
+      "code": "918",
+      "name": "Bình Thuỷ",
+      "name_with_type": "Quận Bình Thuỷ",
+      "parent_code": "92",
+      "path": "Bình Thuỷ, Cần Thơ",
+      "path_with_type": "Quận Bình Thuỷ, Thành phố Cần Thơ",
+      "slug": "binh-thuy",
+      "type": "quan"
+   },
+   {
+      "code": "919",
+      "name": "Cái Răng",
+      "name_with_type": "Quận Cái Răng",
+      "parent_code": "92",
+      "path": "Cái Răng, Cần Thơ",
+      "path_with_type": "Quận Cái Răng, Thành phố Cần Thơ",
+      "slug": "cai-rang",
+      "type": "quan"
+   },
+   {
+      "code": "923",
+      "name": "Thốt Nốt",
+      "name_with_type": "Quận Thốt Nốt",
+      "parent_code": "92",
+      "path": "Thốt Nốt, Cần Thơ",
+      "path_with_type": "Quận Thốt Nốt, Thành phố Cần Thơ",
+      "slug": "thot-not",
+      "type": "quan"
+   },
+   {
+      "code": "924",
+      "name": "Vĩnh Thạnh",
+      "name_with_type": "Huyện Vĩnh Thạnh",
+      "parent_code": "92",
+      "path": "Vĩnh Thạnh, Cần Thơ",
+      "path_with_type": "Huyện Vĩnh Thạnh, Thành phố Cần Thơ",
+      "slug": "vinh-thanh",
+      "type": "huyen"
+   },
+   {
+      "code": "925",
+      "name": "Cờ Đỏ",
+      "name_with_type": "Huyện Cờ Đỏ",
+      "parent_code": "92",
+      "path": "Cờ Đỏ, Cần Thơ",
+      "path_with_type": "Huyện Cờ Đỏ, Thành phố Cần Thơ",
+      "slug": "co-do",
+      "type": "huyen"
+   },
+   {
+      "code": "926",
+      "name": "Phong Điền",
+      "name_with_type": "Huyện Phong Điền",
+      "parent_code": "92",
+      "path": "Phong Điền, Cần Thơ",
+      "path_with_type": "Huyện Phong Điền, Thành phố Cần Thơ",
+      "slug": "phong-dien",
+      "type": "huyen"
+   },
+   {
+      "code": "927",
+      "name": "Thới Lai",
+      "name_with_type": "Huyện Thới Lai",
+      "parent_code": "92",
+      "path": "Thới Lai, Cần Thơ",
+      "path_with_type": "Huyện Thới Lai, Thành phố Cần Thơ",
+      "slug": "thoi-lai",
+      "type": "huyen"
+   },
+   {
+      "code": "474",
+      "name": "Huế",
+      "name_with_type": "Thành phố Huế",
+      "parent_code": "46",
+      "path": "Huế, Thừa Thiên Huế",
+      "path_with_type": "Thành phố Huế, Tỉnh Thừa Thiên Huế",
+      "slug": "hue",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "476",
+      "name": "Phong Điền",
+      "name_with_type": "Huyện Phong Điền",
+      "parent_code": "46",
+      "path": "Phong Điền, Thừa Thiên Huế",
+      "path_with_type": "Huyện Phong Điền, Tỉnh Thừa Thiên Huế",
+      "slug": "phong-dien",
+      "type": "huyen"
+   },
+   {
+      "code": "477",
+      "name": "Quảng Điền",
+      "name_with_type": "Huyện Quảng Điền",
+      "parent_code": "46",
+      "path": "Quảng Điền, Thừa Thiên Huế",
+      "path_with_type": "Huyện Quảng Điền, Tỉnh Thừa Thiên Huế",
+      "slug": "quang-dien",
+      "type": "huyen"
+   },
+   {
+      "code": "478",
+      "name": "Phú Vang",
+      "name_with_type": "Huyện Phú Vang",
+      "parent_code": "46",
+      "path": "Phú Vang, Thừa Thiên Huế",
+      "path_with_type": "Huyện Phú Vang, Tỉnh Thừa Thiên Huế",
+      "slug": "phu-vang",
+      "type": "huyen"
+   },
+   {
+      "code": "479",
+      "name": "Hương Thủy",
+      "name_with_type": "Thị xã Hương Thủy",
+      "parent_code": "46",
+      "path": "Hương Thủy, Thừa Thiên Huế",
+      "path_with_type": "Thị xã Hương Thủy, Tỉnh Thừa Thiên Huế",
+      "slug": "huong-thuy",
+      "type": "thi-xa"
+   },
+   {
+      "code": "480",
+      "name": "Hương Trà",
+      "name_with_type": "Thị xã Hương Trà",
+      "parent_code": "46",
+      "path": "Hương Trà, Thừa Thiên Huế",
+      "path_with_type": "Thị xã Hương Trà, Tỉnh Thừa Thiên Huế",
+      "slug": "huong-tra",
+      "type": "thi-xa"
+   },
+   {
+      "code": "481",
+      "name": "A Lưới",
+      "name_with_type": "Huyện A Lưới",
+      "parent_code": "46",
+      "path": "A Lưới, Thừa Thiên Huế",
+      "path_with_type": "Huyện A Lưới, Tỉnh Thừa Thiên Huế",
+      "slug": "a-luoi",
+      "type": "huyen"
+   },
+   {
+      "code": "482",
+      "name": "Phú Lộc",
+      "name_with_type": "Huyện Phú Lộc",
+      "parent_code": "46",
+      "path": "Phú Lộc, Thừa Thiên Huế",
+      "path_with_type": "Huyện Phú Lộc, Tỉnh Thừa Thiên Huế",
+      "slug": "phu-loc",
+      "type": "huyen"
+   },
+   {
+      "code": "483",
+      "name": "Nam Đông",
+      "name_with_type": "Huyện Nam Đông",
+      "parent_code": "46",
+      "path": "Nam Đông, Thừa Thiên Huế",
+      "path_with_type": "Huyện Nam Đông, Tỉnh Thừa Thiên Huế",
+      "slug": "nam-dong",
+      "type": "huyen"
+   },
+   {
+      "code": "731",
+      "name": "Biên Hòa",
+      "name_with_type": "Thành phố Biên Hòa",
+      "parent_code": "75",
+      "path": "Biên Hòa, Đồng Nai",
+      "path_with_type": "Thành phố Biên Hòa, Tỉnh Đồng Nai",
+      "slug": "bien-hoa",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "732",
+      "name": "Long Khánh",
+      "name_with_type": "Thị xã Long Khánh",
+      "parent_code": "75",
+      "path": "Long Khánh, Đồng Nai",
+      "path_with_type": "Thị xã Long Khánh, Tỉnh Đồng Nai",
+      "slug": "long-khanh",
+      "type": "thi-xa"
+   },
+   {
+      "code": "734",
+      "name": "Tân Phú",
+      "name_with_type": "Huyện Tân Phú",
+      "parent_code": "75",
+      "path": "Tân Phú, Đồng Nai",
+      "path_with_type": "Huyện Tân Phú, Tỉnh Đồng Nai",
+      "slug": "tan-phu",
+      "type": "huyen"
+   },
+   {
+      "code": "735",
+      "name": "Vĩnh Cửu",
+      "name_with_type": "Huyện Vĩnh Cửu",
+      "parent_code": "75",
+      "path": "Vĩnh Cửu, Đồng Nai",
+      "path_with_type": "Huyện Vĩnh Cửu, Tỉnh Đồng Nai",
+      "slug": "vinh-cuu",
+      "type": "huyen"
+   },
+   {
+      "code": "736",
+      "name": "Định Quán",
+      "name_with_type": "Huyện Định Quán",
+      "parent_code": "75",
+      "path": "Định Quán, Đồng Nai",
+      "path_with_type": "Huyện Định Quán, Tỉnh Đồng Nai",
+      "slug": "dinh-quan",
+      "type": "huyen"
+   },
+   {
+      "code": "737",
+      "name": "Trảng Bom",
+      "name_with_type": "Huyện Trảng Bom",
+      "parent_code": "75",
+      "path": "Trảng Bom, Đồng Nai",
+      "path_with_type": "Huyện Trảng Bom, Tỉnh Đồng Nai",
+      "slug": "trang-bom",
+      "type": "huyen"
+   },
+   {
+      "code": "738",
+      "name": "Thống Nhất",
+      "name_with_type": "Huyện Thống Nhất",
+      "parent_code": "75",
+      "path": "Thống Nhất, Đồng Nai",
+      "path_with_type": "Huyện Thống Nhất, Tỉnh Đồng Nai",
+      "slug": "thong-nhat",
+      "type": "huyen"
+   },
+   {
+      "code": "739",
+      "name": "Cẩm Mỹ",
+      "name_with_type": "Huyện Cẩm Mỹ",
+      "parent_code": "75",
+      "path": "Cẩm Mỹ, Đồng Nai",
+      "path_with_type": "Huyện Cẩm Mỹ, Tỉnh Đồng Nai",
+      "slug": "cam-my",
+      "type": "huyen"
+   },
+   {
+      "code": "740",
+      "name": "Long Thành",
+      "name_with_type": "Huyện Long Thành",
+      "parent_code": "75",
+      "path": "Long Thành, Đồng Nai",
+      "path_with_type": "Huyện Long Thành, Tỉnh Đồng Nai",
+      "slug": "long-thanh",
+      "type": "huyen"
+   },
+   {
+      "code": "741",
+      "name": "Xuân Lộc",
+      "name_with_type": "Huyện Xuân Lộc",
+      "parent_code": "75",
+      "path": "Xuân Lộc, Đồng Nai",
+      "path_with_type": "Huyện Xuân Lộc, Tỉnh Đồng Nai",
+      "slug": "xuan-loc",
+      "type": "huyen"
+   },
+   {
+      "code": "742",
+      "name": "Nhơn Trạch",
+      "name_with_type": "Huyện Nhơn Trạch",
+      "parent_code": "75",
+      "path": "Nhơn Trạch, Đồng Nai",
+      "path_with_type": "Huyện Nhơn Trạch, Tỉnh Đồng Nai",
+      "slug": "nhon-trach",
+      "type": "huyen"
+   },
+   {
+      "code": "815",
+      "name": "Mỹ Tho",
+      "name_with_type": "Thành phố Mỹ Tho",
+      "parent_code": "82",
+      "path": "Mỹ Tho, Tiền Giang",
+      "path_with_type": "Thành phố Mỹ Tho, Tỉnh Tiền Giang",
+      "slug": "my-tho",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "816",
+      "name": "Gò Công",
+      "name_with_type": "Thị xã Gò Công",
+      "parent_code": "82",
+      "path": "Gò Công, Tiền Giang",
+      "path_with_type": "Thị xã Gò Công, Tỉnh Tiền Giang",
+      "slug": "go-cong",
+      "type": "thi-xa"
+   },
+   {
+      "code": "817",
+      "name": "Cai Lậy",
+      "name_with_type": "Thị xã Cai Lậy",
+      "parent_code": "82",
+      "path": "Cai Lậy, Tiền Giang",
+      "path_with_type": "Thị xã Cai Lậy, Tỉnh Tiền Giang",
+      "slug": "cai-lay",
+      "type": "thi-xa"
+   },
+   {
+      "code": "818",
+      "name": "Tân Phước",
+      "name_with_type": "Huyện Tân Phước",
+      "parent_code": "82",
+      "path": "Tân Phước, Tiền Giang",
+      "path_with_type": "Huyện Tân Phước, Tỉnh Tiền Giang",
+      "slug": "tan-phuoc",
+      "type": "huyen"
+   },
+   {
+      "code": "819",
+      "name": "Cái Bè",
+      "name_with_type": "Huyện Cái Bè",
+      "parent_code": "82",
+      "path": "Cái Bè, Tiền Giang",
+      "path_with_type": "Huyện Cái Bè, Tỉnh Tiền Giang",
+      "slug": "cai-be",
+      "type": "huyen"
+   },
+   {
+      "code": "820",
+      "name": "Cai Lậy",
+      "name_with_type": "Huyện Cai Lậy",
+      "parent_code": "82",
+      "path": "Cai Lậy, Tiền Giang",
+      "path_with_type": "Huyện Cai Lậy, Tỉnh Tiền Giang",
+      "slug": "cai-lay",
+      "type": "huyen"
+   },
+   {
+      "code": "821",
+      "name": "Châu Thành",
+      "name_with_type": "Huyện Châu Thành",
+      "parent_code": "82",
+      "path": "Châu Thành, Tiền Giang",
+      "path_with_type": "Huyện Châu Thành, Tỉnh Tiền Giang",
+      "slug": "chau-thanh",
+      "type": "huyen"
+   },
+   {
+      "code": "822",
+      "name": "Chợ Gạo",
+      "name_with_type": "Huyện Chợ Gạo",
+      "parent_code": "82",
+      "path": "Chợ Gạo, Tiền Giang",
+      "path_with_type": "Huyện Chợ Gạo, Tỉnh Tiền Giang",
+      "slug": "cho-gao",
+      "type": "huyen"
+   },
+   {
+      "code": "823",
+      "name": "Gò Công Tây",
+      "name_with_type": "Huyện Gò Công Tây",
+      "parent_code": "82",
+      "path": "Gò Công Tây, Tiền Giang",
+      "path_with_type": "Huyện Gò Công Tây, Tỉnh Tiền Giang",
+      "slug": "go-cong-tay",
+      "type": "huyen"
+   },
+   {
+      "code": "824",
+      "name": "Gò Công Đông",
+      "name_with_type": "Huyện Gò Công Đông",
+      "parent_code": "82",
+      "path": "Gò Công Đông, Tiền Giang",
+      "path_with_type": "Huyện Gò Công Đông, Tỉnh Tiền Giang",
+      "slug": "go-cong-dong",
+      "type": "huyen"
+   },
+   {
+      "code": "825",
+      "name": "Tân Phú Đông",
+      "name_with_type": "Huyện Tân Phú Đông",
+      "parent_code": "82",
+      "path": "Tân Phú Đông, Tiền Giang",
+      "path_with_type": "Huyện Tân Phú Đông, Tỉnh Tiền Giang",
+      "slug": "tan-phu-dong",
+      "type": "huyen"
+   },
+   {
+      "code": "094",
+      "name": "Điện Biên Phủ",
+      "name_with_type": "Thành phố Điện Biên Phủ",
+      "parent_code": "11",
+      "path": "Điện Biên Phủ, Điện Biên",
+      "path_with_type": "Thành phố Điện Biên Phủ, Tỉnh Điện Biên",
+      "slug": "dien-bien-phu",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "095",
+      "name": "Mường Lay",
+      "name_with_type": "Thị xã Mường Lay",
+      "parent_code": "11",
+      "path": "Mường Lay, Điện Biên",
+      "path_with_type": "Thị xã Mường Lay, Tỉnh Điện Biên",
+      "slug": "muong-lay",
+      "type": "thi-xa"
+   },
+   {
+      "code": "096",
+      "name": "Mường Nhé",
+      "name_with_type": "Huyện Mường Nhé",
+      "parent_code": "11",
+      "path": "Mường Nhé, Điện Biên",
+      "path_with_type": "Huyện Mường Nhé, Tỉnh Điện Biên",
+      "slug": "muong-nhe",
+      "type": "huyen"
+   },
+   {
+      "code": "097",
+      "name": "Mường Chà",
+      "name_with_type": "Huyện Mường Chà",
+      "parent_code": "11",
+      "path": "Mường Chà, Điện Biên",
+      "path_with_type": "Huyện Mường Chà, Tỉnh Điện Biên",
+      "slug": "muong-cha",
+      "type": "huyen"
+   },
+   {
+      "code": "098",
+      "name": "Tủa Chùa",
+      "name_with_type": "Huyện Tủa Chùa",
+      "parent_code": "11",
+      "path": "Tủa Chùa, Điện Biên",
+      "path_with_type": "Huyện Tủa Chùa, Tỉnh Điện Biên",
+      "slug": "tua-chua",
+      "type": "huyen"
+   },
+   {
+      "code": "099",
+      "name": "Tuần Giáo",
+      "name_with_type": "Huyện Tuần Giáo",
+      "parent_code": "11",
+      "path": "Tuần Giáo, Điện Biên",
+      "path_with_type": "Huyện Tuần Giáo, Tỉnh Điện Biên",
+      "slug": "tuan-giao",
+      "type": "huyen"
+   },
+   {
+      "code": "100",
+      "name": "Điện Biên",
+      "name_with_type": "Huyện Điện Biên",
+      "parent_code": "11",
+      "path": "Điện Biên, Điện Biên",
+      "path_with_type": "Huyện Điện Biên, Tỉnh Điện Biên",
+      "slug": "dien-bien",
+      "type": "huyen"
+   },
+   {
+      "code": "101",
+      "name": "Điện Biên Đông",
+      "name_with_type": "Huyện Điện Biên Đông",
+      "parent_code": "11",
+      "path": "Điện Biên Đông, Điện Biên",
+      "path_with_type": "Huyện Điện Biên Đông, Tỉnh Điện Biên",
+      "slug": "dien-bien-dong",
+      "type": "huyen"
+   },
+   {
+      "code": "102",
+      "name": "Mường Ảng",
+      "name_with_type": "Huyện Mường Ảng",
+      "parent_code": "11",
+      "path": "Mường Ảng, Điện Biên",
+      "path_with_type": "Huyện Mường Ảng, Tỉnh Điện Biên",
+      "slug": "muong-ang",
+      "type": "huyen"
+   },
+   {
+      "code": "103",
+      "name": "Nậm Pồ",
+      "name_with_type": "Huyện Nậm Pồ",
+      "parent_code": "11",
+      "path": "Nậm Pồ, Điện Biên",
+      "path_with_type": "Huyện Nậm Pồ, Tỉnh Điện Biên",
+      "slug": "nam-po",
+      "type": "huyen"
+   },
+   {
+      "code": "243",
+      "name": "Vĩnh Yên",
+      "name_with_type": "Thành phố Vĩnh Yên",
+      "parent_code": "26",
+      "path": "Vĩnh Yên, Vĩnh Phúc",
+      "path_with_type": "Thành phố Vĩnh Yên, Tỉnh Vĩnh Phúc",
+      "slug": "vinh-yen",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "244",
+      "name": "Phúc Yên",
+      "name_with_type": "Thị xã Phúc Yên",
+      "parent_code": "26",
+      "path": "Phúc Yên, Vĩnh Phúc",
+      "path_with_type": "Thị xã Phúc Yên, Tỉnh Vĩnh Phúc",
+      "slug": "phuc-yen",
+      "type": "thi-xa"
+   },
+   {
+      "code": "246",
+      "name": "Lập Thạch",
+      "name_with_type": "Huyện Lập Thạch",
+      "parent_code": "26",
+      "path": "Lập Thạch, Vĩnh Phúc",
+      "path_with_type": "Huyện Lập Thạch, Tỉnh Vĩnh Phúc",
+      "slug": "lap-thach",
+      "type": "huyen"
+   },
+   {
+      "code": "247",
+      "name": "Tam Dương",
+      "name_with_type": "Huyện Tam Dương",
+      "parent_code": "26",
+      "path": "Tam Dương, Vĩnh Phúc",
+      "path_with_type": "Huyện Tam Dương, Tỉnh Vĩnh Phúc",
+      "slug": "tam-duong",
+      "type": "huyen"
+   },
+   {
+      "code": "248",
+      "name": "Tam Đảo",
+      "name_with_type": "Huyện Tam Đảo",
+      "parent_code": "26",
+      "path": "Tam Đảo, Vĩnh Phúc",
+      "path_with_type": "Huyện Tam Đảo, Tỉnh Vĩnh Phúc",
+      "slug": "tam-dao",
+      "type": "huyen"
+   },
+   {
+      "code": "249",
+      "name": "Bình Xuyên",
+      "name_with_type": "Huyện Bình Xuyên",
+      "parent_code": "26",
+      "path": "Bình Xuyên, Vĩnh Phúc",
+      "path_with_type": "Huyện Bình Xuyên, Tỉnh Vĩnh Phúc",
+      "slug": "binh-xuyen",
+      "type": "huyen"
+   },
+   {
+      "code": "251",
+      "name": "Yên Lạc",
+      "name_with_type": "Huyện Yên Lạc",
+      "parent_code": "26",
+      "path": "Yên Lạc, Vĩnh Phúc",
+      "path_with_type": "Huyện Yên Lạc, Tỉnh Vĩnh Phúc",
+      "slug": "yen-lac",
+      "type": "huyen"
+   },
+   {
+      "code": "252",
+      "name": "Vĩnh Tường",
+      "name_with_type": "Huyện Vĩnh Tường",
+      "parent_code": "26",
+      "path": "Vĩnh Tường, Vĩnh Phúc",
+      "path_with_type": "Huyện Vĩnh Tường, Tỉnh Vĩnh Phúc",
+      "slug": "vinh-tuong",
+      "type": "huyen"
+   },
+   {
+      "code": "253",
+      "name": "Sông Lô",
+      "name_with_type": "Huyện Sông Lô",
+      "parent_code": "26",
+      "path": "Sông Lô, Vĩnh Phúc",
+      "path_with_type": "Huyện Sông Lô, Tỉnh Vĩnh Phúc",
+      "slug": "song-lo",
+      "type": "huyen"
+   },
+   {
+      "code": "502",
+      "name": "Tam Kỳ",
+      "name_with_type": "Thành phố Tam Kỳ",
+      "parent_code": "49",
+      "path": "Tam Kỳ, Quảng Nam",
+      "path_with_type": "Thành phố Tam Kỳ, Tỉnh Quảng Nam",
+      "slug": "tam-ky",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "503",
+      "name": "Hội An",
+      "name_with_type": "Thành phố Hội An",
+      "parent_code": "49",
+      "path": "Hội An, Quảng Nam",
+      "path_with_type": "Thành phố Hội An, Tỉnh Quảng Nam",
+      "slug": "hoi-an",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "504",
+      "name": "Tây Giang",
+      "name_with_type": "Huyện Tây Giang",
+      "parent_code": "49",
+      "path": "Tây Giang, Quảng Nam",
+      "path_with_type": "Huyện Tây Giang, Tỉnh Quảng Nam",
+      "slug": "tay-giang",
+      "type": "huyen"
+   },
+   {
+      "code": "505",
+      "name": "Đông Giang",
+      "name_with_type": "Huyện Đông Giang",
+      "parent_code": "49",
+      "path": "Đông Giang, Quảng Nam",
+      "path_with_type": "Huyện Đông Giang, Tỉnh Quảng Nam",
+      "slug": "dong-giang",
+      "type": "huyen"
+   },
+   {
+      "code": "506",
+      "name": "Đại Lộc",
+      "name_with_type": "Huyện Đại Lộc",
+      "parent_code": "49",
+      "path": "Đại Lộc, Quảng Nam",
+      "path_with_type": "Huyện Đại Lộc, Tỉnh Quảng Nam",
+      "slug": "dai-loc",
+      "type": "huyen"
+   },
+   {
+      "code": "507",
+      "name": "Điện Bàn",
+      "name_with_type": "Thị xã Điện Bàn",
+      "parent_code": "49",
+      "path": "Điện Bàn, Quảng Nam",
+      "path_with_type": "Thị xã Điện Bàn, Tỉnh Quảng Nam",
+      "slug": "dien-ban",
+      "type": "thi-xa"
+   },
+   {
+      "code": "508",
+      "name": "Duy Xuyên",
+      "name_with_type": "Huyện Duy Xuyên",
+      "parent_code": "49",
+      "path": "Duy Xuyên, Quảng Nam",
+      "path_with_type": "Huyện Duy Xuyên, Tỉnh Quảng Nam",
+      "slug": "duy-xuyen",
+      "type": "huyen"
+   },
+   {
+      "code": "509",
+      "name": "Quế Sơn",
+      "name_with_type": "Huyện Quế Sơn",
+      "parent_code": "49",
+      "path": "Quế Sơn, Quảng Nam",
+      "path_with_type": "Huyện Quế Sơn, Tỉnh Quảng Nam",
+      "slug": "que-son",
+      "type": "huyen"
+   },
+   {
+      "code": "510",
+      "name": "Nam Giang",
+      "name_with_type": "Huyện Nam Giang",
+      "parent_code": "49",
+      "path": "Nam Giang, Quảng Nam",
+      "path_with_type": "Huyện Nam Giang, Tỉnh Quảng Nam",
+      "slug": "nam-giang",
+      "type": "huyen"
+   },
+   {
+      "code": "511",
+      "name": "Phước Sơn",
+      "name_with_type": "Huyện Phước Sơn",
+      "parent_code": "49",
+      "path": "Phước Sơn, Quảng Nam",
+      "path_with_type": "Huyện Phước Sơn, Tỉnh Quảng Nam",
+      "slug": "phuoc-son",
+      "type": "huyen"
+   },
+   {
+      "code": "512",
+      "name": "Hiệp Đức",
+      "name_with_type": "Huyện Hiệp Đức",
+      "parent_code": "49",
+      "path": "Hiệp Đức, Quảng Nam",
+      "path_with_type": "Huyện Hiệp Đức, Tỉnh Quảng Nam",
+      "slug": "hiep-duc",
+      "type": "huyen"
+   },
+   {
+      "code": "513",
+      "name": "Thăng Bình",
+      "name_with_type": "Huyện Thăng Bình",
+      "parent_code": "49",
+      "path": "Thăng Bình, Quảng Nam",
+      "path_with_type": "Huyện Thăng Bình, Tỉnh Quảng Nam",
+      "slug": "thang-binh",
+      "type": "huyen"
+   },
+   {
+      "code": "514",
+      "name": "Tiên Phước",
+      "name_with_type": "Huyện Tiên Phước",
+      "parent_code": "49",
+      "path": "Tiên Phước, Quảng Nam",
+      "path_with_type": "Huyện Tiên Phước, Tỉnh Quảng Nam",
+      "slug": "tien-phuoc",
+      "type": "huyen"
+   },
+   {
+      "code": "515",
+      "name": "Bắc Trà My",
+      "name_with_type": "Huyện Bắc Trà My",
+      "parent_code": "49",
+      "path": "Bắc Trà My, Quảng Nam",
+      "path_with_type": "Huyện Bắc Trà My, Tỉnh Quảng Nam",
+      "slug": "bac-tra-my",
+      "type": "huyen"
+   },
+   {
+      "code": "516",
+      "name": "Nam Trà My",
+      "name_with_type": "Huyện Nam Trà My",
+      "parent_code": "49",
+      "path": "Nam Trà My, Quảng Nam",
+      "path_with_type": "Huyện Nam Trà My, Tỉnh Quảng Nam",
+      "slug": "nam-tra-my",
+      "type": "huyen"
+   },
+   {
+      "code": "517",
+      "name": "Núi Thành",
+      "name_with_type": "Huyện Núi Thành",
+      "parent_code": "49",
+      "path": "Núi Thành, Quảng Nam",
+      "path_with_type": "Huyện Núi Thành, Tỉnh Quảng Nam",
+      "slug": "nui-thanh",
+      "type": "huyen"
+   },
+   {
+      "code": "518",
+      "name": "Phú Ninh",
+      "name_with_type": "Huyện Phú Ninh",
+      "parent_code": "49",
+      "path": "Phú Ninh, Quảng Nam",
+      "path_with_type": "Huyện Phú Ninh, Tỉnh Quảng Nam",
+      "slug": "phu-ninh",
+      "type": "huyen"
+   },
+   {
+      "code": "519",
+      "name": "Nông Sơn",
+      "name_with_type": "Huyện Nông Sơn",
+      "parent_code": "49",
+      "path": "Nông Sơn, Quảng Nam",
+      "path_with_type": "Huyện Nông Sơn, Tỉnh Quảng Nam",
+      "slug": "nong-son",
+      "type": "huyen"
+   },
+   {
+      "code": "643",
+      "name": "Buôn Ma Thuột",
+      "name_with_type": "Thành phố Buôn Ma Thuột",
+      "parent_code": "66",
+      "path": "Buôn Ma Thuột, Đắk Lắk",
+      "path_with_type": "Thành phố Buôn Ma Thuột, Tỉnh Đắk Lắk",
+      "slug": "buon-ma-thuot",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "644",
+      "name": "Buôn Hồ",
+      "name_with_type": "Thị xã Buôn Hồ",
+      "parent_code": "66",
+      "path": "Buôn Hồ, Đắk Lắk",
+      "path_with_type": "Thị xã Buôn Hồ, Tỉnh Đắk Lắk",
+      "slug": "buon-ho",
+      "type": "thi-xa"
+   },
+   {
+      "code": "645",
+      "name": "Ea Hleo",
+      "name_with_type": "Huyện Ea Hleo",
+      "parent_code": "66",
+      "path": "Ea Hleo, Đắk Lắk",
+      "path_with_type": "Huyện Ea Hleo, Tỉnh Đắk Lắk",
+      "slug": "ea-h-leo",
+      "type": "huyen"
+   },
+   {
+      "code": "646",
+      "name": "Ea Súp",
+      "name_with_type": "Huyện Ea Súp",
+      "parent_code": "66",
+      "path": "Ea Súp, Đắk Lắk",
+      "path_with_type": "Huyện Ea Súp, Tỉnh Đắk Lắk",
+      "slug": "ea-sup",
+      "type": "huyen"
+   },
+   {
+      "code": "647",
+      "name": "Buôn Đôn",
+      "name_with_type": "Huyện Buôn Đôn",
+      "parent_code": "66",
+      "path": "Buôn Đôn, Đắk Lắk",
+      "path_with_type": "Huyện Buôn Đôn, Tỉnh Đắk Lắk",
+      "slug": "buon-don",
+      "type": "huyen"
+   },
+   {
+      "code": "648",
+      "name": "Cư Mgar",
+      "name_with_type": "Huyện Cư Mgar",
+      "parent_code": "66",
+      "path": "Cư Mgar, Đắk Lắk",
+      "path_with_type": "Huyện Cư Mgar, Tỉnh Đắk Lắk",
+      "slug": "cu-m-gar",
+      "type": "huyen"
+   },
+   {
+      "code": "649",
+      "name": "Krông Búk",
+      "name_with_type": "Huyện Krông Búk",
+      "parent_code": "66",
+      "path": "Krông Búk, Đắk Lắk",
+      "path_with_type": "Huyện Krông Búk, Tỉnh Đắk Lắk",
+      "slug": "krong-buk",
+      "type": "huyen"
+   },
+   {
+      "code": "650",
+      "name": "Krông Năng",
+      "name_with_type": "Huyện Krông Năng",
+      "parent_code": "66",
+      "path": "Krông Năng, Đắk Lắk",
+      "path_with_type": "Huyện Krông Năng, Tỉnh Đắk Lắk",
+      "slug": "krong-nang",
+      "type": "huyen"
+   },
+   {
+      "code": "651",
+      "name": "Ea Kar",
+      "name_with_type": "Huyện Ea Kar",
+      "parent_code": "66",
+      "path": "Ea Kar, Đắk Lắk",
+      "path_with_type": "Huyện Ea Kar, Tỉnh Đắk Lắk",
+      "slug": "ea-kar",
+      "type": "huyen"
+   },
+   {
+      "code": "652",
+      "name": "MĐrắk",
+      "name_with_type": "Huyện MĐrắk",
+      "parent_code": "66",
+      "path": "MĐrắk, Đắk Lắk",
+      "path_with_type": "Huyện MĐrắk, Tỉnh Đắk Lắk",
+      "slug": "m-drak",
+      "type": "huyen"
+   },
+   {
+      "code": "653",
+      "name": "Krông Bông",
+      "name_with_type": "Huyện Krông Bông",
+      "parent_code": "66",
+      "path": "Krông Bông, Đắk Lắk",
+      "path_with_type": "Huyện Krông Bông, Tỉnh Đắk Lắk",
+      "slug": "krong-bong",
+      "type": "huyen"
+   },
+   {
+      "code": "654",
+      "name": "Krông Pắc",
+      "name_with_type": "Huyện Krông Pắc",
+      "parent_code": "66",
+      "path": "Krông Pắc, Đắk Lắk",
+      "path_with_type": "Huyện Krông Pắc, Tỉnh Đắk Lắk",
+      "slug": "krong-pac",
+      "type": "huyen"
+   },
+   {
+      "code": "655",
+      "name": "Krông A Na",
+      "name_with_type": "Huyện Krông A Na",
+      "parent_code": "66",
+      "path": "Krông A Na, Đắk Lắk",
+      "path_with_type": "Huyện Krông A Na, Tỉnh Đắk Lắk",
+      "slug": "krong-a-na",
+      "type": "huyen"
+   },
+   {
+      "code": "656",
+      "name": "Lắk",
+      "name_with_type": "Huyện Lắk",
+      "parent_code": "66",
+      "path": "Lắk, Đắk Lắk",
+      "path_with_type": "Huyện Lắk, Tỉnh Đắk Lắk",
+      "slug": "lak",
+      "type": "huyen"
+   },
+   {
+      "code": "657",
+      "name": "Cư Kuin",
+      "name_with_type": "Huyện Cư Kuin",
+      "parent_code": "66",
+      "path": "Cư Kuin, Đắk Lắk",
+      "path_with_type": "Huyện Cư Kuin, Tỉnh Đắk Lắk",
+      "slug": "cu-kuin",
+      "type": "huyen"
+   },
+   {
+      "code": "164",
+      "name": "Thái Nguyên",
+      "name_with_type": "Thành phố Thái Nguyên",
+      "parent_code": "19",
+      "path": "Thái Nguyên, Thái Nguyên",
+      "path_with_type": "Thành phố Thái Nguyên, Tỉnh Thái Nguyên",
+      "slug": "thai-nguyen",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "165",
+      "name": "Sông Công",
+      "name_with_type": "Thành phố Sông Công",
+      "parent_code": "19",
+      "path": "Sông Công, Thái Nguyên",
+      "path_with_type": "Thành phố Sông Công, Tỉnh Thái Nguyên",
+      "slug": "song-cong",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "167",
+      "name": "Định Hóa",
+      "name_with_type": "Huyện Định Hóa",
+      "parent_code": "19",
+      "path": "Định Hóa, Thái Nguyên",
+      "path_with_type": "Huyện Định Hóa, Tỉnh Thái Nguyên",
+      "slug": "dinh-hoa",
+      "type": "huyen"
+   },
+   {
+      "code": "168",
+      "name": "Phú Lương",
+      "name_with_type": "Huyện Phú Lương",
+      "parent_code": "19",
+      "path": "Phú Lương, Thái Nguyên",
+      "path_with_type": "Huyện Phú Lương, Tỉnh Thái Nguyên",
+      "slug": "phu-luong",
+      "type": "huyen"
+   },
+   {
+      "code": "169",
+      "name": "Đồng Hỷ",
+      "name_with_type": "Huyện Đồng Hỷ",
+      "parent_code": "19",
+      "path": "Đồng Hỷ, Thái Nguyên",
+      "path_with_type": "Huyện Đồng Hỷ, Tỉnh Thái Nguyên",
+      "slug": "dong-hy",
+      "type": "huyen"
+   },
+   {
+      "code": "170",
+      "name": "Võ Nhai",
+      "name_with_type": "Huyện Võ Nhai",
+      "parent_code": "19",
+      "path": "Võ Nhai, Thái Nguyên",
+      "path_with_type": "Huyện Võ Nhai, Tỉnh Thái Nguyên",
+      "slug": "vo-nhai",
+      "type": "huyen"
+   },
+   {
+      "code": "171",
+      "name": "Đại Từ",
+      "name_with_type": "Huyện Đại Từ",
+      "parent_code": "19",
+      "path": "Đại Từ, Thái Nguyên",
+      "path_with_type": "Huyện Đại Từ, Tỉnh Thái Nguyên",
+      "slug": "dai-tu",
+      "type": "huyen"
+   },
+   {
+      "code": "172",
+      "name": "Phổ Yên",
+      "name_with_type": "Thị xã Phổ Yên",
+      "parent_code": "19",
+      "path": "Phổ Yên, Thái Nguyên",
+      "path_with_type": "Thị xã Phổ Yên, Tỉnh Thái Nguyên",
+      "slug": "pho-yen",
+      "type": "thi-xa"
+   },
+   {
+      "code": "173",
+      "name": "Phú Bình",
+      "name_with_type": "Huyện Phú Bình",
+      "parent_code": "19",
+      "path": "Phú Bình, Thái Nguyên",
+      "path_with_type": "Huyện Phú Bình, Tỉnh Thái Nguyên",
+      "slug": "phu-binh",
+      "type": "huyen"
+   },
+   {
+      "code": "288",
+      "name": "Hải Dương",
+      "name_with_type": "Thành phố Hải Dương",
+      "parent_code": "30",
+      "path": "Hải Dương, Hải Dương",
+      "path_with_type": "Thành phố Hải Dương, Tỉnh Hải Dương",
+      "slug": "hai-duong",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "290",
+      "name": "Chí Linh",
+      "name_with_type": "Thị xã Chí Linh",
+      "parent_code": "30",
+      "path": "Chí Linh, Hải Dương",
+      "path_with_type": "Thị xã Chí Linh, Tỉnh Hải Dương",
+      "slug": "chi-linh",
+      "type": "thi-xa"
+   },
+   {
+      "code": "291",
+      "name": "Nam Sách",
+      "name_with_type": "Huyện Nam Sách",
+      "parent_code": "30",
+      "path": "Nam Sách, Hải Dương",
+      "path_with_type": "Huyện Nam Sách, Tỉnh Hải Dương",
+      "slug": "nam-sach",
+      "type": "huyen"
+   },
+   {
+      "code": "292",
+      "name": "Kinh Môn",
+      "name_with_type": "Huyện Kinh Môn",
+      "parent_code": "30",
+      "path": "Kinh Môn, Hải Dương",
+      "path_with_type": "Huyện Kinh Môn, Tỉnh Hải Dương",
+      "slug": "kinh-mon",
+      "type": "huyen"
+   },
+   {
+      "code": "293",
+      "name": "Kim Thành",
+      "name_with_type": "Huyện Kim Thành",
+      "parent_code": "30",
+      "path": "Kim Thành, Hải Dương",
+      "path_with_type": "Huyện Kim Thành, Tỉnh Hải Dương",
+      "slug": "kim-thanh",
+      "type": "huyen"
+   },
+   {
+      "code": "294",
+      "name": "Thanh Hà",
+      "name_with_type": "Huyện Thanh Hà",
+      "parent_code": "30",
+      "path": "Thanh Hà, Hải Dương",
+      "path_with_type": "Huyện Thanh Hà, Tỉnh Hải Dương",
+      "slug": "thanh-ha",
+      "type": "huyen"
+   },
+   {
+      "code": "295",
+      "name": "Cẩm Giàng",
+      "name_with_type": "Huyện Cẩm Giàng",
+      "parent_code": "30",
+      "path": "Cẩm Giàng, Hải Dương",
+      "path_with_type": "Huyện Cẩm Giàng, Tỉnh Hải Dương",
+      "slug": "cam-giang",
+      "type": "huyen"
+   },
+   {
+      "code": "296",
+      "name": "Bình Giang",
+      "name_with_type": "Huyện Bình Giang",
+      "parent_code": "30",
+      "path": "Bình Giang, Hải Dương",
+      "path_with_type": "Huyện Bình Giang, Tỉnh Hải Dương",
+      "slug": "binh-giang",
+      "type": "huyen"
+   },
+   {
+      "code": "297",
+      "name": "Gia Lộc",
+      "name_with_type": "Huyện Gia Lộc",
+      "parent_code": "30",
+      "path": "Gia Lộc, Hải Dương",
+      "path_with_type": "Huyện Gia Lộc, Tỉnh Hải Dương",
+      "slug": "gia-loc",
+      "type": "huyen"
+   },
+   {
+      "code": "298",
+      "name": "Tứ Kỳ",
+      "name_with_type": "Huyện Tứ Kỳ",
+      "parent_code": "30",
+      "path": "Tứ Kỳ, Hải Dương",
+      "path_with_type": "Huyện Tứ Kỳ, Tỉnh Hải Dương",
+      "slug": "tu-ky",
+      "type": "huyen"
+   },
+   {
+      "code": "299",
+      "name": "Ninh Giang",
+      "name_with_type": "Huyện Ninh Giang",
+      "parent_code": "30",
+      "path": "Ninh Giang, Hải Dương",
+      "path_with_type": "Huyện Ninh Giang, Tỉnh Hải Dương",
+      "slug": "ninh-giang",
+      "type": "huyen"
+   },
+   {
+      "code": "300",
+      "name": "Thanh Miện",
+      "name_with_type": "Huyện Thanh Miện",
+      "parent_code": "30",
+      "path": "Thanh Miện, Hải Dương",
+      "path_with_type": "Huyện Thanh Miện, Tỉnh Hải Dương",
+      "slug": "thanh-mien",
+      "type": "huyen"
+   },
+   {
+      "code": "954",
+      "name": "Bạc Liêu",
+      "name_with_type": "Thành phố Bạc Liêu",
+      "parent_code": "95",
+      "path": "Bạc Liêu, Bạc Liêu",
+      "path_with_type": "Thành phố Bạc Liêu, Tỉnh Bạc Liêu",
+      "slug": "bac-lieu",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "956",
+      "name": "Hồng Dân",
+      "name_with_type": "Huyện Hồng Dân",
+      "parent_code": "95",
+      "path": "Hồng Dân, Bạc Liêu",
+      "path_with_type": "Huyện Hồng Dân, Tỉnh Bạc Liêu",
+      "slug": "hong-dan",
+      "type": "huyen"
+   },
+   {
+      "code": "957",
+      "name": "Phước Long",
+      "name_with_type": "Huyện Phước Long",
+      "parent_code": "95",
+      "path": "Phước Long, Bạc Liêu",
+      "path_with_type": "Huyện Phước Long, Tỉnh Bạc Liêu",
+      "slug": "phuoc-long",
+      "type": "huyen"
+   },
+   {
+      "code": "958",
+      "name": "Vĩnh Lợi",
+      "name_with_type": "Huyện Vĩnh Lợi",
+      "parent_code": "95",
+      "path": "Vĩnh Lợi, Bạc Liêu",
+      "path_with_type": "Huyện Vĩnh Lợi, Tỉnh Bạc Liêu",
+      "slug": "vinh-loi",
+      "type": "huyen"
+   },
+   {
+      "code": "959",
+      "name": "Giá Rai",
+      "name_with_type": "Thị xã Giá Rai",
+      "parent_code": "95",
+      "path": "Giá Rai, Bạc Liêu",
+      "path_with_type": "Thị xã Giá Rai, Tỉnh Bạc Liêu",
+      "slug": "gia-rai",
+      "type": "thi-xa"
+   },
+   {
+      "code": "960",
+      "name": "Đông Hải",
+      "name_with_type": "Huyện Đông Hải",
+      "parent_code": "95",
+      "path": "Đông Hải, Bạc Liêu",
+      "path_with_type": "Huyện Đông Hải, Tỉnh Bạc Liêu",
+      "slug": "dong-hai",
+      "type": "huyen"
+   },
+   {
+      "code": "961",
+      "name": "Hoà Bình",
+      "name_with_type": "Huyện Hoà Bình",
+      "parent_code": "95",
+      "path": "Hoà Bình, Bạc Liêu",
+      "path_with_type": "Huyện Hoà Bình, Tỉnh Bạc Liêu",
+      "slug": "hoa-binh",
+      "type": "huyen"
+   },
+   {
+      "code": "842",
+      "name": "Trà Vinh",
+      "name_with_type": "Thành phố Trà Vinh",
+      "parent_code": "84",
+      "path": "Trà Vinh, Trà Vinh",
+      "path_with_type": "Thành phố Trà Vinh, Tỉnh Trà Vinh",
+      "slug": "tra-vinh",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "844",
+      "name": "Càng Long",
+      "name_with_type": "Huyện Càng Long",
+      "parent_code": "84",
+      "path": "Càng Long, Trà Vinh",
+      "path_with_type": "Huyện Càng Long, Tỉnh Trà Vinh",
+      "slug": "cang-long",
+      "type": "huyen"
+   },
+   {
+      "code": "845",
+      "name": "Cầu Kè",
+      "name_with_type": "Huyện Cầu Kè",
+      "parent_code": "84",
+      "path": "Cầu Kè, Trà Vinh",
+      "path_with_type": "Huyện Cầu Kè, Tỉnh Trà Vinh",
+      "slug": "cau-ke",
+      "type": "huyen"
+   },
+   {
+      "code": "846",
+      "name": "Tiểu Cần",
+      "name_with_type": "Huyện Tiểu Cần",
+      "parent_code": "84",
+      "path": "Tiểu Cần, Trà Vinh",
+      "path_with_type": "Huyện Tiểu Cần, Tỉnh Trà Vinh",
+      "slug": "tieu-can",
+      "type": "huyen"
+   },
+   {
+      "code": "847",
+      "name": "Châu Thành",
+      "name_with_type": "Huyện Châu Thành",
+      "parent_code": "84",
+      "path": "Châu Thành, Trà Vinh",
+      "path_with_type": "Huyện Châu Thành, Tỉnh Trà Vinh",
+      "slug": "chau-thanh",
+      "type": "huyen"
+   },
+   {
+      "code": "848",
+      "name": "Cầu Ngang",
+      "name_with_type": "Huyện Cầu Ngang",
+      "parent_code": "84",
+      "path": "Cầu Ngang, Trà Vinh",
+      "path_with_type": "Huyện Cầu Ngang, Tỉnh Trà Vinh",
+      "slug": "cau-ngang",
+      "type": "huyen"
+   },
+   {
+      "code": "849",
+      "name": "Trà Cú",
+      "name_with_type": "Huyện Trà Cú",
+      "parent_code": "84",
+      "path": "Trà Cú, Trà Vinh",
+      "path_with_type": "Huyện Trà Cú, Tỉnh Trà Vinh",
+      "slug": "tra-cu",
+      "type": "huyen"
+   },
+   {
+      "code": "850",
+      "name": "Duyên Hải",
+      "name_with_type": "Huyện Duyên Hải",
+      "parent_code": "84",
+      "path": "Duyên Hải, Trà Vinh",
+      "path_with_type": "Huyện Duyên Hải, Tỉnh Trà Vinh",
+      "slug": "duyen-hai",
+      "type": "huyen"
+   },
+   {
+      "code": "851",
+      "name": "Duyên Hải",
+      "name_with_type": "Thị xã Duyên Hải",
+      "parent_code": "84",
+      "path": "Duyên Hải, Trà Vinh",
+      "path_with_type": "Thị xã Duyên Hải, Tỉnh Trà Vinh",
+      "slug": "duyen-hai",
+      "type": "thi-xa"
+   },
+   {
+      "code": "336",
+      "name": "Thái Bình",
+      "name_with_type": "Thành phố Thái Bình",
+      "parent_code": "34",
+      "path": "Thái Bình, Thái Bình",
+      "path_with_type": "Thành phố Thái Bình, Tỉnh Thái Bình",
+      "slug": "thai-binh",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "338",
+      "name": "Quỳnh Phụ",
+      "name_with_type": "Huyện Quỳnh Phụ",
+      "parent_code": "34",
+      "path": "Quỳnh Phụ, Thái Bình",
+      "path_with_type": "Huyện Quỳnh Phụ, Tỉnh Thái Bình",
+      "slug": "quynh-phu",
+      "type": "huyen"
+   },
+   {
+      "code": "339",
+      "name": "Hưng Hà",
+      "name_with_type": "Huyện Hưng Hà",
+      "parent_code": "34",
+      "path": "Hưng Hà, Thái Bình",
+      "path_with_type": "Huyện Hưng Hà, Tỉnh Thái Bình",
+      "slug": "hung-ha",
+      "type": "huyen"
+   },
+   {
+      "code": "340",
+      "name": "Đông Hưng",
+      "name_with_type": "Huyện Đông Hưng",
+      "parent_code": "34",
+      "path": "Đông Hưng, Thái Bình",
+      "path_with_type": "Huyện Đông Hưng, Tỉnh Thái Bình",
+      "slug": "dong-hung",
+      "type": "huyen"
+   },
+   {
+      "code": "341",
+      "name": "Thái Thụy",
+      "name_with_type": "Huyện Thái Thụy",
+      "parent_code": "34",
+      "path": "Thái Thụy, Thái Bình",
+      "path_with_type": "Huyện Thái Thụy, Tỉnh Thái Bình",
+      "slug": "thai-thuy",
+      "type": "huyen"
+   },
+   {
+      "code": "342",
+      "name": "Tiền Hải",
+      "name_with_type": "Huyện Tiền Hải",
+      "parent_code": "34",
+      "path": "Tiền Hải, Thái Bình",
+      "path_with_type": "Huyện Tiền Hải, Tỉnh Thái Bình",
+      "slug": "tien-hai",
+      "type": "huyen"
+   },
+   {
+      "code": "343",
+      "name": "Kiến Xương",
+      "name_with_type": "Huyện Kiến Xương",
+      "parent_code": "34",
+      "path": "Kiến Xương, Thái Bình",
+      "path_with_type": "Huyện Kiến Xương, Tỉnh Thái Bình",
+      "slug": "kien-xuong",
+      "type": "huyen"
+   },
+   {
+      "code": "344",
+      "name": "Vũ Thư",
+      "name_with_type": "Huyện Vũ Thư",
+      "parent_code": "34",
+      "path": "Vũ Thư, Thái Bình",
+      "path_with_type": "Huyện Vũ Thư, Tỉnh Thái Bình",
+      "slug": "vu-thu",
+      "type": "huyen"
+   },
+   {
+      "code": "436",
+      "name": "Hà Tĩnh",
+      "name_with_type": "Thành phố Hà Tĩnh",
+      "parent_code": "42",
+      "path": "Hà Tĩnh, Hà Tĩnh",
+      "path_with_type": "Thành phố Hà Tĩnh, Tỉnh Hà Tĩnh",
+      "slug": "ha-tinh",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "437",
+      "name": "Hồng Lĩnh",
+      "name_with_type": "Thị xã Hồng Lĩnh",
+      "parent_code": "42",
+      "path": "Hồng Lĩnh, Hà Tĩnh",
+      "path_with_type": "Thị xã Hồng Lĩnh, Tỉnh Hà Tĩnh",
+      "slug": "hong-linh",
+      "type": "thi-xa"
+   },
+   {
+      "code": "439",
+      "name": "Hương Sơn",
+      "name_with_type": "Huyện Hương Sơn",
+      "parent_code": "42",
+      "path": "Hương Sơn, Hà Tĩnh",
+      "path_with_type": "Huyện Hương Sơn, Tỉnh Hà Tĩnh",
+      "slug": "huong-son",
+      "type": "huyen"
+   },
+   {
+      "code": "440",
+      "name": "Đức Thọ",
+      "name_with_type": "Huyện Đức Thọ",
+      "parent_code": "42",
+      "path": "Đức Thọ, Hà Tĩnh",
+      "path_with_type": "Huyện Đức Thọ, Tỉnh Hà Tĩnh",
+      "slug": "duc-tho",
+      "type": "huyen"
+   },
+   {
+      "code": "441",
+      "name": "Vũ Quang",
+      "name_with_type": "Huyện Vũ Quang",
+      "parent_code": "42",
+      "path": "Vũ Quang, Hà Tĩnh",
+      "path_with_type": "Huyện Vũ Quang, Tỉnh Hà Tĩnh",
+      "slug": "vu-quang",
+      "type": "huyen"
+   },
+   {
+      "code": "442",
+      "name": "Nghi Xuân",
+      "name_with_type": "Huyện Nghi Xuân",
+      "parent_code": "42",
+      "path": "Nghi Xuân, Hà Tĩnh",
+      "path_with_type": "Huyện Nghi Xuân, Tỉnh Hà Tĩnh",
+      "slug": "nghi-xuan",
+      "type": "huyen"
+   },
+   {
+      "code": "443",
+      "name": "Can Lộc",
+      "name_with_type": "Huyện Can Lộc",
+      "parent_code": "42",
+      "path": "Can Lộc, Hà Tĩnh",
+      "path_with_type": "Huyện Can Lộc, Tỉnh Hà Tĩnh",
+      "slug": "can-loc",
+      "type": "huyen"
+   },
+   {
+      "code": "444",
+      "name": "Hương Khê",
+      "name_with_type": "Huyện Hương Khê",
+      "parent_code": "42",
+      "path": "Hương Khê, Hà Tĩnh",
+      "path_with_type": "Huyện Hương Khê, Tỉnh Hà Tĩnh",
+      "slug": "huong-khe",
+      "type": "huyen"
+   },
+   {
+      "code": "445",
+      "name": "Thạch Hà",
+      "name_with_type": "Huyện Thạch Hà",
+      "parent_code": "42",
+      "path": "Thạch Hà, Hà Tĩnh",
+      "path_with_type": "Huyện Thạch Hà, Tỉnh Hà Tĩnh",
+      "slug": "thach-ha",
+      "type": "huyen"
+   },
+   {
+      "code": "446",
+      "name": "Cẩm Xuyên",
+      "name_with_type": "Huyện Cẩm Xuyên",
+      "parent_code": "42",
+      "path": "Cẩm Xuyên, Hà Tĩnh",
+      "path_with_type": "Huyện Cẩm Xuyên, Tỉnh Hà Tĩnh",
+      "slug": "cam-xuyen",
+      "type": "huyen"
+   },
+   {
+      "code": "447",
+      "name": "Kỳ Anh",
+      "name_with_type": "Huyện Kỳ Anh",
+      "parent_code": "42",
+      "path": "Kỳ Anh, Hà Tĩnh",
+      "path_with_type": "Huyện Kỳ Anh, Tỉnh Hà Tĩnh",
+      "slug": "ky-anh",
+      "type": "huyen"
+   },
+   {
+      "code": "448",
+      "name": "Lộc Hà",
+      "name_with_type": "Huyện Lộc Hà",
+      "parent_code": "42",
+      "path": "Lộc Hà, Hà Tĩnh",
+      "path_with_type": "Huyện Lộc Hà, Tỉnh Hà Tĩnh",
+      "slug": "loc-ha",
+      "type": "huyen"
+   },
+   {
+      "code": "449",
+      "name": "Kỳ Anh",
+      "name_with_type": "Thị xã Kỳ Anh",
+      "parent_code": "42",
+      "path": "Kỳ Anh, Hà Tĩnh",
+      "path_with_type": "Thị xã Kỳ Anh, Tỉnh Hà Tĩnh",
+      "slug": "ky-anh",
+      "type": "thi-xa"
+   },
+   {
+      "code": "582",
+      "name": "Phan Rang-Tháp Chàm",
+      "name_with_type": "Thành phố Phan Rang-Tháp Chàm",
+      "parent_code": "58",
+      "path": "Phan Rang-Tháp Chàm, Ninh Thuận",
+      "path_with_type": "Thành phố Phan Rang-Tháp Chàm, Tỉnh Ninh Thuận",
+      "slug": "phan-rang-thap-cham",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "584",
+      "name": "Bác Ái",
+      "name_with_type": "Huyện Bác Ái",
+      "parent_code": "58",
+      "path": "Bác Ái, Ninh Thuận",
+      "path_with_type": "Huyện Bác Ái, Tỉnh Ninh Thuận",
+      "slug": "bac-ai",
+      "type": "huyen"
+   },
+   {
+      "code": "585",
+      "name": "Ninh Sơn",
+      "name_with_type": "Huyện Ninh Sơn",
+      "parent_code": "58",
+      "path": "Ninh Sơn, Ninh Thuận",
+      "path_with_type": "Huyện Ninh Sơn, Tỉnh Ninh Thuận",
+      "slug": "ninh-son",
+      "type": "huyen"
+   },
+   {
+      "code": "586",
+      "name": "Ninh Hải",
+      "name_with_type": "Huyện Ninh Hải",
+      "parent_code": "58",
+      "path": "Ninh Hải, Ninh Thuận",
+      "path_with_type": "Huyện Ninh Hải, Tỉnh Ninh Thuận",
+      "slug": "ninh-hai",
+      "type": "huyen"
+   },
+   {
+      "code": "587",
+      "name": "Ninh Phước",
+      "name_with_type": "Huyện Ninh Phước",
+      "parent_code": "58",
+      "path": "Ninh Phước, Ninh Thuận",
+      "path_with_type": "Huyện Ninh Phước, Tỉnh Ninh Thuận",
+      "slug": "ninh-phuoc",
+      "type": "huyen"
+   },
+   {
+      "code": "588",
+      "name": "Thuận Bắc",
+      "name_with_type": "Huyện Thuận Bắc",
+      "parent_code": "58",
+      "path": "Thuận Bắc, Ninh Thuận",
+      "path_with_type": "Huyện Thuận Bắc, Tỉnh Ninh Thuận",
+      "slug": "thuan-bac",
+      "type": "huyen"
+   },
+   {
+      "code": "589",
+      "name": "Thuận Nam",
+      "name_with_type": "Huyện Thuận Nam",
+      "parent_code": "58",
+      "path": "Thuận Nam, Ninh Thuận",
+      "path_with_type": "Huyện Thuận Nam, Tỉnh Ninh Thuận",
+      "slug": "thuan-nam",
+      "type": "huyen"
+   },
+   {
+      "code": "866",
+      "name": "Cao Lãnh",
+      "name_with_type": "Thành phố Cao Lãnh",
+      "parent_code": "87",
+      "path": "Cao Lãnh, Đồng Tháp",
+      "path_with_type": "Thành phố Cao Lãnh, Tỉnh Đồng Tháp",
+      "slug": "cao-lanh",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "867",
+      "name": "Sa Đéc",
+      "name_with_type": "Thành phố Sa Đéc",
+      "parent_code": "87",
+      "path": "Sa Đéc, Đồng Tháp",
+      "path_with_type": "Thành phố Sa Đéc, Tỉnh Đồng Tháp",
+      "slug": "sa-dec",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "868",
+      "name": "Hồng Ngự",
+      "name_with_type": "Thị xã Hồng Ngự",
+      "parent_code": "87",
+      "path": "Hồng Ngự, Đồng Tháp",
+      "path_with_type": "Thị xã Hồng Ngự, Tỉnh Đồng Tháp",
+      "slug": "hong-ngu",
+      "type": "thi-xa"
+   },
+   {
+      "code": "869",
+      "name": "Tân Hồng",
+      "name_with_type": "Huyện Tân Hồng",
+      "parent_code": "87",
+      "path": "Tân Hồng, Đồng Tháp",
+      "path_with_type": "Huyện Tân Hồng, Tỉnh Đồng Tháp",
+      "slug": "tan-hong",
+      "type": "huyen"
+   },
+   {
+      "code": "870",
+      "name": "Hồng Ngự",
+      "name_with_type": "Huyện Hồng Ngự",
+      "parent_code": "87",
+      "path": "Hồng Ngự, Đồng Tháp",
+      "path_with_type": "Huyện Hồng Ngự, Tỉnh Đồng Tháp",
+      "slug": "hong-ngu",
+      "type": "huyen"
+   },
+   {
+      "code": "871",
+      "name": "Tam Nông",
+      "name_with_type": "Huyện Tam Nông",
+      "parent_code": "87",
+      "path": "Tam Nông, Đồng Tháp",
+      "path_with_type": "Huyện Tam Nông, Tỉnh Đồng Tháp",
+      "slug": "tam-nong",
+      "type": "huyen"
+   },
+   {
+      "code": "872",
+      "name": "Tháp Mười",
+      "name_with_type": "Huyện Tháp Mười",
+      "parent_code": "87",
+      "path": "Tháp Mười, Đồng Tháp",
+      "path_with_type": "Huyện Tháp Mười, Tỉnh Đồng Tháp",
+      "slug": "thap-muoi",
+      "type": "huyen"
+   },
+   {
+      "code": "873",
+      "name": "Cao Lãnh",
+      "name_with_type": "Huyện Cao Lãnh",
+      "parent_code": "87",
+      "path": "Cao Lãnh, Đồng Tháp",
+      "path_with_type": "Huyện Cao Lãnh, Tỉnh Đồng Tháp",
+      "slug": "cao-lanh",
+      "type": "huyen"
+   },
+   {
+      "code": "874",
+      "name": "Thanh Bình",
+      "name_with_type": "Huyện Thanh Bình",
+      "parent_code": "87",
+      "path": "Thanh Bình, Đồng Tháp",
+      "path_with_type": "Huyện Thanh Bình, Tỉnh Đồng Tháp",
+      "slug": "thanh-binh",
+      "type": "huyen"
+   },
+   {
+      "code": "875",
+      "name": "Lấp Vò",
+      "name_with_type": "Huyện Lấp Vò",
+      "parent_code": "87",
+      "path": "Lấp Vò, Đồng Tháp",
+      "path_with_type": "Huyện Lấp Vò, Tỉnh Đồng Tháp",
+      "slug": "lap-vo",
+      "type": "huyen"
+   },
+   {
+      "code": "876",
+      "name": "Lai Vung",
+      "name_with_type": "Huyện Lai Vung",
+      "parent_code": "87",
+      "path": "Lai Vung, Đồng Tháp",
+      "path_with_type": "Huyện Lai Vung, Tỉnh Đồng Tháp",
+      "slug": "lai-vung",
+      "type": "huyen"
+   },
+   {
+      "code": "877",
+      "name": "Châu Thành",
+      "name_with_type": "Huyện Châu Thành",
+      "parent_code": "87",
+      "path": "Châu Thành, Đồng Tháp",
+      "path_with_type": "Huyện Châu Thành, Tỉnh Đồng Tháp",
+      "slug": "chau-thanh",
+      "type": "huyen"
+   },
+   {
+      "code": "794",
+      "name": "Tân An",
+      "name_with_type": "Thành phố Tân An",
+      "parent_code": "80",
+      "path": "Tân An, Long An",
+      "path_with_type": "Thành phố Tân An, Tỉnh Long An",
+      "slug": "tan-an",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "795",
+      "name": "Kiến Tường",
+      "name_with_type": "Thị xã Kiến Tường",
+      "parent_code": "80",
+      "path": "Kiến Tường, Long An",
+      "path_with_type": "Thị xã Kiến Tường, Tỉnh Long An",
+      "slug": "kien-tuong",
+      "type": "thi-xa"
+   },
+   {
+      "code": "796",
+      "name": "Tân Hưng",
+      "name_with_type": "Huyện Tân Hưng",
+      "parent_code": "80",
+      "path": "Tân Hưng, Long An",
+      "path_with_type": "Huyện Tân Hưng, Tỉnh Long An",
+      "slug": "tan-hung",
+      "type": "huyen"
+   },
+   {
+      "code": "797",
+      "name": "Vĩnh Hưng",
+      "name_with_type": "Huyện Vĩnh Hưng",
+      "parent_code": "80",
+      "path": "Vĩnh Hưng, Long An",
+      "path_with_type": "Huyện Vĩnh Hưng, Tỉnh Long An",
+      "slug": "vinh-hung",
+      "type": "huyen"
+   },
+   {
+      "code": "798",
+      "name": "Mộc Hóa",
+      "name_with_type": "Huyện Mộc Hóa",
+      "parent_code": "80",
+      "path": "Mộc Hóa, Long An",
+      "path_with_type": "Huyện Mộc Hóa, Tỉnh Long An",
+      "slug": "moc-hoa",
+      "type": "huyen"
+   },
+   {
+      "code": "799",
+      "name": "Tân Thạnh",
+      "name_with_type": "Huyện Tân Thạnh",
+      "parent_code": "80",
+      "path": "Tân Thạnh, Long An",
+      "path_with_type": "Huyện Tân Thạnh, Tỉnh Long An",
+      "slug": "tan-thanh",
+      "type": "huyen"
+   },
+   {
+      "code": "800",
+      "name": "Thạnh Hóa",
+      "name_with_type": "Huyện Thạnh Hóa",
+      "parent_code": "80",
+      "path": "Thạnh Hóa, Long An",
+      "path_with_type": "Huyện Thạnh Hóa, Tỉnh Long An",
+      "slug": "thanh-hoa",
+      "type": "huyen"
+   },
+   {
+      "code": "801",
+      "name": "Đức Huệ",
+      "name_with_type": "Huyện Đức Huệ",
+      "parent_code": "80",
+      "path": "Đức Huệ, Long An",
+      "path_with_type": "Huyện Đức Huệ, Tỉnh Long An",
+      "slug": "duc-hue",
+      "type": "huyen"
+   },
+   {
+      "code": "802",
+      "name": "Đức Hòa",
+      "name_with_type": "Huyện Đức Hòa",
+      "parent_code": "80",
+      "path": "Đức Hòa, Long An",
+      "path_with_type": "Huyện Đức Hòa, Tỉnh Long An",
+      "slug": "duc-hoa",
+      "type": "huyen"
+   },
+   {
+      "code": "803",
+      "name": "Bến Lức",
+      "name_with_type": "Huyện Bến Lức",
+      "parent_code": "80",
+      "path": "Bến Lức, Long An",
+      "path_with_type": "Huyện Bến Lức, Tỉnh Long An",
+      "slug": "ben-luc",
+      "type": "huyen"
+   },
+   {
+      "code": "804",
+      "name": "Thủ Thừa",
+      "name_with_type": "Huyện Thủ Thừa",
+      "parent_code": "80",
+      "path": "Thủ Thừa, Long An",
+      "path_with_type": "Huyện Thủ Thừa, Tỉnh Long An",
+      "slug": "thu-thua",
+      "type": "huyen"
+   },
+   {
+      "code": "805",
+      "name": "Tân Trụ",
+      "name_with_type": "Huyện Tân Trụ",
+      "parent_code": "80",
+      "path": "Tân Trụ, Long An",
+      "path_with_type": "Huyện Tân Trụ, Tỉnh Long An",
+      "slug": "tan-tru",
+      "type": "huyen"
+   },
+   {
+      "code": "806",
+      "name": "Cần Đước",
+      "name_with_type": "Huyện Cần Đước",
+      "parent_code": "80",
+      "path": "Cần Đước, Long An",
+      "path_with_type": "Huyện Cần Đước, Tỉnh Long An",
+      "slug": "can-duoc",
+      "type": "huyen"
+   },
+   {
+      "code": "807",
+      "name": "Cần Giuộc",
+      "name_with_type": "Huyện Cần Giuộc",
+      "parent_code": "80",
+      "path": "Cần Giuộc, Long An",
+      "path_with_type": "Huyện Cần Giuộc, Tỉnh Long An",
+      "slug": "can-giuoc",
+      "type": "huyen"
+   },
+   {
+      "code": "808",
+      "name": "Châu Thành",
+      "name_with_type": "Huyện Châu Thành",
+      "parent_code": "80",
+      "path": "Châu Thành, Long An",
+      "path_with_type": "Huyện Châu Thành, Tỉnh Long An",
+      "slug": "chau-thanh",
+      "type": "huyen"
+   },
+   {
+      "code": "930",
+      "name": "Vị Thanh",
+      "name_with_type": "Thành phố Vị Thanh",
+      "parent_code": "93",
+      "path": "Vị Thanh, Hậu Giang",
+      "path_with_type": "Thành phố Vị Thanh, Tỉnh Hậu Giang",
+      "slug": "vi-thanh",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "931",
+      "name": "Ngã Bảy",
+      "name_with_type": "Thị xã Ngã Bảy",
+      "parent_code": "93",
+      "path": "Ngã Bảy, Hậu Giang",
+      "path_with_type": "Thị xã Ngã Bảy, Tỉnh Hậu Giang",
+      "slug": "nga-bay",
+      "type": "thi-xa"
+   },
+   {
+      "code": "932",
+      "name": "Châu Thành A",
+      "name_with_type": "Huyện Châu Thành A",
+      "parent_code": "93",
+      "path": "Châu Thành A, Hậu Giang",
+      "path_with_type": "Huyện Châu Thành A, Tỉnh Hậu Giang",
+      "slug": "chau-thanh-a",
+      "type": "huyen"
+   },
+   {
+      "code": "933",
+      "name": "Châu Thành",
+      "name_with_type": "Huyện Châu Thành",
+      "parent_code": "93",
+      "path": "Châu Thành, Hậu Giang",
+      "path_with_type": "Huyện Châu Thành, Tỉnh Hậu Giang",
+      "slug": "chau-thanh",
+      "type": "huyen"
+   },
+   {
+      "code": "934",
+      "name": "Phụng Hiệp",
+      "name_with_type": "Huyện Phụng Hiệp",
+      "parent_code": "93",
+      "path": "Phụng Hiệp, Hậu Giang",
+      "path_with_type": "Huyện Phụng Hiệp, Tỉnh Hậu Giang",
+      "slug": "phung-hiep",
+      "type": "huyen"
+   },
+   {
+      "code": "935",
+      "name": "Vị Thuỷ",
+      "name_with_type": "Huyện Vị Thuỷ",
+      "parent_code": "93",
+      "path": "Vị Thuỷ, Hậu Giang",
+      "path_with_type": "Huyện Vị Thuỷ, Tỉnh Hậu Giang",
+      "slug": "vi-thuy",
+      "type": "huyen"
+   },
+   {
+      "code": "936",
+      "name": "Long Mỹ",
+      "name_with_type": "Huyện Long Mỹ",
+      "parent_code": "93",
+      "path": "Long Mỹ, Hậu Giang",
+      "path_with_type": "Huyện Long Mỹ, Tỉnh Hậu Giang",
+      "slug": "long-my",
+      "type": "huyen"
+   },
+   {
+      "code": "937",
+      "name": "Long Mỹ",
+      "name_with_type": "Thị xã Long Mỹ",
+      "parent_code": "93",
+      "path": "Long Mỹ, Hậu Giang",
+      "path_with_type": "Thị xã Long Mỹ, Tỉnh Hậu Giang",
+      "slug": "long-my",
+      "type": "thi-xa"
+   },
+   {
+      "code": "193",
+      "name": "Hạ Long",
+      "name_with_type": "Thành phố Hạ Long",
+      "parent_code": "22",
+      "path": "Hạ Long, Quảng Ninh",
+      "path_with_type": "Thành phố Hạ Long, Tỉnh Quảng Ninh",
+      "slug": "ha-long",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "194",
+      "name": "Móng Cái",
+      "name_with_type": "Thành phố Móng Cái",
+      "parent_code": "22",
+      "path": "Móng Cái, Quảng Ninh",
+      "path_with_type": "Thành phố Móng Cái, Tỉnh Quảng Ninh",
+      "slug": "mong-cai",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "195",
+      "name": "Cẩm Phả",
+      "name_with_type": "Thành phố Cẩm Phả",
+      "parent_code": "22",
+      "path": "Cẩm Phả, Quảng Ninh",
+      "path_with_type": "Thành phố Cẩm Phả, Tỉnh Quảng Ninh",
+      "slug": "cam-pha",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "196",
+      "name": "Uông Bí",
+      "name_with_type": "Thành phố Uông Bí",
+      "parent_code": "22",
+      "path": "Uông Bí, Quảng Ninh",
+      "path_with_type": "Thành phố Uông Bí, Tỉnh Quảng Ninh",
+      "slug": "uong-bi",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "198",
+      "name": "Bình Liêu",
+      "name_with_type": "Huyện Bình Liêu",
+      "parent_code": "22",
+      "path": "Bình Liêu, Quảng Ninh",
+      "path_with_type": "Huyện Bình Liêu, Tỉnh Quảng Ninh",
+      "slug": "binh-lieu",
+      "type": "huyen"
+   },
+   {
+      "code": "199",
+      "name": "Tiên Yên",
+      "name_with_type": "Huyện Tiên Yên",
+      "parent_code": "22",
+      "path": "Tiên Yên, Quảng Ninh",
+      "path_with_type": "Huyện Tiên Yên, Tỉnh Quảng Ninh",
+      "slug": "tien-yen",
+      "type": "huyen"
+   },
+   {
+      "code": "200",
+      "name": "Đầm Hà",
+      "name_with_type": "Huyện Đầm Hà",
+      "parent_code": "22",
+      "path": "Đầm Hà, Quảng Ninh",
+      "path_with_type": "Huyện Đầm Hà, Tỉnh Quảng Ninh",
+      "slug": "dam-ha",
+      "type": "huyen"
+   },
+   {
+      "code": "201",
+      "name": "Hải Hà",
+      "name_with_type": "Huyện Hải Hà",
+      "parent_code": "22",
+      "path": "Hải Hà, Quảng Ninh",
+      "path_with_type": "Huyện Hải Hà, Tỉnh Quảng Ninh",
+      "slug": "hai-ha",
+      "type": "huyen"
+   },
+   {
+      "code": "202",
+      "name": "Ba Chẽ",
+      "name_with_type": "Huyện Ba Chẽ",
+      "parent_code": "22",
+      "path": "Ba Chẽ, Quảng Ninh",
+      "path_with_type": "Huyện Ba Chẽ, Tỉnh Quảng Ninh",
+      "slug": "ba-che",
+      "type": "huyen"
+   },
+   {
+      "code": "203",
+      "name": "Vân Đồn",
+      "name_with_type": "Huyện Vân Đồn",
+      "parent_code": "22",
+      "path": "Vân Đồn, Quảng Ninh",
+      "path_with_type": "Huyện Vân Đồn, Tỉnh Quảng Ninh",
+      "slug": "van-don",
+      "type": "huyen"
+   },
+   {
+      "code": "204",
+      "name": "Hoành Bồ",
+      "name_with_type": "Huyện Hoành Bồ",
+      "parent_code": "22",
+      "path": "Hoành Bồ, Quảng Ninh",
+      "path_with_type": "Huyện Hoành Bồ, Tỉnh Quảng Ninh",
+      "slug": "hoanh-bo",
+      "type": "huyen"
+   },
+   {
+      "code": "205",
+      "name": "Đông Triều",
+      "name_with_type": "Thị xã Đông Triều",
+      "parent_code": "22",
+      "path": "Đông Triều, Quảng Ninh",
+      "path_with_type": "Thị xã Đông Triều, Tỉnh Quảng Ninh",
+      "slug": "dong-trieu",
+      "type": "thi-xa"
+   },
+   {
+      "code": "206",
+      "name": "Quảng Yên",
+      "name_with_type": "Thị xã Quảng Yên",
+      "parent_code": "22",
+      "path": "Quảng Yên, Quảng Ninh",
+      "path_with_type": "Thị xã Quảng Yên, Tỉnh Quảng Ninh",
+      "slug": "quang-yen",
+      "type": "thi-xa"
+   },
+   {
+      "code": "207",
+      "name": "Cô Tô",
+      "name_with_type": "Huyện Cô Tô",
+      "parent_code": "22",
+      "path": "Cô Tô, Quảng Ninh",
+      "path_with_type": "Huyện Cô Tô, Tỉnh Quảng Ninh",
+      "slug": "co-to",
+      "type": "huyen"
+   },
+   {
+      "code": "227",
+      "name": "Việt Trì",
+      "name_with_type": "Thành phố Việt Trì",
+      "parent_code": "25",
+      "path": "Việt Trì, Phú Thọ",
+      "path_with_type": "Thành phố Việt Trì, Tỉnh Phú Thọ",
+      "slug": "viet-tri",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "228",
+      "name": "Phú Thọ",
+      "name_with_type": "Thị xã Phú Thọ",
+      "parent_code": "25",
+      "path": "Phú Thọ, Phú Thọ",
+      "path_with_type": "Thị xã Phú Thọ, Tỉnh Phú Thọ",
+      "slug": "phu-tho",
+      "type": "thi-xa"
+   },
+   {
+      "code": "230",
+      "name": "Đoan Hùng",
+      "name_with_type": "Huyện Đoan Hùng",
+      "parent_code": "25",
+      "path": "Đoan Hùng, Phú Thọ",
+      "path_with_type": "Huyện Đoan Hùng, Tỉnh Phú Thọ",
+      "slug": "doan-hung",
+      "type": "huyen"
+   },
+   {
+      "code": "231",
+      "name": "Hạ Hoà",
+      "name_with_type": "Huyện Hạ Hoà",
+      "parent_code": "25",
+      "path": "Hạ Hoà, Phú Thọ",
+      "path_with_type": "Huyện Hạ Hoà, Tỉnh Phú Thọ",
+      "slug": "ha-hoa",
+      "type": "huyen"
+   },
+   {
+      "code": "232",
+      "name": "Thanh Ba",
+      "name_with_type": "Huyện Thanh Ba",
+      "parent_code": "25",
+      "path": "Thanh Ba, Phú Thọ",
+      "path_with_type": "Huyện Thanh Ba, Tỉnh Phú Thọ",
+      "slug": "thanh-ba",
+      "type": "huyen"
+   },
+   {
+      "code": "233",
+      "name": "Phù Ninh",
+      "name_with_type": "Huyện Phù Ninh",
+      "parent_code": "25",
+      "path": "Phù Ninh, Phú Thọ",
+      "path_with_type": "Huyện Phù Ninh, Tỉnh Phú Thọ",
+      "slug": "phu-ninh",
+      "type": "huyen"
+   },
+   {
+      "code": "234",
+      "name": "Yên Lập",
+      "name_with_type": "Huyện Yên Lập",
+      "parent_code": "25",
+      "path": "Yên Lập, Phú Thọ",
+      "path_with_type": "Huyện Yên Lập, Tỉnh Phú Thọ",
+      "slug": "yen-lap",
+      "type": "huyen"
+   },
+   {
+      "code": "235",
+      "name": "Cẩm Khê",
+      "name_with_type": "Huyện Cẩm Khê",
+      "parent_code": "25",
+      "path": "Cẩm Khê, Phú Thọ",
+      "path_with_type": "Huyện Cẩm Khê, Tỉnh Phú Thọ",
+      "slug": "cam-khe",
+      "type": "huyen"
+   },
+   {
+      "code": "236",
+      "name": "Tam Nông",
+      "name_with_type": "Huyện Tam Nông",
+      "parent_code": "25",
+      "path": "Tam Nông, Phú Thọ",
+      "path_with_type": "Huyện Tam Nông, Tỉnh Phú Thọ",
+      "slug": "tam-nong",
+      "type": "huyen"
+   },
+   {
+      "code": "237",
+      "name": "Lâm Thao",
+      "name_with_type": "Huyện Lâm Thao",
+      "parent_code": "25",
+      "path": "Lâm Thao, Phú Thọ",
+      "path_with_type": "Huyện Lâm Thao, Tỉnh Phú Thọ",
+      "slug": "lam-thao",
+      "type": "huyen"
+   },
+   {
+      "code": "238",
+      "name": "Thanh Sơn",
+      "name_with_type": "Huyện Thanh Sơn",
+      "parent_code": "25",
+      "path": "Thanh Sơn, Phú Thọ",
+      "path_with_type": "Huyện Thanh Sơn, Tỉnh Phú Thọ",
+      "slug": "thanh-son",
+      "type": "huyen"
+   },
+   {
+      "code": "239",
+      "name": "Thanh Thuỷ",
+      "name_with_type": "Huyện Thanh Thuỷ",
+      "parent_code": "25",
+      "path": "Thanh Thuỷ, Phú Thọ",
+      "path_with_type": "Huyện Thanh Thuỷ, Tỉnh Phú Thọ",
+      "slug": "thanh-thuy",
+      "type": "huyen"
+   },
+   {
+      "code": "240",
+      "name": "Tân Sơn",
+      "name_with_type": "Huyện Tân Sơn",
+      "parent_code": "25",
+      "path": "Tân Sơn, Phú Thọ",
+      "path_with_type": "Huyện Tân Sơn, Tỉnh Phú Thọ",
+      "slug": "tan-son",
+      "type": "huyen"
+   },
+   {
+      "code": "450",
+      "name": "Đồng Hới",
+      "name_with_type": "Thành Phố Đồng Hới",
+      "parent_code": "44",
+      "path": "Đồng Hới, Quảng Bình",
+      "path_with_type": "Thành Phố Đồng Hới, Tỉnh Quảng Bình",
+      "slug": "dong-hoi",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "452",
+      "name": "Minh Hóa",
+      "name_with_type": "Huyện Minh Hóa",
+      "parent_code": "44",
+      "path": "Minh Hóa, Quảng Bình",
+      "path_with_type": "Huyện Minh Hóa, Tỉnh Quảng Bình",
+      "slug": "minh-hoa",
+      "type": "huyen"
+   },
+   {
+      "code": "453",
+      "name": "Tuyên Hóa",
+      "name_with_type": "Huyện Tuyên Hóa",
+      "parent_code": "44",
+      "path": "Tuyên Hóa, Quảng Bình",
+      "path_with_type": "Huyện Tuyên Hóa, Tỉnh Quảng Bình",
+      "slug": "tuyen-hoa",
+      "type": "huyen"
+   },
+   {
+      "code": "454",
+      "name": "Quảng Trạch",
+      "name_with_type": "Huyện Quảng Trạch",
+      "parent_code": "44",
+      "path": "Quảng Trạch, Quảng Bình",
+      "path_with_type": "Huyện Quảng Trạch, Tỉnh Quảng Bình",
+      "slug": "quang-trach",
+      "type": "huyen"
+   },
+   {
+      "code": "455",
+      "name": "Bố Trạch",
+      "name_with_type": "Huyện Bố Trạch",
+      "parent_code": "44",
+      "path": "Bố Trạch, Quảng Bình",
+      "path_with_type": "Huyện Bố Trạch, Tỉnh Quảng Bình",
+      "slug": "bo-trach",
+      "type": "huyen"
+   },
+   {
+      "code": "456",
+      "name": "Quảng Ninh",
+      "name_with_type": "Huyện Quảng Ninh",
+      "parent_code": "44",
+      "path": "Quảng Ninh, Quảng Bình",
+      "path_with_type": "Huyện Quảng Ninh, Tỉnh Quảng Bình",
+      "slug": "quang-ninh",
+      "type": "huyen"
+   },
+   {
+      "code": "457",
+      "name": "Lệ Thủy",
+      "name_with_type": "Huyện Lệ Thủy",
+      "parent_code": "44",
+      "path": "Lệ Thủy, Quảng Bình",
+      "path_with_type": "Huyện Lệ Thủy, Tỉnh Quảng Bình",
+      "slug": "le-thuy",
+      "type": "huyen"
+   },
+   {
+      "code": "458",
+      "name": "Ba Đồn",
+      "name_with_type": "Thị xã Ba Đồn",
+      "parent_code": "44",
+      "path": "Ba Đồn, Quảng Bình",
+      "path_with_type": "Thị xã Ba Đồn, Tỉnh Quảng Bình",
+      "slug": "ba-don",
+      "type": "thi-xa"
+   },
+   {
+      "code": "760",
+      "name": "1",
+      "name_with_type": "Quận 1",
+      "parent_code": "79",
+      "path": "1, Hồ Chí Minh",
+      "path_with_type": "Quận 1, Thành phố Hồ Chí Minh",
+      "slug": "1",
+      "type": "quan"
+   },
+   {
+      "code": "761",
+      "name": "12",
+      "name_with_type": "Quận 12",
+      "parent_code": "79",
+      "path": "12, Hồ Chí Minh",
+      "path_with_type": "Quận 12, Thành phố Hồ Chí Minh",
+      "slug": "12",
+      "type": "quan"
+   },
+   {
+      "code": "762",
+      "name": "Thủ Đức",
+      "name_with_type": "Quận Thủ Đức",
+      "parent_code": "79",
+      "path": "Thủ Đức, Hồ Chí Minh",
+      "path_with_type": "Quận Thủ Đức, Thành phố Hồ Chí Minh",
+      "slug": "thu-duc",
+      "type": "quan"
+   },
+   {
+      "code": "763",
+      "name": "9",
+      "name_with_type": "Quận 9",
+      "parent_code": "79",
+      "path": "9, Hồ Chí Minh",
+      "path_with_type": "Quận 9, Thành phố Hồ Chí Minh",
+      "slug": "9",
+      "type": "quan"
+   },
+   {
+      "code": "764",
+      "name": "Gò Vấp",
+      "name_with_type": "Quận Gò Vấp",
+      "parent_code": "79",
+      "path": "Gò Vấp, Hồ Chí Minh",
+      "path_with_type": "Quận Gò Vấp, Thành phố Hồ Chí Minh",
+      "slug": "go-vap",
+      "type": "quan"
+   },
+   {
+      "code": "765",
+      "name": "Bình Thạnh",
+      "name_with_type": "Quận Bình Thạnh",
+      "parent_code": "79",
+      "path": "Bình Thạnh, Hồ Chí Minh",
+      "path_with_type": "Quận Bình Thạnh, Thành phố Hồ Chí Minh",
+      "slug": "binh-thanh",
+      "type": "quan"
+   },
+   {
+      "code": "766",
+      "name": "Tân Bình",
+      "name_with_type": "Quận Tân Bình",
+      "parent_code": "79",
+      "path": "Tân Bình, Hồ Chí Minh",
+      "path_with_type": "Quận Tân Bình, Thành phố Hồ Chí Minh",
+      "slug": "tan-binh",
+      "type": "quan"
+   },
+   {
+      "code": "767",
+      "name": "Tân Phú",
+      "name_with_type": "Quận Tân Phú",
+      "parent_code": "79",
+      "path": "Tân Phú, Hồ Chí Minh",
+      "path_with_type": "Quận Tân Phú, Thành phố Hồ Chí Minh",
+      "slug": "tan-phu",
+      "type": "quan"
+   },
+   {
+      "code": "768",
+      "name": "Phú Nhuận",
+      "name_with_type": "Quận Phú Nhuận",
+      "parent_code": "79",
+      "path": "Phú Nhuận, Hồ Chí Minh",
+      "path_with_type": "Quận Phú Nhuận, Thành phố Hồ Chí Minh",
+      "slug": "phu-nhuan",
+      "type": "quan"
+   },
+   {
+      "code": "769",
+      "name": "2",
+      "name_with_type": "Quận 2",
+      "parent_code": "79",
+      "path": "2, Hồ Chí Minh",
+      "path_with_type": "Quận 2, Thành phố Hồ Chí Minh",
+      "slug": "2",
+      "type": "quan"
+   },
+   {
+      "code": "770",
+      "name": "3",
+      "name_with_type": "Quận 3",
+      "parent_code": "79",
+      "path": "3, Hồ Chí Minh",
+      "path_with_type": "Quận 3, Thành phố Hồ Chí Minh",
+      "slug": "3",
+      "type": "quan"
+   },
+   {
+      "code": "771",
+      "name": "10",
+      "name_with_type": "Quận 10",
+      "parent_code": "79",
+      "path": "10, Hồ Chí Minh",
+      "path_with_type": "Quận 10, Thành phố Hồ Chí Minh",
+      "slug": "10",
+      "type": "quan"
+   },
+   {
+      "code": "772",
+      "name": "11",
+      "name_with_type": "Quận 11",
+      "parent_code": "79",
+      "path": "11, Hồ Chí Minh",
+      "path_with_type": "Quận 11, Thành phố Hồ Chí Minh",
+      "slug": "11",
+      "type": "quan"
+   },
+   {
+      "code": "773",
+      "name": "4",
+      "name_with_type": "Quận 4",
+      "parent_code": "79",
+      "path": "4, Hồ Chí Minh",
+      "path_with_type": "Quận 4, Thành phố Hồ Chí Minh",
+      "slug": "4",
+      "type": "quan"
+   },
+   {
+      "code": "774",
+      "name": "5",
+      "name_with_type": "Quận 5",
+      "parent_code": "79",
+      "path": "5, Hồ Chí Minh",
+      "path_with_type": "Quận 5, Thành phố Hồ Chí Minh",
+      "slug": "5",
+      "type": "quan"
+   },
+   {
+      "code": "775",
+      "name": "6",
+      "name_with_type": "Quận 6",
+      "parent_code": "79",
+      "path": "6, Hồ Chí Minh",
+      "path_with_type": "Quận 6, Thành phố Hồ Chí Minh",
+      "slug": "6",
+      "type": "quan"
+   },
+   {
+      "code": "776",
+      "name": "8",
+      "name_with_type": "Quận 8",
+      "parent_code": "79",
+      "path": "8, Hồ Chí Minh",
+      "path_with_type": "Quận 8, Thành phố Hồ Chí Minh",
+      "slug": "8",
+      "type": "quan"
+   },
+   {
+      "code": "777",
+      "name": "Bình Tân",
+      "name_with_type": "Quận Bình Tân",
+      "parent_code": "79",
+      "path": "Bình Tân, Hồ Chí Minh",
+      "path_with_type": "Quận Bình Tân, Thành phố Hồ Chí Minh",
+      "slug": "binh-tan",
+      "type": "quan"
+   },
+   {
+      "code": "778",
+      "name": "7",
+      "name_with_type": "Quận 7",
+      "parent_code": "79",
+      "path": "7, Hồ Chí Minh",
+      "path_with_type": "Quận 7, Thành phố Hồ Chí Minh",
+      "slug": "7",
+      "type": "quan"
+   },
+   {
+      "code": "783",
+      "name": "Củ Chi",
+      "name_with_type": "Huyện Củ Chi",
+      "parent_code": "79",
+      "path": "Củ Chi, Hồ Chí Minh",
+      "path_with_type": "Huyện Củ Chi, Thành phố Hồ Chí Minh",
+      "slug": "cu-chi",
+      "type": "huyen"
+   },
+   {
+      "code": "784",
+      "name": "Hóc Môn",
+      "name_with_type": "Huyện Hóc Môn",
+      "parent_code": "79",
+      "path": "Hóc Môn, Hồ Chí Minh",
+      "path_with_type": "Huyện Hóc Môn, Thành phố Hồ Chí Minh",
+      "slug": "hoc-mon",
+      "type": "huyen"
+   },
+   {
+      "code": "785",
+      "name": "Bình Chánh",
+      "name_with_type": "Huyện Bình Chánh",
+      "parent_code": "79",
+      "path": "Bình Chánh, Hồ Chí Minh",
+      "path_with_type": "Huyện Bình Chánh, Thành phố Hồ Chí Minh",
+      "slug": "binh-chanh",
+      "type": "huyen"
+   },
+   {
+      "code": "786",
+      "name": "Nhà Bè",
+      "name_with_type": "Huyện Nhà Bè",
+      "parent_code": "79",
+      "path": "Nhà Bè, Hồ Chí Minh",
+      "path_with_type": "Huyện Nhà Bè, Thành phố Hồ Chí Minh",
+      "slug": "nha-be",
+      "type": "huyen"
+   },
+   {
+      "code": "787",
+      "name": "Cần Giờ",
+      "name_with_type": "Huyện Cần Giờ",
+      "parent_code": "79",
+      "path": "Cần Giờ, Hồ Chí Minh",
+      "path_with_type": "Huyện Cần Giờ, Thành phố Hồ Chí Minh",
+      "slug": "can-gio",
+      "type": "huyen"
+   },
+   {
+      "code": "347",
+      "name": "Phủ Lý",
+      "name_with_type": "Thành phố Phủ Lý",
+      "parent_code": "35",
+      "path": "Phủ Lý, Hà Nam",
+      "path_with_type": "Thành phố Phủ Lý, Tỉnh Hà Nam",
+      "slug": "phu-ly",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "349",
+      "name": "Duy Tiên",
+      "name_with_type": "Huyện Duy Tiên",
+      "parent_code": "35",
+      "path": "Duy Tiên, Hà Nam",
+      "path_with_type": "Huyện Duy Tiên, Tỉnh Hà Nam",
+      "slug": "duy-tien",
+      "type": "huyen"
+   },
+   {
+      "code": "350",
+      "name": "Kim Bảng",
+      "name_with_type": "Huyện Kim Bảng",
+      "parent_code": "35",
+      "path": "Kim Bảng, Hà Nam",
+      "path_with_type": "Huyện Kim Bảng, Tỉnh Hà Nam",
+      "slug": "kim-bang",
+      "type": "huyen"
+   },
+   {
+      "code": "351",
+      "name": "Thanh Liêm",
+      "name_with_type": "Huyện Thanh Liêm",
+      "parent_code": "35",
+      "path": "Thanh Liêm, Hà Nam",
+      "path_with_type": "Huyện Thanh Liêm, Tỉnh Hà Nam",
+      "slug": "thanh-liem",
+      "type": "huyen"
+   },
+   {
+      "code": "352",
+      "name": "Bình Lục",
+      "name_with_type": "Huyện Bình Lục",
+      "parent_code": "35",
+      "path": "Bình Lục, Hà Nam",
+      "path_with_type": "Huyện Bình Lục, Tỉnh Hà Nam",
+      "slug": "binh-luc",
+      "type": "huyen"
+   },
+   {
+      "code": "353",
+      "name": "Lý Nhân",
+      "name_with_type": "Huyện Lý Nhân",
+      "parent_code": "35",
+      "path": "Lý Nhân, Hà Nam",
+      "path_with_type": "Huyện Lý Nhân, Tỉnh Hà Nam",
+      "slug": "ly-nhan",
+      "type": "huyen"
+   },
+   {
+      "code": "256",
+      "name": "Bắc Ninh",
+      "name_with_type": "Thành phố Bắc Ninh",
+      "parent_code": "27",
+      "path": "Bắc Ninh, Bắc Ninh",
+      "path_with_type": "Thành phố Bắc Ninh, Tỉnh Bắc Ninh",
+      "slug": "bac-ninh",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "258",
+      "name": "Yên Phong",
+      "name_with_type": "Huyện Yên Phong",
+      "parent_code": "27",
+      "path": "Yên Phong, Bắc Ninh",
+      "path_with_type": "Huyện Yên Phong, Tỉnh Bắc Ninh",
+      "slug": "yen-phong",
+      "type": "huyen"
+   },
+   {
+      "code": "259",
+      "name": "Quế Võ",
+      "name_with_type": "Huyện Quế Võ",
+      "parent_code": "27",
+      "path": "Quế Võ, Bắc Ninh",
+      "path_with_type": "Huyện Quế Võ, Tỉnh Bắc Ninh",
+      "slug": "que-vo",
+      "type": "huyen"
+   },
+   {
+      "code": "260",
+      "name": "Tiên Du",
+      "name_with_type": "Huyện Tiên Du",
+      "parent_code": "27",
+      "path": "Tiên Du, Bắc Ninh",
+      "path_with_type": "Huyện Tiên Du, Tỉnh Bắc Ninh",
+      "slug": "tien-du",
+      "type": "huyen"
+   },
+   {
+      "code": "261",
+      "name": "Từ Sơn",
+      "name_with_type": "Thị xã Từ Sơn",
+      "parent_code": "27",
+      "path": "Từ Sơn, Bắc Ninh",
+      "path_with_type": "Thị xã Từ Sơn, Tỉnh Bắc Ninh",
+      "slug": "tu-son",
+      "type": "thi-xa"
+   },
+   {
+      "code": "262",
+      "name": "Thuận Thành",
+      "name_with_type": "Huyện Thuận Thành",
+      "parent_code": "27",
+      "path": "Thuận Thành, Bắc Ninh",
+      "path_with_type": "Huyện Thuận Thành, Tỉnh Bắc Ninh",
+      "slug": "thuan-thanh",
+      "type": "huyen"
+   },
+   {
+      "code": "263",
+      "name": "Gia Bình",
+      "name_with_type": "Huyện Gia Bình",
+      "parent_code": "27",
+      "path": "Gia Bình, Bắc Ninh",
+      "path_with_type": "Huyện Gia Bình, Tỉnh Bắc Ninh",
+      "slug": "gia-binh",
+      "type": "huyen"
+   },
+   {
+      "code": "264",
+      "name": "Lương Tài",
+      "name_with_type": "Huyện Lương Tài",
+      "parent_code": "27",
+      "path": "Lương Tài, Bắc Ninh",
+      "path_with_type": "Huyện Lương Tài, Tỉnh Bắc Ninh",
+      "slug": "luong-tai",
+      "type": "huyen"
+   },
+   {
+      "code": "213",
+      "name": "Bắc Giang",
+      "name_with_type": "Thành phố Bắc Giang",
+      "parent_code": "24",
+      "path": "Bắc Giang, Bắc Giang",
+      "path_with_type": "Thành phố Bắc Giang, Tỉnh Bắc Giang",
+      "slug": "bac-giang",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "215",
+      "name": "Yên Thế",
+      "name_with_type": "Huyện Yên Thế",
+      "parent_code": "24",
+      "path": "Yên Thế, Bắc Giang",
+      "path_with_type": "Huyện Yên Thế, Tỉnh Bắc Giang",
+      "slug": "yen-the",
+      "type": "huyen"
+   },
+   {
+      "code": "216",
+      "name": "Tân Yên",
+      "name_with_type": "Huyện Tân Yên",
+      "parent_code": "24",
+      "path": "Tân Yên, Bắc Giang",
+      "path_with_type": "Huyện Tân Yên, Tỉnh Bắc Giang",
+      "slug": "tan-yen",
+      "type": "huyen"
+   },
+   {
+      "code": "217",
+      "name": "Lạng Giang",
+      "name_with_type": "Huyện Lạng Giang",
+      "parent_code": "24",
+      "path": "Lạng Giang, Bắc Giang",
+      "path_with_type": "Huyện Lạng Giang, Tỉnh Bắc Giang",
+      "slug": "lang-giang",
+      "type": "huyen"
+   },
+   {
+      "code": "218",
+      "name": "Lục Nam",
+      "name_with_type": "Huyện Lục Nam",
+      "parent_code": "24",
+      "path": "Lục Nam, Bắc Giang",
+      "path_with_type": "Huyện Lục Nam, Tỉnh Bắc Giang",
+      "slug": "luc-nam",
+      "type": "huyen"
+   },
+   {
+      "code": "219",
+      "name": "Lục Ngạn",
+      "name_with_type": "Huyện Lục Ngạn",
+      "parent_code": "24",
+      "path": "Lục Ngạn, Bắc Giang",
+      "path_with_type": "Huyện Lục Ngạn, Tỉnh Bắc Giang",
+      "slug": "luc-ngan",
+      "type": "huyen"
+   },
+   {
+      "code": "220",
+      "name": "Sơn Động",
+      "name_with_type": "Huyện Sơn Động",
+      "parent_code": "24",
+      "path": "Sơn Động, Bắc Giang",
+      "path_with_type": "Huyện Sơn Động, Tỉnh Bắc Giang",
+      "slug": "son-dong",
+      "type": "huyen"
+   },
+   {
+      "code": "221",
+      "name": "Yên Dũng",
+      "name_with_type": "Huyện Yên Dũng",
+      "parent_code": "24",
+      "path": "Yên Dũng, Bắc Giang",
+      "path_with_type": "Huyện Yên Dũng, Tỉnh Bắc Giang",
+      "slug": "yen-dung",
+      "type": "huyen"
+   },
+   {
+      "code": "222",
+      "name": "Việt Yên",
+      "name_with_type": "Huyện Việt Yên",
+      "parent_code": "24",
+      "path": "Việt Yên, Bắc Giang",
+      "path_with_type": "Huyện Việt Yên, Tỉnh Bắc Giang",
+      "slug": "viet-yen",
+      "type": "huyen"
+   },
+   {
+      "code": "223",
+      "name": "Hiệp Hòa",
+      "name_with_type": "Huyện Hiệp Hòa",
+      "parent_code": "24",
+      "path": "Hiệp Hòa, Bắc Giang",
+      "path_with_type": "Huyện Hiệp Hòa, Tỉnh Bắc Giang",
+      "slug": "hiep-hoa",
+      "type": "huyen"
+   },
+   {
+      "code": "058",
+      "name": "Bắc Kạn",
+      "name_with_type": "Thành Phố Bắc Kạn",
+      "parent_code": "06",
+      "path": "Bắc Kạn, Bắc Kạn",
+      "path_with_type": "Thành Phố Bắc Kạn, Tỉnh Bắc Kạn",
+      "slug": "bac-kan",
+      "type": "thanh-pho"
+   },
+   {
+      "code": "060",
+      "name": "Pác Nặm",
+      "name_with_type": "Huyện Pác Nặm",
+      "parent_code": "06",
+      "path": "Pác Nặm, Bắc Kạn",
+      "path_with_type": "Huyện Pác Nặm, Tỉnh Bắc Kạn",
+      "slug": "pac-nam",
+      "type": "huyen"
+   },
+   {
+      "code": "061",
+      "name": "Ba Bể",
+      "name_with_type": "Huyện Ba Bể",
+      "parent_code": "06",
+      "path": "Ba Bể, Bắc Kạn",
+      "path_with_type": "Huyện Ba Bể, Tỉnh Bắc Kạn",
+      "slug": "ba-be",
+      "type": "huyen"
+   },
+   {
+      "code": "062",
+      "name": "Ngân Sơn",
+      "name_with_type": "Huyện Ngân Sơn",
+      "parent_code": "06",
+      "path": "Ngân Sơn, Bắc Kạn",
+      "path_with_type": "Huyện Ngân Sơn, Tỉnh Bắc Kạn",
+      "slug": "ngan-son",
+      "type": "huyen"
+   },
+   {
+      "code": "063",
+      "name": "Bạch Thông",
+      "name_with_type": "Huyện Bạch Thông",
+      "parent_code": "06",
+      "path": "Bạch Thông, Bắc Kạn",
+      "path_with_type": "Huyện Bạch Thông, Tỉnh Bắc Kạn",
+      "slug": "bach-thong",
+      "type": "huyen"
+   },
+   {
+      "code": "064",
+      "name": "Chợ Đồn",
+      "name_with_type": "Huyện Chợ Đồn",
+      "parent_code": "06",
+      "path": "Chợ Đồn, Bắc Kạn",
+      "path_with_type": "Huyện Chợ Đồn, Tỉnh Bắc Kạn",
+      "slug": "cho-don",
+      "type": "huyen"
+   },
+   {
+      "code": "065",
+      "name": "Chợ Mới",
+      "name_with_type": "Huyện Chợ Mới",
+      "parent_code": "06",
+      "path": "Chợ Mới, Bắc Kạn",
+      "path_with_type": "Huyện Chợ Mới, Tỉnh Bắc Kạn",
+      "slug": "cho-moi",
+      "type": "huyen"
+   },
+   {
+      "code": "066",
+      "name": "Na Rì",
+      "name_with_type": "Huyện Na Rì",
+      "parent_code": "06",
+      "path": "Na Rì, Bắc Kạn",
+      "path_with_type": "Huyện Na Rì, Tỉnh Bắc Kạn",
+      "slug": "na-ri",
+      "type": "huyen"
+   }
+]
