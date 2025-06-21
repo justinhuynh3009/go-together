@@ -15,6 +15,6 @@ class OrderItem extends Model
 
     public function product()
     {
-        return $this->hasOne(MenuItem::class, 'menu_item_id');
+        return $this->hasOne(MenuItem::class, 'id', 'menu_item_id');
     }
 }

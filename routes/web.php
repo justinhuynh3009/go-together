@@ -10,12 +10,13 @@ use App\Http\Controllers\OrderController as AdminOrderController;
 
 Route::get('/', [DashboardController::class, 'index'])->middleware(['auth', 'verified'])->name('dashboard');
 
-Route::get('/orders/customer', [OrderController::class, 'index'])->name('orders.index');
+Route::get('/orders/customers/{customer:uuid}', [OrderController::class, 'index'])->name('orders.index');
 Route::post('/orders', [OrderController::class, 'store'])->name('orders.store');
-Route::get('/orders/success', [OrderController::class, 'success'])->name('orders.success');
+Route::get('/orders/success/{customer_uuid}', [OrderController::class, 'success'])->name('orders.success');
 
 Route::middleware(['auth', 'verified'])->group(function () {
     Route::get('/customers', [CustomerController::class, 'index'])->name('customers.index');
+    Route::post('/customers', [CustomerController::class, 'store'])->name('customers.store');
 
     Route::get('/menus/categories', [MenuController::class, 'index'])->name('menu-categories.index');
     Route::post('/menu-categories', [MenuController::class, 'store'])->name('menu-categories.store');

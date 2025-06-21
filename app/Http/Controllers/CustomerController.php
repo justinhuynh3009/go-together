@@ -2,22 +2,33 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\Customer;
+use Illuminate\Http\Request;
+
 class CustomerController extends Controller
 {
     public function index()
     {
-        return inertia('Customer/List');
+        $customers = Customer::orderBy('id')->get();
+
+        return inertia('Customer/List', [
+            'customers' => $customers,
+        ]);
     }
 
-    public function create()
+    public function store(Request $request)
     {
-        // return inertia('Customer/Create');
-    }
+        $validated = $request->validate([
+            'name' => 'required|string|max:255',
+        ]);
 
-    public function edit($id)
-    {
-        // return inertia('Customer/Edit', [
-        //     'customerId' => $id,
-        // ]);
+        if ($request->has('id')) {
+            $customer = Customer::findOrFail($request->id);
+            $customer->update($validated);
+        } else {
+            Customer::create($validated);
+        }
+
+        return redirect()->back();
     }
 }

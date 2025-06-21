@@ -1,16 +1,6 @@
 import { PageProps } from '@/types';
-import { router } from '@inertiajs/react';
-import {
-    Button,
-    Card,
-    Col,
-    Flex,
-    Layout,
-    Row,
-    Space,
-    Typography,
-    message,
-} from 'antd';
+import { Head, router } from '@inertiajs/react';
+import { Button, Card, Col, Flex, Layout, Row, Space, Typography } from 'antd';
 import React, { useEffect, useRef, useState } from 'react';
 
 const { Header, Content } = Layout;
@@ -81,6 +71,7 @@ interface Product {
 
 interface Props extends PageProps {
     products: Product[];
+    customer_uuid: string;
 }
 
 interface CartItem {
@@ -95,14 +86,17 @@ const VNDong = new Intl.NumberFormat('vi', {
     currency: 'VND',
 });
 
-export default function OrderPage({ products }: Props) {
+export default function OrderPage({ products, customer_uuid }: Props) {
     const [carts, setCart] = useState<CartItem[]>([]);
     const [showCart, setShowCart] = useState(false);
     const cartModalRef = useRef<HTMLDivElement>(null);
     const [isSubmitting, setIsSubmitting] = useState(false);
+    const [customerUuid, setCustomerUuid] = useState('');
 
     // Add this effect to handle outside clicks
     useEffect(() => {
+        setCustomerUuid(customer_uuid);
+
         const handleClickOutside = (event: MouseEvent) => {
             if (
                 cartModalRef.current &&
@@ -146,9 +140,10 @@ export default function OrderPage({ products }: Props) {
             );
         });
 
+        formData.append('customer_uuid', customerUuid);
+
         router.post(route('orders.store'), formData, {
             onSuccess: () => {
-                message.success('Order placed successfully');
                 setCart([]);
             },
             onError: (errors) => {
@@ -199,6 +194,8 @@ export default function OrderPage({ products }: Props) {
 
     return (
         <Flex gap="middle" wrap justify="center" align="center">
+            <Head title="Guest Order" />
+
             <Layout style={layoutStyle}>
                 <Header style={headerStyle}></Header>
                 <Content style={contentStyle}>
