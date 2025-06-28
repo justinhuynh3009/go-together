@@ -47,8 +47,17 @@ const ProductCard = ({
     onQuantityChange,
 }: ProductCardProps) => {
     return (
-        <Card cover={<img alt="example" src={product.image_url} />}>
-            <Space direction="vertical" size={0}>
+        <Card
+            cover={
+                <img
+                    className="aspect-square h-full w-full object-cover"
+                    alt="example"
+                    src={product.image_url}
+                />
+            }
+            size="small"
+        >
+            <Space direction="vertical" size={0} className="min-h-[110px]">
                 <Title level={5}>{product.name}</Title>
                 <Text strong>Số lượng: {quantity}</Text>
 
